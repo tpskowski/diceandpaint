@@ -1,0 +1,34 @@
+---
+interface HeadingItem {
+  depth: number;
+  slug: string;
+  text: string;
+}
+
+interface Props {
+  title: string;
+  headings?: HeadingItem[];
+}
+
+const { title, headings = [] } = Astro.props;
+const items = [
+  { depth: 1, slug: "page-title", text: title },
+  ...headings.filter((heading) => heading.depth >= 1 && heading.depth <= 2),
+];
+
+if (!items.length) {
+  return null;
+}
+---
+<aside class="page-toc" aria-label={title}>
+  <p class="page-toc__label">{title}</p>
+  <nav class="page-toc__nav">
+    <ol>
+      {items.map((item) => (
+        <li class={`page-toc__item page-toc__item--depth-${item.depth}`}>
+          <a href={`#${item.slug}`}>{item.text}</a>
+        </li>
+      ))}
+    </ol>
+  </nav>
+</aside>

@@ -1,0 +1,41 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import TableOfContents from "../../components/TableOfContents.astro";
+import { getCollection, render } from "astro:content";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("posts", ({ data }) => !data.draft);
+
+  return posts.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content, headings } = await render(entry);
+const formattedDate = entry.data.publishDate.toLocaleDateString("en-US", {
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+});
+---
+<BaseLayout title={`${entry.data.title} | Dice & Paint`} description={entry.data.summary}>
+  <main class="post-page">
+    <header class="post-page__header">
+      <p class="post-page__meta">{entry.data.category} <span aria-hidden="true">/</span> {formattedDate}</p>
+      <h1 id="page-title">{entry.data.title}</h1>
+    </header>
+    <section class="content-frame content-frame--post">
+      <TableOfContents title={entry.data.title} headings={headings} />
+      <div class="content-main">
+        {!entry.data.hideHero && (
+          <img class="post-page__hero" src={entry.data.thumbnail} alt={entry.data.thumbnailAlt} loading="eager" decoding="async" />
+        )}
+        <article class="page-shell">
+          <Content />
+        </article>
+      </div>
+    </section>
+  </main>
+</BaseLayout>

@@ -1,0 +1,56 @@
+---
+import { primaryNav } from "../data/navigation";
+
+interface Props {
+  mode?: "sticky" | "overlay";
+}
+
+const { mode = "sticky" } = Astro.props;
+---
+<header class:list={["site-header", mode === "overlay" && "site-header--overlay"]}>
+  <a class="site-header__brand" href="/">Dice & Paint</a>
+  <nav class="site-nav" aria-label="Primary" data-nav-root>
+    {primaryNav.map((group) => (
+      group.items ? (
+        <details class="site-nav__group">
+          <summary>{group.label}</summary>
+          <div class="site-nav__panel">
+            <ul>
+              {group.items.map((item) => (
+                <li>
+                  <a href={item.href} target={item.external ? "_blank" : undefined} rel={item.external ? "noreferrer" : undefined}>
+                    {item.label}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </details>
+      ) : (
+        <a class="site-nav__link" href={group.href}>{group.label}</a>
+      )
+    ))}
+  </nav>
+</header>
+
+<script>
+  const nav = document.querySelector("[data-nav-root]");
+
+  if (nav) {
+    const groups = Array.from(nav.querySelectorAll(".site-nav__group"));
+
+    for (const group of groups) {
+      group.addEventListener("toggle", () => {
+        if (!(group instanceof HTMLDetailsElement) || !group.open) {
+          return;
+        }
+
+        for (const other of groups) {
+          if (other !== group && other instanceof HTMLDetailsElement) {
+            other.open = false;
+          }
+        }
+      });
+    }
+  }
+</script>

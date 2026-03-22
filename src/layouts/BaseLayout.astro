@@ -1,0 +1,36 @@
+---
+import SiteHeader from "../components/SiteHeader.astro";
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description: string;
+  pageClass?: string;
+  headerMode?: "sticky" | "overlay";
+}
+
+const { title, description, pageClass = "", headerMode = "sticky" } = Astro.props;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+  </head>
+  <body class={pageClass}>
+    <SiteHeader mode={headerMode} />
+    <slot />
+    <footer class="site-footer">
+      <p>
+        Text is licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer">CC BY 4.0</a>.
+        Images and other media remain the property of their respective copyright holders unless otherwise noted.
+        <a href="/unlisted/licensing/">Licensing details</a>
+      </p>
+    </footer>
+    <script>
+      import "../scripts/faro";
+    </script>
+  </body>
+</html>
