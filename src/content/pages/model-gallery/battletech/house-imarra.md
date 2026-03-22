@@ -37,10 +37,6 @@ I plan to expand them with some Fa Shih Battle Armour, a common Liao mark Imarra
 
 ![](/pages/battletech/house-imarra/d70e110b5996.webp)
 
-[Previous
-
-Previous
-
-## 15th Marik Militia](/model-gallery/battletech/15th-marik-militia-free-worlds-league-c-3007)
+Previous: [15th Marik Militia](/model-gallery/battletech/15th-marik-militia-free-worlds-league-c-3007/)
 
 

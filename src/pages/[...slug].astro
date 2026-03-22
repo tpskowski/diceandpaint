@@ -4,10 +4,12 @@ import { getCollection, render } from "astro:content";
 
 export async function getStaticPaths() {
   const pages = await getCollection("pages");
+  const getPageSlug = (entry: (typeof pages)[number]) =>
+    (entry.data.route ?? entry.id).replace(/\/index$/, "");
 
   return pages.map((entry) => ({
     params: {
-      slug: entry.id.replace(/\/index$/, ""),
+      slug: getPageSlug(entry),
     },
     props: {
       entry,

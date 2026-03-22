@@ -39,10 +39,6 @@ Fighting Pirannha Graphics doesn't make transfers for the 3rd so they have the R
 
 ![](/pages/battletech/3rd-royal-guards/b0d4a8bc765a.webp)
 
-[Next
-
-Next
-
-## 10th Skye Rangers](/model-gallery/battletech/10th-skye-rangers)
+Next: [10th Skye Rangers](/model-gallery/battletech/10th-skye-rangers/)
 
 

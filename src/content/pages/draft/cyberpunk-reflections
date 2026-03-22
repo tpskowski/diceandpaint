@@ -1,0 +1,67 @@
+
+Reflections on a 4-Year Cyberpunk FATE Campaign
+Sep 5
+
+Back in 2021 a friend reached out and asked if I wanted to guest-star in a one-shot RPG he was running. Based on the title of this post I think you can guess how that went.
+
+He and the players were playing in-person but he wanted to dial me in to play the first character I’d use this campaign, Stukov Flatiron. Stukov was a fixed, he’d once been a big shot in New York but after a few too many jobs went wrong he went into soft-retirement in Philadelphia. 
+
+I never intended to play him long term, so when the GM reached out to say the one-shot wasn’t going to be a one-shot, and would be moving mostly online I decided to retire that character to an NPC role and make a new one. But let’s back up a bit to talk about what this campaign looked like.
+
+Starting with a one-shot our GM created a pretty massive campaign. Nearly 20 people participated in this campaign which functioned as an open table. Every other month or so he’d poll us on how much we wanted to play and what timing blocks were good. Sorted into parties we’d advance the broader plot. The game was set in the world of capital-c Cyberpunk. Set more or less concurrently with the video game we were far from Night City operating out of Philadelphia at first, but expanding out from there. The core of the campaign was set up in the first mission I guest starred in. The first two player characters Sidejawn and Jabroni were hired by an AI to break it out of a corporate office. 
+
+I don’t want to spend too much time on the game’s plot, but the basic beats revolved around reuniting this AI with other parts of itself. It had been shattered by a computer weapon created by a group of corporations aiming to tame pre-DataKrash AIs. I thought this was a great structure, it set up some big campaign arcs that felt like the story really did have a beginning, middle, and end. I know this involved a lot of planning on the GM’s part, but I think it paid off in the end. This didn’t feel like a series of disjointed adventures, but a story we participated in. This wasn’t all upside, more on that below but there were a lot of good aspects to having this unifying plot.
+
+So I’m now going to break down different parts of the campaign and my thoughts on how they worked. Going forward I’m going to refer to cyberpunk for the genre, and Cyberpunk for the specific IP from R Talsorian Games.
+FATE as a System and Cyberpunk Home-brew
+
+This was my first time playing FATE and I think I can now say I know it pretty well, despite only skimming the rules 4 years ago. I think FATE has some very good points. It’s very light weight, and mostly gets out of the way when you’re playing. And I really like that, I don’t like crunchy systems and having this many players also I think worked better when the system is on the lighter end.
+
+Now, for FATE our GM home-brewed rules for a few things, and this I think had a few more issues. I’ll break it down into a few categories.
+Home-brew Cybernetics
+
+The system for cybernetics was pretty loose. Players would buy gear and it would improve their stats, or add a new ability. This ended up causing a lot of balance issues for the campaign. The aforementioned Sidejawn due to cybernetics and other abilities was effectively invulnerable in combat. This creates some big balance issues as you can imagine. There was talk of cyberpsychosis rules, and there were some downsides to installing major cybernetics, but they never really had much impact.
+
+All of this combined to just have some bad balance impacts on the game. This was exacerbated by the fact that player participation varied a lot. Some people player a lot, some rarely, and with rewards being tied to going on missions this resulted in some power gaps. Those gaps were expanded by varying player engagement on advancing their characters.
+Home-brew Netrunning
+
+The GM created a system for netrunning whereby a character who decided they were a netrunner would designate a primary netrunning skill. Then when hacking into systems they'd use this Primary netrunning Skill. I think this had some pretty big issues. The first is that netrunners were literally just better than other player characters. There was no downside to this. They tended to not be combat monsters, but that was mostly by choice. You could have had a high Lore as your primary netrunning skill while also having a good Shoot and Athletics. This kind of plays into a common issue in cyberpunk RPG systems, including Cyberpunk - cutting off most players from part of the game isn't good. I'm much more a fan of systems where anyone can hack a computer. Sure some players are going to be better at it, but that's fine. More recent cyberpunk game systems like Metro: Otherscape or Hard Wired Island move away from this structure. In the case of Otherscape anyone can be a hacker, Hardwired Island keeps the skill more separated but avoids hacking as a separate mini-game from other parts of the game.
+
+Now, all of the above comes off pretty negative, and I think at the end of the day this wasn't a big issue. I'd not use netrunners as a separate “class” in FATE, but it worked. I think FATE is flexible enough that you just say someone is a netrunner and then use the standard FATE resolution mechanics within that context.
+FATE as a System
+
+This post is not a FATE review, and it does enough stuff right that I don't want to be too harsh. But I think I have a core, un-fixable problem with FATE. FATE really wants to be a tag-based game. You create aspects for your character, your campaign, your scene, injuries. And most of those don't get used.
+
+My core beef with FATE is that you can describe a scene as RAIN-SLICKED STREETS, FLICKERING LIGHTS, and GARBAGE DAY, and those all have mechanical meaning, which I love. Melding flavor and mechanics is my north star for RPG design. But the mechanics bit falls flat on its face because you usually can only invoke those with a FATE point. And you might have 3-5 FATE points in an adventure. So if you have 5 scenes each with 3 aspects, and you have your personal aspects, and you have your enemy aspects, most of them end up being just flavor, not mechanics.
+
+This has a sort of weird inverse in that if you want to spend a FATE point you need an aspect to invoke. And this is supposed to be a limitation, but because there are so many aspects it really isn't. Across four years the number of times I wanted to spend a FATE point but felt like I couldn't are countable on a single hand. In most of those cases I probably could have, just didn't feel like trying to make a case for a specific tag, or decided the roll wasn't important enough. This leads to another issue I have, you really only fail a roll in FATE when you're out of FATE points or don't want to spend them. And I think that kind of stinks. If I were rewriting FATE from the ground up I'd at least add in a rule that if you roll quadruple negative (the worst role) you can't invoke aspects, you've gotta keep that.
+
+Now at this point I'll fess up, I lied to you dear reader. I have two core beefs with FATE. The other one comes down to math and combat. In combat you are greatly rewarded for one big roll, rather than two medium roles. Characters in FATE have stress boxes, if you deal 2 stress to someone you fill up their 2 stress box. They can also take consequences which overflow from the stress. This means that typically you'll chip away at someone's stress boxes and consequences and can eventually take them out. However if you get a big enough number in one attack to fill their highest stress box and highest consequence, and have 1 damage left over, well they're just dead. And FATE allows you to stack some pretty big modifiers, you can skip an attack to create an advantage, this is often not worth it math-wise, but can allow a single player to create one big attack taking out a boss in one shot. And that happened very frequently in this campaign. I don't want my RPG bosses to be bullet sponges, but having a system that rewarded incremental damage would be good.
+
+Now, I can be pretty negative so let me talk about the things I liked about FATE. First an foremost among them are challenges. In a challenge the GM sets a target number and gives the players a number of actions to take. I like these because they're a very free-form way to advance the plot and can be used to replace combat, or just have a complicated plan reduced to a handful of rolls. They're also a nice way to allow players to be creative with their skills. Use Burglary to forge IDs, use Contacts to know someone on the inside who leaves a door unlocked, that kind of thing.
+
+At the end of the day my thoughts on FATE are that it's fine. I think you could take the core of the game and really tighten some things up (I've not complained about a lot of other smaller issues here) and have something pretty great. As things stand I'm not going to avoid FATE games but have no desire to run them myself.
+The Campaign Structure
+
+Our GM poured a lot of time and effort into the campaign. Broadly speaking it was broken up into acts and we scheduled for games within that context. The GM would ask players how much they wanted to play over the next couple months, and put people into games. As a player this worked pretty well, for the GM, well, it was a shitload of work. I think if doing a similar campaign I’d use another scheduling system, I don’t think I’d go full West Marches with player-driven scheduling, but I’d not want to schedule dozens and dozens of one-off sessions. But again, as a player it worked pretty well and it allowed for a mix of very engaged and less engaged players.
+
+The campaign’s story revolved around conflict between and over AIs. In addition to the core plot beats which revolved around an AI that started the campaign as St. George I think the other strong through-line was the escalation in size, capability, and reach of the PC’s home-grown mercenary organization, Domino. Starting with a handful of members by the end of the campaign Domino became a major power as a PMC. I thought both parts of the story worked well and tied together as St George evolved and grew in power, so did Domino.
+
+Over the course of the years the player base shifted some. Several players had babies leading to their characters meeting violent ends. Some players join, some drifted away. I think this overall worked well, though something of an issue arose as players who played often were flush with cash, while those who played rarely were not. FATE advancements were not tied to missions so it wasn’t that more active players had more “XP”, however with the focus on cybernetics having cash meant having better stats, often far better. Toward the end of the campaign the GM started diving up Domino’s income to the players flattening out the money situation but this gave rise to, or really exposed another issue.
+Office Hours
+
+Throughout the campaign the GM ran Office Hours, a weekly Discord call where players could join to handle campaign related admin or just shoot the shit. And most of it was shooting the shit. Partly because of this, partly due to schedules, partly due to player engagement, and partly due to frequency; there were more office hours than sessions of the RPG, and everyone was invited to every office hours; office hours tended to have a core crowd, some people who showed up time to time, and some people who very rarely attended.
+
+Early in the campaign this was fine, office hours didn’t have a lot going on, and most people had not played many sessions. However toward the end of the campaign it did start to become more of an issue. First, as the income in the game changed and became much flatter between players that didn’t have a linear effect on the player’s power levels. Some players were granted vast sums of Eurodollars, but rarely went shopping, and when they did didn’t spend the time to scour all the options. This is no slight to those players, it’s simply a result of player engagement not being even across the group, something unavoidable in this type of setup, or more realistically any setup.
+
+I think overall this could have been somewhat mitigated by toning back cybernetics, making skill bonuses very rare and having more weird and hard to use stuff. And I do want to shout out the GM(s) for the items because they were mostly custom made for this game, and there were a lot of very cool and fun items. My favorite bit of gear in the game was the “Illegal Bowl Disruptor” I purchased. When I first saw the item listed I proclaimed to the GM “I hate that I feel railroaded into buying this because I love it so much.” And yeah, great fun was had making an NPC shit themselves at just the wrong time. And credit to FATE as well, this worked pretty well in the game’s framework. We assigned bowl disruption as mental stress (very embarrassing to shit yourself  in a business meeting) and it created a lot of fun moments. 
+
+In the end these imbalances didn’t cause huge problems for the game, but it did contribute to issues with FATE’s combat. The other issue caused by inconsistent participation in office hours requires me to introduce…
+Tactical Trello
+
+The Finale
+The Epilogue
+
+Bonus Section 1: Hacking Other Games
+
+One aspect of the campaign which I loved was the epilogue. After we finished our big showdown 

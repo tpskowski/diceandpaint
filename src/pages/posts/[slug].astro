@@ -21,13 +21,13 @@ const formattedDate = entry.data.publishDate.toLocaleDateString("en-US", {
 });
 ---
 <BaseLayout title={`${entry.data.title} | Dice & Paint`} description={entry.data.summary}>
-  <main class="post-page">
+  <main class="post-page" id="page-top">
     <header class="post-page__header">
       <p class="post-page__meta">{entry.data.category} <span aria-hidden="true">/</span> {formattedDate}</p>
       <h1 id="page-title">{entry.data.title}</h1>
     </header>
     <section class="content-frame content-frame--post">
-      <TableOfContents title={entry.data.title} headings={headings} />
+      <TableOfContents title={entry.data.title} headings={headings} topId="page-top" />
       <div class="content-main">
         {!entry.data.hideHero && (
           <img class="post-page__hero" src={entry.data.thumbnail} alt={entry.data.thumbnailAlt} loading="eager" decoding="async" />

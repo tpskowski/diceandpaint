@@ -8,20 +8,20 @@ interface HeadingItem {
 interface Props {
   title: string;
   headings?: HeadingItem[];
+  topId?: string;
 }
 
-const { title, headings = [] } = Astro.props;
-const items = [
-  { depth: 1, slug: "page-title", text: title },
-  ...headings.filter((heading) => heading.depth >= 1 && heading.depth <= 2),
-];
+const { title, headings = [], topId = "page-top" } = Astro.props;
+const items = headings.filter((heading) => heading.depth >= 1 && heading.depth <= 2);
 
-if (!items.length) {
+if (!title && !items.length) {
   return null;
 }
 ---
 <aside class="page-toc" aria-label={title}>
-  <p class="page-toc__label">{title}</p>
+  <p class="page-toc__label">
+    <a href={`#${topId}`}>{title}</a>
+  </p>
   <nav class="page-toc__nav">
     <ol>
       {items.map((item) => (

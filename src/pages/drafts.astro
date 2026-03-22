@@ -1,0 +1,28 @@
+---
+import PageLayout from "../layouts/PageLayout.astro";
+import { getCollection } from "astro:content";
+
+const drafts = (await getCollection("pages", ({ id }) => id.startsWith("drafts/")))
+  .sort((a, b) => a.data.order - b.data.order || a.data.title.localeCompare(b.data.title));
+
+const getPageHref = (page: (typeof drafts)[number]) => `/${(page.data.route ?? page.id).replace(/\/index$/, "")}/`;
+---
+<PageLayout title="Drafts" summary="Working draft pages stored under src/content/pages/drafts.">
+  {drafts.length ? (
+    <section class="library-listing">
+      {drafts.map((page) => (
+        <article class="library-listing__item">
+          <h2><a href={getPageHref(page)}>{page.data.title}</a></h2>
+          <p>{page.data.summary}</p>
+        </article>
+      ))}
+    </section>
+  ) : (
+    <section class="library-listing">
+      <article class="library-listing__item">
+        <h2>No Draft Pages Yet</h2>
+        <p>Add markdown files under <code>src/content/pages/drafts</code> and they will appear here automatically.</p>
+      </article>
+    </section>
+  )}
+</PageLayout>

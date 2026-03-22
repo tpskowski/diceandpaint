@@ -11,6 +11,7 @@ const pages = defineCollection({
     summary: z.string(),
     order: z.number().default(100),
     hidden: z.boolean().default(false),
+    route: z.string().optional(),
   }),
 });
 

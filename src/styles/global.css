@@ -168,7 +168,7 @@ a {
   max-width: min(28rem, calc(100vw - 2rem));
   padding: 1rem 1.1rem;
   border: 1px solid var(--line);
-  background: var(--surface);
+  background: var(--c-ink);
   box-shadow: var(--shadow);
   opacity: 0;
   transform: translateY(8px);
@@ -611,3 +611,5 @@ a {
   text-decoration-thickness: 0.08em;
   text-underline-offset: 0.14em;
 }
+
+

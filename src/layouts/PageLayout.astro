@@ -17,12 +17,12 @@ interface Props {
 const { title, summary, headings = [] } = Astro.props;
 ---
 <BaseLayout title={`${title} | diceandpaint`} description={summary}>
-  <main class="content-page">
+  <main class="content-page" id="page-top">
     <section class="content-page__intro">
       <h1 id="page-title">{title}</h1>
     </section>
     <section class="content-frame">
-      <TableOfContents title={title} headings={headings} />
+      <TableOfContents title={title} headings={headings} topId="page-top" />
       <article class="page-shell">
         <slot />
       </article>

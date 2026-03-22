@@ -5,13 +5,13 @@ import { getCollection } from "astro:content";
 const pages = (await getCollection("pages", ({ data }) => !data.hidden))
   .sort((a, b) => a.data.order - b.data.order || a.data.title.localeCompare(b.data.title));
 
-const getPageHref = (id: string) => `/${id.replace(/\/index$/, "")}/`;
+const getPageHref = (page: (typeof pages)[number]) => `/${(page.data.route ?? page.id).replace(/\/index$/, "")}/`;
 ---
 <PageLayout title="Site Pages" summary="Standalone pages and category landing pages that support the wider navigation structure.">
   <section class="library-listing">
     {pages.map((page) => (
       <article class="library-listing__item">
-        <h2><a href={getPageHref(page.id)}>{page.data.title}</a></h2>
+        <h2><a href={getPageHref(page)}>{page.data.title}</a></h2>
         <p>{page.data.summary}</p>
       </article>
     ))}

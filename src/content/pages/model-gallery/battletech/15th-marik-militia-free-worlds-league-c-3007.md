@@ -45,15 +45,8 @@ Galleon Light Tank Lance; Vedette Medium Tank Lance; Ontos Heavy Tank Lance
 
 ![](/pages/battletech/15th-marik-militia-free-worlds-league-c-3007/0723380eb31a.webp)
 
-[Previous
+Previous: [10th Skye Rangers](/model-gallery/battletech/10th-skye-rangers/)
 
-Previous
-
-## 10th Skye Rangers](/model-gallery/battletech/10th-skye-rangers)
-[Next
-
-Next
-
-## House Imarra](/model-gallery/battletech/house-imarra)
+Next: [House Imarra](/model-gallery/battletech/house-imarra/)
 
 

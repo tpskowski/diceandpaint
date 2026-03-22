@@ -38,15 +38,8 @@ I did play a bit fast and loose with the mechs here, the 10th would not have bee
 
 ![](/pages/battletech/10th-skye-rangers/252bc64e1c12.webp)
 
-[Previous
+Previous: [3rd Royal Guards](/model-gallery/battletech/3rd-royal-guards/)
 
-Previous
-
-## 3rd Royal Guards](/model-gallery/battletech/3rd-royal-guards)
-[Next
-
-Next
-
-## 15th Marik Militia](/model-gallery/battletech/15th-marik-militia-free-worlds-league-c-3007)
+Next: [15th Marik Militia](/model-gallery/battletech/15th-marik-militia-free-worlds-league-c-3007/)
 
 
