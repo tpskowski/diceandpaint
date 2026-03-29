@@ -544,7 +544,7 @@ I’ll start these reviews off looking at legion rules. I’m going to evaluate 
 
 I’ll start off by saying these rules are all over the place. Generally I’d say go with what you like but some legions are really just useless, and a handful are really just OP. I think any of the C/D legions will be at a major disadvantage in games against A/S tier legions, which is a shame, but it is what it is.
 
-## The Ist Legion - Dark Angels
+### The Ist Legion - Dark Angels
 
 **Rule summary:** If a detachment has three types (e.g. Core, Battle Tank, Support) you can pick a rule that will apply to Infantry, Cavalry, or Vehicle. Infantry gain Implacable (don’t run away when losing combat) and Phosphex (no CAF bonus when defending against them). Cavalry gain Outflank (deploy from sides of table). Vehicles gain Nimble (ignore difficult terrain).
 
@@ -558,7 +558,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Allied Detachment: B+**
 
-## The IIIrd Legion - Emperor's Children:
+### The IIIrd Legion - Emperor's Children:
 
 **Rule summary:** Once per game, before rolling you can take initiative.
 
@@ -572,7 +572,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Allied Detachment: S+**
 
-## The IVth Legion - Iron Warriors
+### The IVth Legion - Iron Warriors
 
 **Rule summary:** Infantry and walkers get plus one tactical strength for objectives, plus two when contesting an objective in your own deployment zone.
 
@@ -586,7 +586,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Allied Detachment: B**
 
-## The Vth Legion - White Scars
+### The Vth Legion - White Scars
 
 **Rule summary:** You get +1 to Jink saves, invunerable saves that appear on flyers, jetbikes, and land speeders.
 
@@ -600,7 +600,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Allied Detachment: B+**
 
-## The VIth Legion - Space Wolves
+### The VIth Legion - Space Wolves
 
 **Rule summary:** Enemies can not infiltrate within 16” of your models or outflank within 8” of your models.
 
@@ -614,7 +614,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Allied Detachment: D-**
 
-## The VIIth Legion - Imperial Fists
+### The VIIth Legion - Imperial Fists
 
 **Rule summary:** For infantry, a list of basic weapons you get Accurate (reroll hits) when on first fire orders.
 
@@ -628,7 +628,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Allied Detachment: A**
 
-## The VIIIth Legion - Night Lords
+### The VIIIth Legion - Night Lords
 
 **Rule summary:** This thing is a mess and GW needs to rewrite it. If you kill a marine or solar auxilia HQ enemy units within 4” suffer 3 hits for each starting wound of that model.
 
@@ -642,7 +642,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Allied Detachment: D**
 
-## The IXth Legion - Blood Angels
+### The IXth Legion - Blood Angels
 
 **Rule summary:** Any model winning combat can advance 3” and start a second combat if it engages an enemy who has not fought.
 
@@ -656,7 +656,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Allied Detachment: B-**
 
-## The Xth Legion - Iron Hands
+### The Xth Legion - Iron Hands
 
 **Rule summary:** Feel No Pain works against Light AT in addition to Light Weapons. Also, if an Iron Warriors vehicle is hit by an enemy using First Fire orders, worsen the AP by 1 (e.g. AP -3 becomes AP -2).
 
@@ -670,7 +670,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Allied Detachment: B**
 
-## The XIIth Legion - World Eaters
+### The XIIth Legion - World Eaters
 
 **Rule summary:** You can reroll 1d6 in close combat for infantry, cavalry, and walkers.
 
@@ -684,7 +684,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Allied Detachment: A**
 
-## The XIIIth Legion - Ultramarines
+### The XIIIth Legion - Ultramarines
 
 **Rule summary:** Re-roll hits rolls of 1 if the target has already been hit by another unit from this formation this turn.
 
@@ -698,7 +698,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Allied Detachment: B**
 
-## The XIVth Legion - Death Guard
+### The XIVth Legion - Death Guard
 
 **Rule summary:** You do not suffer hits from Dangerious Terrain. You get to pick two areas of terrain to be Dangerous Terrain. Alternatively each of these can become a building that is Dangerous Terrain.
 
@@ -712,7 +712,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Allied Detachment: B-**
 
-## The XVth Legion - Thousand Sons
+### The XVth Legion - Thousand Sons
 
 **Rule summary:** Commander unints get Shield Generator 6+ (an invunerablity save bubble).
 
@@ -726,7 +726,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Allied Detachment: D**
 
-## The XVIth Legion - Sons of Horus
+### The XVIth Legion - Sons of Horus
 
 **Rule summary:** When using Advance Order and within 6” of your target you can reroll 1s with Light or Light AT weapons.
 
@@ -740,7 +740,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Allied Detachment: D**
 
-## The XVIIth Legion - Word Bearers
+### The XVIIth Legion - Word Bearers
 
 **Rule summary:** Your detachments never count as broken for issuing orders. You also ignore Dread Aura a special rule on one unit in the game.
 
@@ -752,13 +752,13 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Primary Force: C+**
 
-**Allied Detachment: D**
+**Allied Detachment: C-**
 
-## The XVIIIth Legion - Salamanders
+### The XVIIIth Legion - Salamanders
 
 **Rule summary:** Take moral checks with an extra d6 choosing what you want. Everything gains Implacable.
 
-**Gameplay:** I think Salamanders are insane. They can mostly ignore moral if not broken, and when broken have a decent shot of making it. Implacable is also a great rule for infantry and not bad for other units. Being able to keep control of a building or objective after losing combat is huge.
+**Gameplay:** I think Salamanders are fantastic. They can mostly ignore moral if not broken, and when broken have a 75% chance of making it. Implacable is also a great rule for infantry and not bad for other units. Being able to keep control of a building or objective after losing combat is huge.
 
 **List-building:** Do what feels right. I think these are very strong all-around rules. Note that generally you want to avoid 2-model detachments, but for Salamanders that’s not much of a risk.
 
@@ -768,7 +768,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Allied Detachment: B+**
 
-## The XIXth Legion - Raven Guard
+### The XIXth Legion - Raven Guard
 
 **Rule summary:** Infantry without transports gain Infiltrate. Infantry in transports, cavalry, and walkers gain Forward Deployment.
 
@@ -782,7 +782,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Allied Detachment: S+**
 
-## The XXth Legion - Alpha Legion
+### The XXth Legion - Alpha Legion
 
 **Rule summary:** For each Alpha Legion formation 3 units can gain one of the following rules. For allied detachments of Alpha Legion it is 1 unit. The rules are based on unit type, Infantry, Cavalry, and Walkers can gain Infiltrate, Outflank, or Forward Deployment. Any other detachment type will gain forward deployment.
 
@@ -794,4 +794,4 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Primary Force: S+**
 
-**Allied Detachment: A**
+**Allied Detachment: A-**

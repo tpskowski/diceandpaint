@@ -10,7 +10,7 @@ order: 24
 [Overview](#overview)  
 [Legiones Astartes](#legiones-astartes)  
 [Solar Auxilia](#solar-auxilia)  
-Mechanicum (Coming soon?)
+[Mechanicum (Work in Progress)](#mechanicum)
 
 # Introduction
 ![](/pages/imperialis-buying-guide-starter/e862faba8120.webp)
@@ -466,6 +466,57 @@ On the left we have an expanded list for 2500 points. We've taken the Just Getti
    We've added a second unit of anti-air Tarantulas and have 3 Lighting Fighters, should be pretty hard for an enemy to use their air power.
 
 At the end of the day this isn't a list that would win a tournament, but it should have game against most opponents and you've got a good number of options. My next buy for the list would be another squadron of Marauders, Destroyers or Colossus. A 4th Infantry box would also be quite helpful. And switching eaither unit of tanks for Stormhammers is an upgrade.
+
+# Mechanicum
+
+Mechanicum were the third major faction added to Legions Imperialis and they have a lot going on. First, there are two Mechanicum factions, the standard one, and Dark Mechanicum. I'll talk about them seperately but a lot of the Dark Mechanicum entry will refer back to this one.
+
+The first noteworthy part of the Mechanicum list is that they have easy access to Knights and Titans, with slots for some in Mechanicum formations. While ally rules in Imperialis are pretty permissive, this means that it's easy to take a Mecahnicum force, add a titan, and also add other allies like space marines.
+
+The Mechanicum list has some strengths and weaknesses, let's talk about the two big ones. The first is that it's a quite limited force. Space marines have 27 unit boxes, Solar Auxilia have 21. Excluding knights and titans Mechanicum have 6 boxes. This is certainly a downside, though it makes this guide a lot simpler. The other large downside is the list lacks both anti-aircraft units, and flyers. You're probably going to want allies to deal with some of that stuff.
+
+The Mechanicum guide is going to be a little shorter because it's a smaller list with fewer options.
+
+## Starting Mechanicum
+
+I'm working on a unit guide but for now to know more about the Mechanicum units I recommend browsing [Legion Builder](https://legionbuilder.app/) or this [Goonhammer article](https://www.goonhammer.com/legions-imperialis-rise-of-the-dark-mechanicum-the-goonhammer-review/) (note there have been some changes since then).
+
+For Mechanicum, as with most of these factions the core of your list will be boxed sets that make a number of units. In the case of Mechanicum you have the Mechanicum Infantry and the Mechanicum Battle-Automata boxes. You'll want to add a number of these boxes to your collection. As usual they offer most of your objective-securing power, and because the boxes are split between a lot of units you'll want multiples to be able to bulk out unit sizes.
+
+If you're playing Mechanicum you'll probably want to include knights or titans. Personally I might start there with one box of knights, or one small to medium titan. With changes in Liber Strategia these units have become better and are very fun in-game but do warp your list so don't go overboard.
+
+Lastly it's worth noting that Mechanicum formations are a bit more restrictive than most. Many formations are based around the different orders of the Mechanicum so you'll find slots which only allow limited types of units. This is not a huge deal, but is something to be aware of when looking at list building.
+
+## Mechanicum Boxed Sets
+
+There have been two boxed sets for the Mechanicum. One is out of production and easy to find, the other is a combat force and even easier to pick up. I'm going to talk about them together because there is a lot of overlap.
+
+### Mechanicum Battle Group
+Price: $160
+Value: $212
+Points: 1278
+
+### Mechanicum Combat Force
+Price: $170
+Value: $238.50
+Points: 1424
+
+The math here is different from the other factions and the Combat Force is actually a slightly better deal, and I certainly recommend it over the Battle Group. Both are good, they include a set of Infantry, a set of Battle-Automata, a set of Thanatars, and then diverge a bit. The Battle Group includes a full box of 4 Triaros transports. The Combat Force only includes 2, but it includes a full box of 6 Krios tanks. This is a better value and a better mix.
+
+I find that buying multiple boxed sets for a faction quickly maxes you out on transports. I have way more Dracosians than I'd ever bring in a game. I can see bringing 8 Triaros in a game, but I think it'd be rare. Two Combat Forces will get you a great spread of units for the Mechanicum, with the Karacnos being the only unit you don't have access to. If you want to expand from there a third copy isn't crazy.
+
+## TL;DR Mechanicum
+
+Very simple here:
+1. Buy a Mechanicum Combat Force
+2. Buy a second Mechanicum Combat Force
+3. Decide if you want to get knights, titans, or allies.
+
+Two combat forces will give you 2848 points, a little less from that with what you can actually use in a list, but enough to play 2000 points with a ton of options. Then when if you want to go to 3000 throwing in a Reaver titan, or a box of Atropos knights will easily get you there, with a little wiggle room left over.
+
+## Mechanicum List Building
+
+Mechanicum list building is on the complicated side, youy'll need to make sure you have the right units for the right formation. 
 
 # Change Log
 
