@@ -1,11 +1,9 @@
 ---
-title: "Legions Imperialis - Legiones Astartes Review"
+title: "Legiones Astartes in Legions Imperialis"
 summary: "Legions Imperialis Legiones Astartes unit review."
 order: 12
 hidden: false
 ---
-
-# Legions Imperialis - Legiones Astartes Review
 
 ### What This Review Intends to Cover
 
