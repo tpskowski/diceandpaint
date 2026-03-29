@@ -39,6 +39,7 @@ The ambushes ended up taking out the party’s prisoner and another German so th
 Overall I think there were some really good moments, but do feel like I came up short in some other areas. I needed a better plan for the later parts of the adventure, the beginning is fine to be very free-form and loose, but later on you need things a little tighter. Overall I loved the adventure but didn’t love Gumshoe. The large list of skills, the weak combat system, and it’s focus on reducing how much you roll dice all fell flat for me.
 
 ## The Black Wyrm of Brandonsford (Dolmenwood)
+![](/posts/260329-march-2026-in-gaming/blackwyrm.png)
 We had two sessions of this well-reviewed OSR module. I'm running it with Dolmenwood rules and ostensibly in that setting, though I didn't spend time trying to update all the NPCs to fit perfectly.
 
 And I think it's going really well, this is a very good adventure. The town has some fun plot lines the PCs can follow and pull at, or kinda ignore. In two of the more notable ones they decided for a non-standard solution to a problem (in that they didn't solve it, but got something out of the troublemaker) and to mostly ignore another. I liked both results a lot.
