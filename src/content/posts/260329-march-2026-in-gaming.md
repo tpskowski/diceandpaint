@@ -16,8 +16,15 @@ thumbnailAlt: "Preview image for the March 2026 in Gaming article."
 hideHero: false
 draft: false
 ---
-# New Site Introduction
+# Housekeeping
+
+## New Site
 I finally migrated off Squarespace and I'm very happy to have done so. This site is now using Astro to build a static page off Markdown files. It's hosted for free on Cloudflare, I'm just paying for the domain name. This was all done via Codex and I highly recommend everything I just mentioned. Still some things to clean up/improve/figure out, but for now it's looking better and I'm very happy with the change in editor from Squarespace's CMS to VSCode.
+
+I think existing links should work, unless I missed some. I think the next thing I need to do is add Disqus should anyone want to comment.
+
+## Legions Imperialis Unit Guide Published
+I published what is really the first draft of a strategy guide for sapce marines units in Legions Imperialis. I plan to have more of these but this is the starting point. It was a fair bit of work but I enjoyed writing it. Find it here [Legiones Astartes Review](/guides/legions-imperialis-legiones-astartes-review/).
 
 # What I Ran
 
