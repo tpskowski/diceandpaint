@@ -17,6 +17,7 @@ const { title, description, pageClass = "", headerMode = "sticky" } = Astro.prop
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={description} />
+    <link rel="alternate" type="application/rss+xml" title="Dice & Paint RSS Feed" href="/rss.xml" />
     <title>{title}</title>
   </head>
   <body class={pageClass}>
@@ -35,4 +36,6 @@ const { title, description, pageClass = "", headerMode = "sticky" } = Astro.prop
     </script>
   </body>
 </html>
+
+
 

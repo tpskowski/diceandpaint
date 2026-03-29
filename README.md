@@ -26,6 +26,7 @@ Astro-based static site for the migrated Dice & Paint archive.
 - `/posts/[slug]/` renders blog posts from `src/pages/posts/[slug].astro`.
 - `src/pages/[...slug].astro` renders all standalone page content from `src/content/pages/`, including nested folder indexes.
 - `/library/` lists non-hidden standalone pages.
+- `/rss.xml` exposes the blog RSS feed for published posts.
 
 ## Key files
 
@@ -98,3 +99,6 @@ This repository uses a split licensing model:
 - images and other media: not automatically CC-licensed; they remain with their respective copyright holders unless explicitly noted otherwise
 
 Third-party runtime dependency notices are summarized in `THIRD_PARTY_NOTICES.md`.
+
+
+
