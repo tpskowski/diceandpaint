@@ -83,7 +83,7 @@ b {
   gap: 1rem;
   width: min(calc(100% - 2rem), var(--max-width));
   margin: 0 auto;
-  padding: 1rem 0 0.75rem;
+  padding: 1rem 0 1rem;
   backdrop-filter: blur(14px);
 }
 
@@ -646,4 +646,5 @@ b {
   text-decoration-thickness: 0.08em;
   text-underline-offset: 0.14em;
 }
+
 

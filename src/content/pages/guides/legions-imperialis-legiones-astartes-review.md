@@ -795,3 +795,9 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 **Primary Force: S+**
 
 **Allied Detachment: A-**
+
+# Appendix B - Formations (Coming Soon)
+
+# Appendix C - Changelog
+
+### 2026-03-29: v1.0 published
