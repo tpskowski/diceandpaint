@@ -115,7 +115,7 @@ For modeling I put fewer models on bases than GW would like. I do 4 marines, and
 
 **Modeling: D**o what you’re doing for other marines.
 
-### Legion Missile Launcher Detachment: A
+### Legion Missile Launcher Detachment: A+
 
 **Game play:** These are the primer space marine infantry. They’re a little pricey but have great range and two good attack profiles. You don’t want these coming down on the opponent’s side of the table but they’re great for holding back field objectives, or if in the mid-table can threaten most of the board. These guys need to stay garrisoned, they’re a lot more expensive than other marines but no tougher.
 
@@ -149,7 +149,7 @@ Assault marines can make sense in the squad as it gives you better CAF. However,
 
 Plasma guns for a small price bump get you extra ranged firepower. This is fine, the fact that you can use normal bodies to adsorb fire makes Plasma Guns a little better than stand-alone.
 
-**Legion Missile Launcher Detachment: A**
+**Legion Missile Launcher Detachment: A+**
 
 Still great, they now cost less and have ablative wounds. A squad of 4 tac/4 missile costs 50% more than 4 missiles alone but has 2x the wounds. A lot of this comes down to slots in your list, do you have spare Core or Support?
 
@@ -198,9 +198,9 @@ Last I want to mention that they’re pretty good as an anti-air option with las
 
 ### Legion Leviathan Siege Dreadnought Detachment: B-
 
-**Game-play:** The rules writers did Contemptors and Leviathans a bit dirty in Imperialis. They are the same speed, same toughness, the Leviathans are a slightly more expensive and this comes down to weapons. The Leviathan has shorter range weapons, a little more powerful. The big difference is the Leviathan has a melee weapon and it has wrecker making it quite effective at taking down structures. However with the same 5” move you really need to transport them in if you want to do this, however Leviathans in Mastadons or Thunder Hawks are perfectly allowed, and viable. If just foot-slogging I recommend lascannon Contemptors, though storm cannon Leviathans take the cake over assault cannon Contemptors.
+**Game-play:** The rules writers did Contemptors and Leviathans a bit dirty in Imperialis. They are the same speed, same toughness, the Leviathans are a slightly more expensive and this comes down to weapons. The Leviathan has shorter range weapons, a little more powerful. It also has a melee weapon with Wrecker enabling them to take down buildings. The big difference is the Leviathan is shorter range and better in melee. However with the same 5” move you really need to transport them in if you want to do this, however Leviathans in Mastadons or Thunder Hawks are perfectly allowed, and viable. If just foot-slogging I recommend lascannon Contemptors, though storm cannon Leviathans take the cake over assault cannon Contemptors.
 
-**Load-out:** I lean toward the storm cannon. The issue with the melta is that you have Wrecker and Wrecker is better into buildings than Demolisher. Rather than shoot the building from 6” away, just charge it. The storm cannon is actually a great anti-infantry weapon, great into other walkers, and again Rapid Fire makes it great into aircraft who wander too close.
+**Load-out:** Both weapons are fine, I lean melta as it lets you double up on Wrecker/Demolisher attacks but the storm cannon is vs good into infantry and not bad into flyers in a pinch.
 
 **Modeling:** Just be aware that the guns and melee weapons have specific pairings but idential rules for the melee weapons so do what your heard desires.
 
@@ -548,7 +548,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Rule summary:** If a detachment has three types (e.g. Core, Battle Tank, Support) you can pick a rule that will apply to Infantry, Cavalry, or Vehicle. Infantry gain Implacable (don’t run away when losing combat) and Phosphex (no CAF bonus when defending against them). Cavalry gain Outflank (deploy from sides of table). Vehicles gain Nimble (ignore difficult terrain).
 
-**Gameplay:** The infantry bonus is great, you become a lot better at defending garrisons and a lot better at assaulting them. The Cavalry bonus is hard to use, you can take a Sky-Hunter Phalanx but you have to fill the Air Support and Light Armour slots to turn this on. However Outflank is very good so if you’re running Cavalry it’s one of the better legions for it. The vehicle bonus I think is pretty underwhelming. I don’t find Imperialis players to use a lot of difficult terrain, and even if they are, tanks are pretty mobile.
+**Gameplay:** The infantry bonus is great, you become a lot better at defending garrisons and a lot better at assaulting them. The Cavalry bonus is hard to use, getting multiple units outside Sky-Hunter Phalanx is hard and the Sky-Hunter Phalanx can't activate the Dark Angels rule.. However Outflank is very good so if you’re running Cavalry it’s one of the better legions for it. The vehicle bonus I think is pretty underwhelming. I don’t find Imperialis players to use a lot of difficult terrain, and even if they are, tanks are pretty mobile.
 
 **List-building:** This is a pretty restrictive ability. Some formations like Super-heavy Spearhead will not be able to use it, and some others you’ll need to conciously make sure to hit the three detachment types. It also wants you to over-weight toward one of the unit types so you have a lot of infantry to get the bonus, etc.
 
@@ -608,11 +608,11 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **List-building:** I don’t think this impacts your list building at all.
 
-**Splashability:** Just dreadful, you could take a detachment and try and spread it out to deny areas, but like, just don’t.
+**Splashability:** Taking a detachment of Space Wolves can be used to shut down infiltration. Deploy it far up in your deployment zone and a lot of the map is shut off to infiltrators. Useless if your opponent isn't using these rules, very good if they are. This gets better the more compeditive lists get as Infiltrate is overpowered.
 
 **Primary Force: D**
 
-**Allied Detachment: D-**
+**Allied Detachment: B+**
 
 ### The VIIth Legion - Imperial Fists
 
@@ -620,7 +620,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Gameplay:**  This is good but limited. Many of the weapons on the list don’t yet exist for infantry. It does help some if your infantry are defending a building and overwatching chargers, you can put out a lot of dice and have the reroll.
 
-**List-building:** Take thisn to spam missile lanuchers. You’ll get a little value from your bolters but most of this value comes from missile launchers.
+**List-building:** Take this to spam missile lanuchers. You’ll get a little value from your bolters but most of this value comes from missile launchers.
 
 **Splashability:** I keep bringing this up, but a fist Demi-company loaded with missiles launchers is a little too good. The rating below is in part based on that and it is not higher because that’s one very specific formation.
 
@@ -682,7 +682,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Primary Force: A**
 
-**Allied Detachment: A**
+**Allied Detachment: A+**
 
 ### The XIIIth Legion - Ultramarines
 

@@ -113,4 +113,4 @@ Working on stuff tends to spiral for me, so I picked up some more stuff for my a
 I was in the game shop and saw this and picked it up. In part because it seems like a very good deal for the current MCP line. You get 4 characters for $60 and one is huge. Having assembled these I'm very excited to paint Iron Monger, the Kang sculpt is also amazing. I'd love to get back to playing MCP but one thing at a time...
 
 # Coming Up Next Month
-Next month is very busy for non-gaming reasons, with a trip and 3 or four concerts. To be determined if I'll run any RPGs in the month, trying to schedule some things now.
+Next month is very busy for non-gaming reasons, with a trip and three or four concerts. To be determined if I'll run any RPGs in the month, trying to schedule some things now.
