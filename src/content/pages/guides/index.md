@@ -23,7 +23,7 @@ One last note on list building to keep in mind. You can take allies in this game
 
 [Combined Guide](/guides/legions-imperialis-buyers-guide/)  
 [Overview](/unlisted/imperialis-buying-guide-starter/)  
-[Legiones Astartes](/unlisted/imperialis-buying-guide-astartes/)  
+[Legiones Astartes Review](/guides/legions-imperialis-legiones-astartes-review/)  
 [Solar Auxilia](/unlisted/imperialis-buying-guide-auxilia/)  
 Mechanicum (Coming soon?)
 
@@ -111,7 +111,8 @@ The last note on the battlefield is that Imperalis is played on a 5x4. By far th
 
 [Combined Guide](/guides/legions-imperialis-buyers-guide/)  
 [Overview](/unlisted/imperialis-buying-guide-starter/)  
-[Legiones Astartes](/unlisted/imperialis-buying-guide-astartes/)  
+[Legiones Astartes Review](/guides/legions-imperialis-legiones-astartes-review/)  
 [Solar Auxilia](/unlisted/imperialis-buying-guide-auxilia/)  
 Mechanicum (Coming soon?)
+
 

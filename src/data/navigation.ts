@@ -20,6 +20,7 @@ export const primaryNav: NavGroup[] = [
     href: "/guides/",
     items: [
       { label: "Legions Imperialis Buyers Guide", href: "/guides/legions-imperialis-buyers-guide/" },
+      { label: "Legiones Astartes Review", href: "/guides/legions-imperialis-legiones-astartes-review/" },
     ],
   },
   {
@@ -45,3 +46,4 @@ export const primaryNav: NavGroup[] = [
     ],
   },
 ];
+
