@@ -21,11 +21,11 @@ At the end I've also included a Legion Trait review, I'll be adding another for 
 
 I’m not going to spend too much time on units-per-legion. I’ll make a few notes when I think it matters, but I won’t cover when a particular legion makes something better, unless I mention in that unit review.
 
-I’m also not going to cover how to build a good list. I honestly don’t feel well equipped to do this, more on that below. I’m going to tell you if you should take a Cerberus or a Predator, I’m not going to tell you how many of one or the other should be in your list.
+This is also not a document about building a list. If you need to know what infantry options are best, or what anti-tank to bring, this has answers, but it won't cover how much of each you should bring.
 
 ### Why Am I Writing This Review?
 
-Mostly because I’m not aware of a similar resource online. Most content has moved to YouTube which has upsides and downsides but one of the big downsides is that it’s *terrible* as a reference. Here you’ll be able to look up what some dude (hi, that’s me!) thinks of the Sabre, without having to find the right timestamp in the right video from the right review of a Legions Imperialis supplement. And that’s the other issue, most reviews of units are point-in-time, when they were released. They don’t consider newer units that may have changed the landscape, along with FAQs, etc.
+The main reason is that I’m not aware of a similar resource online for Imperialis. Most content has moved to YouTube which has upsides and downsides but one of the big downsides is that it’s *terrible* as a reference. Here you’ll be able to look up what some dude (hi, that’s me!) thinks of the Sabre, without having to find the right timestamp in the right video from the right review of a Legions Imperialis supplement. And that’s the other issue, most reviews of units are point-in-time, when they were released. They don’t consider newer units that may have changed the landscape, along with FAQs, etc.
 
 I’ll note here that Legions Imperialis is a pretty casual game, so please don’t read this guide and bring all the best units to your next game night. However, even with casual games it’s worth knowing relative power levels and quality, which is what this guide aims to do. In many respects this is a guide that tells you what not to do in a casual game.
 
@@ -35,13 +35,13 @@ I also think there is value in knowing what options to put on your expensive new
 
 **S:** These will be very rare but are units that warp the game
 
-**A:** These are very good units you will be happy to take multiples off
+**A:** These are very good units you would be happy to take more than one detachment
 
 **B:** These are solid units that won’t handicap your list, they may be good role-players but lack flexibility
 
-**C:** These units are not very good, taking them is actively harming your list. They may be unfocused or outclassed
+**C:** These units are not very good, unless taking them with a very specific purpose they'll be inferior to many units. They may be unfocused or outclassed
 
-**D:** These units are bad. Take these for fun or looks or vibes but there is a good reason to avoid them.
+**D:** These units are bad. Take these for fun, or looks, or vibes but not because they'll help win games
 
 # Legiones Astartes HQ
 
@@ -49,11 +49,11 @@ I also think there is value in knowing what options to put on your expensive new
 
 All these units have two rules that interact with nearby friendly units: Master Tactician and Inspire. The first lets you swap out a unit order for another unit, after the HQ activates. This is very good, gives you a lot of flexibility to swap around first fire/advance/charge orders should you need to. Inspire lets you share the 2+ moral of this unit in a bubble which is also great, in that bubble even a broken formation will pass most moral checks.
 
-Next to talk about Commander. Any unit with Commander must be attacked to a unit with the same type from their formation. This is done on deployment and means that Battle Tank commanders need to go in a Battle Tank unit, and Infantry commanders in an Infantry unit. Generally you want to put them in a medium or large sized unit to protect the commander’s buffing effects. Note you don’t have to put them in exactly the same unit, just a matching slot, watch out for things like unit speed if you are doing this.
+Next to talk about is Commander. Any unit with Commander must be attacked to a unit with the same type from their formation. This is done on deployment and means that Battle Tank commanders need to go in a Battle Tank unit, and Infantry commanders in an Infantry unit. Generally you want to put them in a medium or large sized unit to protect the commander’s buffing effects. Note you don’t have to put them in exactly the same unit, just a matching slot, watch out for things like unit speed if you are doing this.
 
 Last let’s talk about infantry commanders. When inside a transport Inspire and Master Tactician do not work. When inside a building, they both work, and have a larger range, as you count the building footprint as their base. This means that if your infantry HQ starts in a Rhino you want to get it out of there and into a building ASAP.
 
-HQs also get a 6+ invulnerable save but honestly who cares, once every 3 or 4 games it might save them.
+HQs also get a 6+ invulnerable save, try and remember this but it's very unlikely to matter.
 
 ### Legion Command Squad: A-
 

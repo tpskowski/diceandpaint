@@ -67,6 +67,12 @@ a {
   text-decoration: none;
 }
 
+strong,
+b {
+  color: var(--text);
+  font-weight: 700;
+}
+
 .site-header {
   position: sticky;
   top: 0;
@@ -640,3 +646,4 @@ a {
   text-decoration-thickness: 0.08em;
   text-underline-offset: 0.14em;
 }
+
