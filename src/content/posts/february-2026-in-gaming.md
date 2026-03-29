@@ -36,7 +36,7 @@ The first session went pretty well, a few concerns from me but hoping it finishe
 
 ## What I Played
 
-#### Legions Imperialis
+### Legions Imperialis
 
 ![](/posts/february-2026-in-gaming/4fa1e59a0aa3.webp)
 
@@ -50,7 +50,7 @@ I also took this as a chance to bring one of my Reaver Titans out, they both hav
 
 I was hoping to get another teaching game in with someone else but had to cancel this as well due to illness. Don't get sick is my general advice
 
-#### Kobolds Ate My Baby
+### Kobolds Ate My Baby
 
 ![](/posts/february-2026-in-gaming/8a706ff4a847.webp)
 
@@ -68,7 +68,7 @@ I enjoyed this session a lot, it's a very goofy game that gets away with some qu
 
 I'd play this again, and one thing that the rulebook proposes that I love is changing the setting. I'd love to play Kobolds Ate My Baby in a Shadowrun city, or on a space station, or a bunch of other weirder settings than your typical fantasy city. I do have [Goblin Quest](https://rowanrookanddecard.com/product/goblin-quest/?v=0b3b97fa6688) which I'd like to run at some point and it shares a lot of stuff with this game.
 
-#### Adeptus Titanicus
+### Adeptus Titanicus
 
 ![](/posts/february-2026-in-gaming/93c9141b43b3.webp)
 
@@ -84,7 +84,7 @@ I don't think it's the perfect game, the command system is a little swingy, gett
 
 Regardless, very happy to have finally given this a go, and I'd like to try and keep it up.
 
-#### Land of Og
+### Land of Og
 
 ![](/posts/february-2026-in-gaming/ab15d3f55f3d.webp)
 
