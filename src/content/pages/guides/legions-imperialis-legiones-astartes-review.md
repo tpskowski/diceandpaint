@@ -15,7 +15,7 @@ In these reviews I want to cover:
 4. Anything to be aware of when purchasing and modeling a unit?
 5. Are there other units that perform a similar role?
 
-I will also start the reviews with a legion trait review. These are a little easier to find online but I think is worth including for completeness.
+At the end I've also included a Legion Trait review, I'll be adding another for Formations in the future.
 
 ### What This Review Won’t Cover
 
@@ -536,4 +536,262 @@ Gameplay: The Termite is a unique subterranean deep striking unit. This only mat
 
 Load-out: No options here. As with Drop Pods, plasma marines will punch above their weight.
 
-Modeling: I've not built these so don't have any advice. One thing I'll note here is they're half the (dollar) cost of Drop Pods so if you're interested in adding some deep strikers to your force these are far more cost effective
+Modeling: I've not built these so don't have any advice. One thing I'll note here is they're half the (dollar) cost of Drop Pods so if you're interested in adding some deep strikers to your force these are far more cost effective.
+
+# Appendix A - Legion Rules
+
+I’ll start these reviews off looking at legion rules. I’m going to evaluate each legion based on how effective their rule is, how it impacts your list building, and how effective the rule is for an allied formation.
+
+I’ll start off by saying these rules are all over the place. Generally I’d say go with what you like but some legions are really just useless, and a handful are really just OP. I think any of the C/D legions will be at a major disadvantage in games against A/S tier legions, which is a shame, but it is what it is.
+
+## The Ist Legion - Dark Angels
+
+**Rule summary:** If a detachment has three types (e.g. Core, Battle Tank, Support) you can pick a rule that will apply to Infantry, Cavalry, or Vehicle. Infantry gain Implacable (don’t run away when losing combat) and Phosphex (no CAF bonus when defending against them). Cavalry gain Outflank (deploy from sides of table). Vehicles gain Nimble (ignore difficult terrain).
+
+**Gameplay:** The infantry bonus is great, you become a lot better at defending garrisons and a lot better at assaulting them. The Cavalry bonus is hard to use, you can take a Sky-Hunter Phalanx but you have to fill the Air Support and Light Armour slots to turn this on. However Outflank is very good so if you’re running Cavalry it’s one of the better legions for it. The vehicle bonus I think is pretty underwhelming. I don’t find Imperialis players to use a lot of difficult terrain, and even if they are, tanks are pretty mobile.
+
+**List-building:** This is a pretty restrictive ability. Some formations like Super-heavy Spearhead will not be able to use it, and some others you’ll need to conciously make sure to hit the three detachment types. It also wants you to over-weight toward one of the unit types so you have a lot of infantry to get the bonus, etc.
+
+**Splashability:** If you’re looking for a small space marine allied detachment as objective holders a Dark Angels Legion Demi-company meets the requirements for this and will give your infantry two great keywords.
+
+**Primary Force: B**
+
+**Allied Detachment: B+**
+
+## The IIIrd Legion - Emperor's Children:
+
+**Rule summary:** Once per game, before rolling you can take initiative.
+
+**Gameplay:** Not a lot to say here, this one is a shame because it’s possible the best in the game as an ally, and kinda underwhelming as a primary. Being able to pick a turn where you get initiative is extremely strong, there can be some very important charge turns, or just getting first fire when super heavies are lighting each other up can be huge.
+
+**List-building:** Another reason not to like this, doesn’t really lend anything to army construction. First turn is most likely to matter if there are a lot of important charges or crazy shooting units so maybe bring a titan or some kinght lancers? I dunno, this ability is good but kinda bums me out.
+
+**Splashability:** As already said, this is one of if not the best legions to splash, take a small detachment, win a critical priority roll.
+
+**Primary Force: C+**
+
+**Allied Detachment: S+**
+
+## The IVth Legion - Iron Warriors
+
+**Rule summary:** Infantry and walkers get plus one tactical strength for objectives, plus two when contesting an objective in your own deployment zone.
+
+**Gameplay:** You’re better at holding objectives. But only with infantry and walkers.
+
+**List-building:** This bonus is legitimately good, but only impacts walkers and infantry. It also only matters when the scoring is close, which doesn’t happen that many times in a game. But to take advantage of it you want to load up on infantry and walkers, which isn’t bad as they’re full of good options. Unfortunately your legion rules have no impact on the hordes of armour I envision in Iron Warrior armies.
+
+**Splashability:** Much like Dark Angels Iron Warriors are worth a look if you want a Demi-company to hold objectives.
+
+**Primary Force: C+**
+
+**Allied Detachment: B**
+
+## The Vth Legion - White Scars
+
+**Rule summary:** You get +1 to Jink saves, invunerable saves that appear on flyers, jetbikes, and land speeders.
+
+**Gameplay:** This is a big buff to those units, but it’s a short list of units. This means that White Scares have some power options but are mostly playing with vanilla marines.
+
+**List-building:** It’s kinda obvious here, you want a lot of planes, jetbikes, and land speeders. And all of those are good here. Unfortuntely that’s pretty narrow, none of those units are good at holding ground. White Scars will be at their best as or with allies.
+
+**Splashability:**
+
+**Primary Force: C**
+
+**Allied Detachment: B+**
+
+## The VIth Legion - Space Wolves
+
+**Rule summary:** Enemies can not infiltrate within 16” of your models or outflank within 8” of your models.
+
+**Gameplay:** Infiltrate and outflank are both very good abilities. However this doesn’t turn them off, just limits them, and they won’t show up in every game. Access to those rules is pretty limited. If you see someone playing Space Wolves in LI ask them about their fursona, *nicely*, they deserve some joy that day.
+
+**List-building:** I don’t think this impacts your list building at all.
+
+**Splashability:** Just dreadful, you could take a detachment and try and spread it out to deny areas, but like, just don’t.
+
+**Primary Force: D**
+
+**Allied Detachment: D-**
+
+## The VIIth Legion - Imperial Fists
+
+**Rule summary:** For infantry, a list of basic weapons you get Accurate (reroll hits) when on first fire orders.
+
+**Gameplay:**  This is good but limited. Many of the weapons on the list don’t yet exist for infantry. It does help some if your infantry are defending a building and overwatching chargers, you can put out a lot of dice and have the reroll.
+
+**List-building:** Take thisn to spam missile lanuchers. You’ll get a little value from your bolters but most of this value comes from missile launchers.
+
+**Splashability:** I keep bringing this up, but a fist Demi-company loaded with missiles launchers is a little too good. The rating below is in part based on that and it is not higher because that’s one very specific formation.
+
+**Primary Force: B+**
+
+**Allied Detachment: A**
+
+## The VIIIth Legion - Night Lords
+
+**Rule summary:** This thing is a mess and GW needs to rewrite it. If you kill a marine or solar auxilia HQ enemy units within 4” suffer 3 hits for each starting wound of that model.
+
+**Gameplay:** This is hard to use, awkward, and mostly relies on your opponent mis-positioning. A real disaster of a legion trait.
+
+**List-building:** Nothing really plays into this, close combat can make this a little more likely to trigger.
+
+**Splashability:** No.
+
+**Primary Force: D**
+
+**Allied Detachment: D**
+
+## The IXth Legion - Blood Angels
+
+**Rule summary:** Any model winning combat can advance 3” and start a second combat if it engages an enemy who has not fought.
+
+**Gameplay:** Well, you want to get into close combat and win. Blood Angels have nothing to help you win so you’ll need to take units with good CAF.
+
+**List-building:** Assault marines are great, dreadnoughts are great, terminators are great. Tanks are less than great. Keep in mind one way to win combat is outnumbering someone so taking large units and cheap models is secretly buffed in Blood Angels. The general problem is this rule can be a little hard to trigger, getting into close combat can be hard. And you have to win (pray you never face World Eaters). And then if you win the biggest upside only happens with another enemy unit within 3”. Don’t get me wrong, getting a 3” re-position is nice, but it’s not nearly as nice as 2 combats.
+
+**Splashability:** Yeah, if you want a close combat force it’s pretty solid. Like any focused legion a single detachment with a clear mission will gain more from this rule than the overall force.
+
+**Primary Force: C+**
+
+**Allied Detachment: B-**
+
+## The Xth Legion - Iron Hands
+
+**Rule summary:** Feel No Pain works against Light AT in addition to Light Weapons. Also, if an Iron Warriors vehicle is hit by an enemy using First Fire orders, worsen the AP by 1 (e.g. AP -3 becomes AP -2).
+
+**Gameplay:** This is really good! I think both would be underwhelming on their own, but combined you’re a rare legion where almost all of your units can get a buff. Both may sound like they’ll come up rarely but there are a lot of Light AT weapons, and making your infantry more resliant to them is nice. And the first fire downside your opponent is legitimate. Very few legions buff their vehicles in a meaningful way, and Iron Hands are one of them.
+
+**List-building:** Try and fit in a lot of Feel No Pain with plent of tactical detachments and command squads. I’d be happy to start Iron Hands with a pair of Demi-companies. Keep in mind that you can join commanders to support infantry units to give them Feel No Pain.
+
+**Splashability:** As a generalist legion there isn’t much reason to splash them. My only real consideration would be an Iron Hands deatchment full of tanks trying to take advantage of the First Fire rule.
+
+**Primary Force: B+**
+
+**Allied Detachment: B**
+
+## The XIIth Legion - World Eaters
+
+**Rule summary:** You can reroll 1d6 in close combat for infantry, cavalry, and walkers.
+
+**Gameplay:** This is really good. World Eaters are THE close combat legion. When rolling 2d6 this works out to an average of 10 rather than 7. This is huge, almost as good as Rend adding a d6. When playing you can think of your units having +3 CAF. This means your Tacticals are odds-on favorites to beat Terminators. This also means you’ve got the best cavalry in the game, I’d take World Eaters over White Scars here because your bikes become huge close combat threats.
+
+**List-building:** Avoid spending too much on tanks. Assault marines are amazing. Terminators are good. Tactical marines are weirdly amazing also. Cavalry units are worth taking as long range chargers. Dreadnoughts get a smaller buff than you’d think as they already have a very good CAF.
+
+**Splashability:** If you want to bring some close combat into a force you can’t do better.
+
+**Primary Force: A**
+
+**Allied Detachment: A**
+
+## The XIIIth Legion - Ultramarines
+
+**Rule summary:** Re-roll hits rolls of 1 if the target has already been hit by another unit from this formation this turn.
+
+**Gameplay:** This is a pretty stratighforward and good ability. Rerolls are rare in the game and you should try and take advantage of them. Small detachments can be helpful to start the re-roll chain. Likewise long-range weapons will make it easier to trigger this by having more units shooting the same targets.
+
+**List-building:** This rewards large formations to maximize the number of times you reroll 1s. You also don’t really want to get into close combat often.
+
+**Splashability:**  This is a legion that I think suffers as an allied formation. While each formation is self-contained for the Ultramarines, I think you do want big formations and it’s a pretty cohesive game plan that isn’t that splashable. You could certainly take a tank formation here designed to use the rule, I just think there are better splashes.
+
+**Primary Force: A-**
+
+**Allied Detachment: B**
+
+## The XIVth Legion - Death Guard
+
+**Rule summary:** You do not suffer hits from Dangerious Terrain. You get to pick two areas of terrain to be Dangerous Terrain. Alternatively each of these can become a building that is Dangerous Terrain.
+
+**Gameplay:** I’ll be honest, this kinda underwhelming. If you make a building dangerous when your opponent moves out or in, they’ll take 1 hit. Also there is -1 to shooting when in Dangerious Terrain. The best thing is it turns off cover saves, but it does not turn off the penalty to shoot a garrisoned unit.
+
+**List-building:** Not really any impact on your list, anti-building is a little less important, and shooting into buildings with normal weapons is a little better.
+
+**Splashability:** This is a lot more appealing as a splash as you get the most importnat part of the rule (picking terrain) without commiting your list to Death Guard.
+
+**Primary Force: D**
+
+**Allied Detachment: B-**
+
+## The XVth Legion - Thousand Sons
+
+**Rule summary:** Commander unints get Shield Generator 6+ (an invunerablity save bubble).
+
+**Gameplay:** This is not as bad as it seems. But it’s not very good. A 6+ is nothing to laugh at, and this and the Palisade Drop Pod are the only ways to get it. The issue is that you rarely lose your entire save. You’ll be taking a lot of 6+ saves just with your normal armor.
+
+**List-building:** Try and max out commanders, this does make 3+ save tanks a little better as they’re more likely to be able to take advantage of the 6++.
+
+**Splashability:** Low, you could take this to deploy a shield bubble somewhere but just do something better.
+
+**Primary Force: D**
+
+**Allied Detachment: D**
+
+## The XVIth Legion - Sons of Horus
+
+**Rule summary:** When using Advance Order and within 6” of your target you can reroll 1s with Light or Light AT weapons.
+
+**Gameplay:** This is a very narrow bonus that can help a little but overall is underwhelming. You need to be very short range and on the advance order. One place this helps is Overwatch but rerolling 1s on Overwatch isn’t that exciting.
+
+**List-building:** You want fast, light units. I think Sons of Horus kinda push themselves toward favoring close combat. As units with Light Light AT weapons can still threaten tanks in close combat. A lot of infantry pushing up the board is going to be the default.
+
+**Splashability:** Low, I don’t really see wanting to bring this rule into another force.
+
+**Primary Force: C+**
+
+**Allied Detachment: D**
+
+## The XVIIth Legion - Word Bearers
+
+**Rule summary:** Your detachments never count as broken for issuing orders. You also ignore Dread Aura a special rule on one unit in the game.
+
+**Gameplay:** This isn’t bad, being able to keep any order means breaking is less bad, though it still causes moral issues.
+
+**List-building:** Smaller deatchments make more sense, otherwise this not a huge factor in your list.
+
+**Splashability:** This isn’t really an appealing ability to splash.
+
+**Primary Force: C+**
+
+**Allied Detachment: D**
+
+## The XVIIIth Legion - Salamanders
+
+**Rule summary:** Take moral checks with an extra d6 choosing what you want. Everything gains Implacable.
+
+**Gameplay:** I think Salamanders are insane. They can mostly ignore moral if not broken, and when broken have a decent shot of making it. Implacable is also a great rule for infantry and not bad for other units. Being able to keep control of a building or objective after losing combat is huge.
+
+**List-building:** Do what feels right. I think these are very strong all-around rules. Note that generally you want to avoid 2-model detachments, but for Salamanders that’s not much of a risk.
+
+**Splashability:** I think Salamanders are great, you can splash infantry like with Dark Angels. Or they can splash a Super-Heavy Spearhead with pairs of Typhons and Cerbaruses taking advantage of that formation’s extra weapon.
+
+**Primary Force: A-**
+
+**Allied Detachment: B+**
+
+## The XIXth Legion - Raven Guard
+
+**Rule summary:** Infantry without transports gain Infiltrate. Infantry in transports, cavalry, and walkers gain Forward Deployment.
+
+**Gameplay:** This is insane and broken and our final two legions are far better than the others. Imperialis is an objective game and getting to start on objectives is just too strong.
+
+**List-building:** Bring infantry. You’re probably going to win on points. Keep in mind Forward Deployment is great for walkers, can give them an extra turn of shooting or combat.
+
+**Splashability:** Fantastic, you don’t even need to fully commit to Raven Guard, just bring a bunch of their infantry in an allied detachment.
+
+**Primary Force: S**
+
+**Allied Detachment: S+**
+
+## The XXth Legion - Alpha Legion
+
+**Rule summary:** For each Alpha Legion formation 3 units can gain one of the following rules. For allied detachments of Alpha Legion it is 1 unit. The rules are based on unit type, Infantry, Cavalry, and Walkers can gain Infiltrate, Outflank, or Forward Deployment. Any other detachment type will gain forward deployment.
+
+**Gameplay:** This is insane and broken and our final two legions are far better than the others. Imperialis is an objective game and getting to start on objectives is just too strong. Missions really need to be written to try and limit the power of these legions.
+
+**List-building:** Bring lots of formations. Smaller formations are best to maximize your legion rule. Walkers with infiltrate are fantastic due to their low range and slow speed.
+
+**Splashability:** You are pretty limited in infiltration with allied Alpha Legion. They’re still good, but not as strong a splash as Raven Guard, and not as strong as Alpha Legion primary.
+
+**Primary Force: S+**
+
+**Allied Detachment: A**
