@@ -7,7 +7,7 @@ hidden: false
 
 # Legions Imperialis - Legiones Astartes Review
 
-## What This Review Intends to Cover
+### What This Review Intends to Cover
 
 In these reviews I want to cover:
 
@@ -19,13 +19,13 @@ In these reviews I want to cover:
 
 I will also start the reviews with a legion trait review. These are a little easier to find online but I think is worth including for completeness.
 
-## What This Review Won’t Cover
+### What This Review Won’t Cover
 
 I’m not going to spend too much time on units-per-legion. I’ll make a few notes when I think it matters, but I won’t cover when a particular legion makes something better, unless I mention in that unit review.
 
 I’m also not going to cover how to build a good list. I honestly don’t feel well equipped to do this, more on that below. I’m going to tell you if you should take a Cerberus or a Predator, I’m not going to tell you how many of one or the other should be in your list.
 
-## Why Am I Writing This Review?
+### Why Am I Writing This Review?
 
 Mostly because I’m not aware of a similar resource online. Most content has moved to YouTube which has upsides and downsides but one of the big downsides is that it’s *terrible* as a reference. Here you’ll be able to look up what some dude (hi, that’s me!) thinks of the Sabre, without having to find the right timestamp in the right video from the right review of a Legions Imperialis supplement. And that’s the other issue, most reviews of units are point-in-time, when they were released. They don’t consider newer units that may have changed the landscape, along with FAQs, etc.
 
@@ -33,7 +33,7 @@ I’ll note here that Legions Imperialis is a pretty casual game, so please don�
 
 I also think there is value in knowing what options to put on your expensive new models, I’ll try and make my build recommendations clear for all units, and highlight things that are easy to magnetize, etc.
 
-## How Are Units Scored?
+### How Are Units Scored?
 
 **S:** These will be very rare but are units that warp the game
 
@@ -47,7 +47,7 @@ I also think there is value in knowing what options to put on your expensive new
 
 # Legiones Astartes HQ
 
-## Introduction:
+### Introduction:
 
 All these units have two rules that interact with nearby friendly units: Master Tactician and Inspire. The first lets you swap out a unit order for another unit, after the HQ activates. This is very good, gives you a lot of flexibility to swap around first fire/advance/charge orders should you need to. Inspire lets you share the 2+ moral of this unit in a bubble which is also great, in that bubble even a broken formation will pass most moral checks.
 
@@ -93,7 +93,7 @@ HQs also get a 6+ invulnerable save but honestly who cares, once every 3 or 4 ga
 
 **Modeling:** I’d not worry that much about the pintle and hull weapons but advice on them is above. The main weapon is pretty easy to swap with a bit of blue tac, just don’t glue it in when assembling the model.
 
-# Legiones Astartes - Core & Support
+# Core & Support
 
 ### Introduction:
 
@@ -222,7 +222,7 @@ Last I want to mention that they’re pretty good as an anti-air option with las
 
 **Modeling:** You’ll need the Dreadnought Drop Pod box for this and it’s a bit awkward in terms of numbers. I’d recommend trying to split a box with a friend and each take two. Otherwise get 2 boxes and make 6 dreadnought boxes and 2 Palisades.
 
-# Legiones Astartes - Vanguard
+# Vanguard
 
 ### Outrider Squadron: C-
 
@@ -258,7 +258,7 @@ The other Javelin profile is an ignores cover missile launcher. This will deal .
 
 **Modeling:** As with Land Speeders you'd need 3 boxes for WYSIWYG full squads, so I'd not worry about weapon options too much.
 
-# Legiones Astartes - Light Armour
+# Light Armour
 
 ### Sabre Squadron: C
 
@@ -268,7 +268,7 @@ The other Javelin profile is an ignores cover missile launcher. This will deal .
 
 **Modeling:** I've not built any of these but they look very cute.
 
-# Legiones Astartes - Battle Tank
+# Battle Tank
 
 ### Predator Squadron: C
 
@@ -318,7 +318,7 @@ The other Javelin profile is an ignores cover missile launcher. This will deal .
 
 **Modeling:** The turrets are swappable between all Sicarans, use magnets or blu tac for that. I recommend having a split of the two sponson types if you have a few boxes of Sicarans.
 
-# Legiones Astartes - Heavy Armour
+# Heavy Armour
 
 ### A Note on Sponsons
 
@@ -400,7 +400,7 @@ In general Mastadons should be taken as the toughest transports in the game, and
 
 **Modeling:** Nothing to note here, the kit goes together smoothly and sponsons are the only option.
 
-# Legiones Astartes - Artillery
+# Artillery
 
 ### Scorpion Squadron: D
 
@@ -414,7 +414,7 @@ In general Mastadons should be taken as the toughest transports in the game, and
 **Load-out:** No options but I'd lean smaller squad sizes to make them easier to hide from your opponent's long range guns.
 **Modeling:**
 
-# Legiones Astartes - Air Support
+# Air Support
 
 ### Xiphon Interceptor Squadron: B+
 
@@ -425,7 +425,7 @@ In general Mastadons should be taken as the toughest transports in the game, and
 ### Fire Raptor Squadron: B+
 
 **Gameplay:** At only 5 points more than the Xiphon the Fire Raptor does something of a number on it. You have a lot of options for the side guns but if you were to take lascannons a Fire Raptor will deal 2.05 wounds to another flyer, admittedly at shorter range (16"). However it really shines with autocannons as an all-comers unit. With Autocannons it still deals 1.87 damage to flyers, but also deals 3.02 damage to space marine infantry (Xiphon: 1.24), 2.32 wounds to a Contemptor detachment (Xiphon 2.01) or .85 damage to a 2+ tank (Xiphon: 1.5). This moves it a bit into jack-of-all-trades, master of none territory, which is generally not something I like in Imperialis but I think the Fire Raptor pulls it off because as a flyer it can get where it needs to be to put out any fire you're dealing with.
-**Load-out:** Autocannons or lascannons, I don't think heavy bolters will be useful often enough, unlike with a tank you're (functionally) never using them in Overwatch.
+**Load-out:** Autocannons or lascannons, I don't think heavy bolters will be useful often enough. Of the first two options I like Autocannons more to make a unit that can really hurt exposed infantry, and when in the read arc really threaten vehicles. 
 **Modeling:** I'd put on lascannons or autocannons but don't think it matters which, they look pretty similar from 2 feet away. There is a big advantage to Xiphons I'll mention here, you get 6 to a box versus 2 Fire Raptors. Make sure you want Fire Raptors before buying the box. Lastly, the wings have aquila symbols which I would shave off if using these for traitors, which is pretty easy with a sharp hobby knife (don’t cut yourself).
 
 ### Storm Eagle Squadron: C
@@ -446,7 +446,7 @@ In conclusion, there is a lot going on with the Thunderhawk and you really want 
 **Load-out:** No options, you can take several in a squad but with minimal points savings and it makes transport of infantry less efficient.
 **Modeling:** Take your time building this one, it's the most complicated non-titan model, and be aware at $53 a pop these are investments.
 
-# Legiones Astartes - Bastion
+# Bastion
 ### Tarantula Battery: B
 Gameplay: Tarantulas have the Automated Sentry rule which means they break a lot of how Imperalis normally works. This means:
 1. They don't count for break-point
