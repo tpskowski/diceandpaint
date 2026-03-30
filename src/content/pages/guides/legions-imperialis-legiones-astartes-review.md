@@ -49,7 +49,7 @@ I also think there is value in knowing what options to put on your expensive new
 
 All these units have two rules that interact with nearby friendly units: Master Tactician and Inspire. The first lets you swap out a unit order for another unit, after the HQ activates. This is very good, gives you a lot of flexibility to swap around first fire/advance/charge orders should you need to. Inspire lets you share the 2+ moral of this unit in a bubble which is also great, in that bubble even a broken formation will pass most moral checks.
 
-Next to talk about is Commander. Any unit with Commander must be attacked to a unit with the same type from their formation. This is done on deployment and means that Battle Tank commanders need to go in a Battle Tank unit, and Infantry commanders in an Infantry unit. Generally you want to put them in a medium or large sized unit to protect the commander’s buffing effects. Note you don’t have to put them in exactly the same unit, just a matching slot, watch out for things like unit speed if you are doing this.
+Next to talk about is Commander. Any unit with Commander must be attached to a unit with the same type from their formation (if avaiable). This is done on deployment and means that Vehicle commanders need to go in a Vehicle unit, and Infantry commanders in an Infantry unit. Generally you want to put them in a medium or large sized unit to protect the commander’s buffing effects. Note you don’t have to put them in exactly the same unit, just a matching slot, watch out for things like unit speed if you are doing this. Note that Kratos are Vehicles not Super-Heavy Vehicles. So they can attack to Kratoses, Cerberuses, or something lighter like Predators.
 
 Last let’s talk about infantry commanders. When inside a transport Inspire and Master Tactician do not work. When inside a building, they both work, and have a larger range, as you count the building footprint as their base. This means that if your infantry HQ starts in a Rhino you want to get it out of there and into a building ASAP.
 
@@ -322,7 +322,7 @@ The other Javelin profile is an ignores cover missile launcher. This will deal .
 
 The Fellblade-chasis tanks have 3 weapon options: quad heavy bolter sponsons, quad lascannons, and laser destroyers. As this commentary applies to all 4 options I’m putting it here. The short version of this is that quad heavy bolter sponsons are only twice as effective as heavy bolter sponsons, while quad lascannons are two and a half times better than lascannons. The laser destroyers don’t have a direct comparison but are similar to lascannons. 
 
-What this means is the heavy bolter sponsons are comparably worse. If due to pintle weapons we want to value normal heavy bolters as 5pts, these sponson lascannons are 10pts of weapons. If we also view lascannons as 5pts, the quad lascannon or laser destroyer is 15pts of weapons. This isn’t huge, but it’s a pretty strict efficiency upgrade that will color my commentary on these options.
+What this means is the heavy bolter sponsons are comparably worse. If due to pintle weapons we want to value normal heavy bolters as 5pts, these sponson lascannons are 10pts of weapons. If we also view lascannons as 5pts, the quad lascannon or laser destroyer is 12.5pts of weapons. This isn’t huge, but it’s a pretty strict efficiency upgrade that will color my commentary on these options.
 
 ### Cerberus: A
 
@@ -502,7 +502,7 @@ Load-out: I don't like vehicle upgrades and with the ability to take Rhinos from
 Modeling: No notes here, these are not your best points/$ unit but they're worth picking up.
 
 ### Land Raider: B
-Gameplay: Land Raiders and Spartans have a lot of overlap. They're both las-armed Assault Transports. The Land Raider is half the price but with half the wounds and less transport. It also has a lot less firepower. Two Land Raiders get 1.5 lascannon hits a turn while a Spartan gets 4. Because of this I heavily favor the Spartan. However the Land Raider has a pretty big mobility advantage, gaining 1+ of extra movement is nice, but what really helps is Forward Deployment. Land Raiders can move up 27" from your deployment zone to offload infantry, and this is their real niche. If you need to get a unit far up the board, take Land Raiders, but for general use Rhinos and Spartans rule the roost.
+Gameplay: Land Raiders and Spartans have a lot of overlap. They're both las-armed Assault Transports. The Land Raider is half the price but with half the wounds and less transport. It also has a lot less firepower. Two Land Raiders get 1.5 lascannon hits a turn while a Spartan gets 2. Because of this I heavily favor the Spartan. However the Land Raider has a pretty big mobility advantage, gaining 1+ of extra movement is nice, but what really helps is Forward Deployment. Land Raiders can move up 27" from your deployment zone to offload infantry, and this is their real niche. If you need to get a unit far up the board, take Land Raiders, but for general use Rhinos and Spartans rule the roost.
 
 Load-out: Pintle weapon is the only option and I'd lean toward skipping them as they inflate the already quite high price of the model.
 
