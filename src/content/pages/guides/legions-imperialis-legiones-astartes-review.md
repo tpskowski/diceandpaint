@@ -107,7 +107,7 @@ For modeling I put fewer models on bases than GW would like. I do 4 marines, and
 
 **Modeling:** Assault marines are very dear, you only get a handful on each sprue. With their extra bulk these are a prime candidate for putting 4 to a base. This lets you get 3 stands/box rather than 2.
 
-### Legion Plasma Gun Detachment: C+
+### Legion Plasma Gun Detachment: B-
 
 **Game play:** Plasma detachments are in a strange place in this game. They have better shooting than tactical marines, but really want to be within 4” which is kind of crazy. They do have the same price as a tactical detachment when taken solo, but still cost more than assault marines. It’s not all bad, a squad of 8 of these in a building can put out 16 Overwatch dice. But you probably put them in Rhinos to get them to that building and why not just take assault marines?
 
@@ -145,7 +145,7 @@ More bodies for cheap is fine.
 
 Assault marines can make sense in the squad as it gives you better CAF. However, it means you can’t fit in most transports and the extra speed is of limited value. But it’s not no-value. You still do get 7” of movement making the unit a bit more flexible and letting you reach some things you might otherwise not get to. If you’re not taking a transport I favor Assault Marines over Tactical.
 
-**Legion Plasma Gun Detachment: B-**
+**Legion Plasma Gun Detachment: B**
 
 Plasma guns for a small price bump get you extra ranged firepower. This is fine, the fact that you can use normal bodies to adsorb fire makes Plasma Guns a little better than stand-alone.
 
@@ -222,17 +222,21 @@ Last I want to mention that they’re pretty good as an anti-air option with las
 
 # Vanguard
 
-### Outrider Squadron: C-
+One initial note on Vanguard - these slots are very rare. With the Demi-Company not having one you're looking at specalist formations like Aerial Assault or Sky Hunter Phalanx if you're looking to bring any of these, and bringing them in numbers requires the Sky Hunter Phalanx. This does somewhat weigh on the detachment type, they're rarer to see on the table because of the formation limitations..
 
-**Gameplay:** One of very few cavalry options Outriders suffer for a role. They're weak in close combat due to small unit sizes and middling CAF, but they're very fast and have strong anti-infantry shooting within 4". One key issue with cavalry is anything that kills infantry kills them, and they can't hide in buildings. They're fun but very hard to get value out of.
+### Outrider Squadron: C
+
+**Gameplay:** One of very few cavalry options Outriders suffer for a role. They're weak in close combat due to small unit sizes and middling CAF, but they're very fast and have strong anti-infantry shooting within 4". One key issue with cavalry is anything that kills infantry kills them, and they can't hide in buildings. They're fun but very hard to get value out of. The next unit generally is more useful despite being more expensive because it can take more models and Skimmer is very useful when moving over 20".
 
 **Load-out:** 2-model squads are one of the cheapest units in the game allowing for extra activations, but if looking to use these for anything you probably need 4 or 6 models.
 
 **Modeling:** The box only comes with 4 stands of Outriders so unless you're building several boxes worth keep that in mind.
 
-### Scimitar Jetbike Squadron: D
+### Scimitar Jetbike Squadron: B-
 
-**Gameplay:** For 10 more points you gain skimmer and 2" of movement, while seeing your weapons change. Gone are the pair of assault weapons, in their place you have all your shots in point defense heavy bolters. This isn't bad as it means you can march 24" and still fire. This is most useful for trying to nab objectives in the backfield, however with their small unit size and fragile stats this is a one-turn play. These do have an extremely large charge range so if there is a good charge target they can outnumber that can work. The issue is that Outriders are cheaper and do some of their job, and the next unit does almost all of their job while also being cheaper.
+**Gameplay:** For 10 more points you gain skimmer and 2" of movement, while seeing your weapons change. Gone are the pair of assault weapons, in their place you have all your shots in point defense heavy bolters. This isn't bad as it means you can march 24" and still fire. This is most useful for trying to nab objectives in the backfield, however with their small unit size and fragile stats this is a one-turn play.
+
+Really the strength of these +1 CAF models is charging. With a 24" charge they can seriously distrupt your enemy's plans. A unit of 6 will win the charge against most 4 model tank squads though you shouldn't expect to kill all of them.
 
 **Load-out:** You probably want six to have some weight of dice and models for contesting objectives.
 
@@ -246,11 +250,13 @@ Last I want to mention that they’re pretty good as an anti-air option with las
 
 **Modeling:** If you're worried about What You See is What You Get these are a nightmare, I'd recommend not worrying about that and counting all 4 in the box as the profile you want.
 
-### Javelin Squadron: B
+### Javelin Squadron: B+
 
 **Gameplay:** Back to the price of Jetbikes these share a 4+ with the Land Speeders. However the profile on these is very different, they do have a short range, not-Point-Defense heavy flamer, but they also have two options with 20 and 22" range. This puts them in an unusual spot as a fast cavalry sniper unit. One big advantage of that is most anti-infantry units have short range, between 11" move and 20+" range these should be able to keep themselves pretty safe. What do you get for that? The lascannon model comes in with okay damage, you're looking at .99 wounds on a 2+ tank with a max sized squadron. To compare that to a lascannon Predator you're looking at 96 points/damage for the Javelins and 92 points/damage for the Predator. Now a lascannon Predator isn't that good, in part because of a lot of competition, the Javelin as a somewhat unique unit doesn't have that. 
 
-The other Javelin profile is an ignores cover missile launcher. This will deal .67 wounds to garrisoned space marines per Javelin, compare this to .44 for a Missile Launcher detachment of marines, points are 17.5/model for the Javelin and 12.5/model for the marines, that's pretty competitive. The key thing to note here is that with Javalins it's one profile or the other, missile launchers get both. Overall I think Javelins are likely under-utilized, they present long-range, somewhat fragile, but very fast unit that will be hard for your opponent to deal with.
+The other Javelin profile is an ignores cover missile launcher. This will deal .67 wounds to garrisoned space marines per Javelin, compare this to .44 for a Missile Launcher detachment of marines, points are 17.5/model for the Javelin and 12.5/model for the marines, that's pretty competitive. If you send your Javelins within 6" it goes up to 1 wound on those marines though don't expect the Javelins to survie the expereince. Another thing to note is that with Javalins it's one profile or the other, missile launchers get both. Of course Missile Launchers are one of if not the best marine units so losing to them is no great shame.
+
+Overall I think Javelins are likely under-utilized, they present long-range, somewhat fragile, but very fast unit that will be hard for your opponent to deal with. Some of this certainly comes down to the lack of Vanguard slots.
 
 **Load-out:** I think both loadouts are worthwhile, depending on what type of offense you need to shore up. Any squad size seems fine with multiple 2 model units ideal if you have the activations and slots.
 
@@ -608,11 +614,11 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **List-building:** I don’t think this impacts your list building at all.
 
-**Splashability:** Taking a detachment of Space Wolves can be used to shut down infiltration. Deploy it far up in your deployment zone and a lot of the map is shut off to infiltrators. Useless if your opponent isn't using these rules, very good if they are. This gets better the more compeditive lists get as Infiltrate is overpowered.
+**Splashability:** Taking a detachment of Space Wolves can be used to shut down infiltration. Deploy it far up in your deployment zone and a lot of the map is shut off to infiltrators. Useless if your opponent isn't using these rules, very good if they are. This gets better the more competitive lists get as Infiltrate is overpowered.
 
 **Primary Force: D**
 
-**Allied Detachment: B+**
+**Allied Detachment: A**
 
 ### The VIIth Legion - Imperial Fists
 
@@ -758,7 +764,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Rule summary:** Take moral checks with an extra d6 choosing what you want. Everything gains Implacable.
 
-**Gameplay:** I think Salamanders are fantastic. They can mostly ignore moral if not broken, and when broken have a 75% chance of making it. Implacable is also a great rule for infantry and not bad for other units. Being able to keep control of a building or objective after losing combat is huge.
+**Gameplay:** I think Salamanders are fantastic. They can mostly ignore moral if not broken, and when broken have a 75% chance of making it. Implacable is also a great rule for infantry and not bad for other units. It means you're very hard to get out of buildings, but remember you can just choose to withdraw if you want.
 
 **List-building:** Do what feels right. I think these are very strong all-around rules. Note that generally you want to avoid 2-model detachments, but for Salamanders that’s not much of a risk.
 
@@ -800,4 +806,6 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 # Appendix C - Changelog
 
-### 2026-03-29: v1.0 published
+### 2026-03-30: v1.01
+Moved around a number of rankings based on feedback.
+### 2026-03-29: v1.0
