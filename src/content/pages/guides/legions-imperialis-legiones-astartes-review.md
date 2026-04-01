@@ -63,7 +63,7 @@ HQs also get a 6+ invulnerable save, try and remember this but it's very unlikel
 
 ### Legion Saturnine Command: B-
 
-**Gameplay:** For 25 more points you get a number of upgrades compared to the Command Squad. A second wound is the most notable you also get Implacable and Armoured. However, overall I don’t think the cost increase is worth it. You lose Medicae, and you lose 1” of movement. At twice the price that’s not a great deal. Also very bulky greatly limits its transport options. Generally I’m only taking these in the Legion Saturnine Heavy Assault Cadre, though I have no complaints taking it there.
+**Gameplay:** For 25 more points you get a number of upgrades compared to the Command Squad. A second wound is the most notable you also get Implacable and Armoured. However, overall I don’t think the cost increase is worth it. You lose Medicae, and you lose 1” of movement. At twice the price that’s not a great deal. Also very bulky greatly limits its transport options. The other thing they bring is Implacable, you can choose to not run away when losing a fight, or choose to run away. This is a great rule and is the best reason to bring them in non-Saturnine units. Generally I’m only taking these in the Legion Saturnine Heavy Assault Cadre, though I have no complaints taking it there.
 
 **Modeling:** What I said for the Legion Command Squad goes doubly here, you’re rarely taking more than one of these, so figure out what you want to do with spares.
 
@@ -83,9 +83,11 @@ HQs also get a 6+ invulnerable save, try and remember this but it's very unlikel
 
 **Modeling:** There are two Sicaran kits, the autocannon/plasma, and the Punisher/Arcus. Of the two the later is preferred, the Punisher is the best Sicaran, and the Arcus is one of the few anti-air tank options. Note that all Sicaran turrets can be swapped so over time if you pick up both kits you can flex turrets around. For sponsons you really want heavy bolters for Punishers and lascannons for Arcus. One option is to buy a box of each type of Sicaran, put lascannons on 4, heavy bolters on the other 4. You then have the turret options and can form squads as you please.
 
-### Legion Krytos Commander : A-
+### Legion Krytos Commander : B+
 
 **Gameplay:** The Kratos has a lot to recommend it. For only 30 points more than the Sicaran you get a 2+ save, double the wound count, and get a lot more firepower. A squadron of Krytos are a lot more durable and a lot more threatening than either of the tanks we’ve already covered, and with 8” movement they’re only a little slower. The battlecannon has a strange pair of profiles. They’re strange because the shorter range, AP -4 profile only gets one attack. This means that the 10” profile is worse against anything except a 1+ save. Versus a 2+ save it averages .49 wounds, where the 20” profilile averages .55. This is kinda a bummer but we all know GW can’t do math.
+
+The biggest issue with this and other command tanks is how damn expensive they are.
 
 **Load-out:**  The battlecannon and lascannons would be my default, swapping the hull lascannon to an autocannon is also totally fine. These loadouts will be stand-off tanks. If you want something a bit spicier take the melta blastgun and all the heavy bolters. The blastgun gives you some anti-building firepower, and combining it with Point Defense on the heavy bolters means you can target almost whatever you want with your various weapons. Don’t take pintle weapons, but if you must a heavy bolter is fine on the commander.
 
@@ -224,7 +226,7 @@ Last I want to mention that they’re pretty good as an anti-air option with las
 
 One initial note on Vanguard - these slots are very rare. With the Demi-Company not having one you're looking at specalist formations like Aerial Assault or Sky Hunter Phalanx if you're looking to bring any of these, and bringing them in numbers requires the Sky Hunter Phalanx. This does somewhat weigh on the detachment type, they're rarer to see on the table because of the formation limitations..
 
-### Outrider Squadron: C
+### Outrider Squadron: C+
 
 **Gameplay:** One of very few cavalry options Outriders suffer for a role. They're weak in close combat due to small unit sizes and middling CAF, but they're very fast and have strong anti-infantry shooting within 4". One key issue with cavalry is anything that kills infantry kills them, and they can't hide in buildings. They're fun but very hard to get value out of. The next unit generally is more useful despite being more expensive because it can take more models and Skimmer is very useful when moving over 20".
 
@@ -232,7 +234,7 @@ One initial note on Vanguard - these slots are very rare. With the Demi-Company 
 
 **Modeling:** The box only comes with 4 stands of Outriders so unless you're building several boxes worth keep that in mind.
 
-### Scimitar Jetbike Squadron: B-
+### Scimitar Jetbike Squadron: B
 
 **Gameplay:** For 10 more points you gain skimmer and 2" of movement, while seeing your weapons change. Gone are the pair of assault weapons, in their place you have all your shots in point defense heavy bolters. This isn't bad as it means you can march 24" and still fire. This is most useful for trying to nab objectives in the backfield, however with their small unit size and fragile stats this is a one-turn play.
 
@@ -330,11 +332,11 @@ The Fellblade-chasis tanks have 3 weapon options: quad heavy bolter sponsons, qu
 
 What this means is the heavy bolter sponsons are comparably worse. If due to pintle weapons we want to value normal heavy bolters as 5pts, these sponson lascannons are 10pts of weapons. If we also view lascannons as 5pts, the quad lascannon or laser destroyer is 12.5pts of weapons. This isn’t huge, but it’s a pretty strict efficiency upgrade that will color my commentary on these options.
 
-### Cerberus: A
+### Cerberus: S-
 
 **Gameplay**: To talk about the Cerbarus is to talk about Shock Pulse weapons. If a model is hit by Shock Pulse when it next moves it is half speed, and when it next fires it can only shoot one weapon. Additionally, it does 2 damage to Void Shields, and rules as written the one weapon effect bypasses Voids. Many people play that Void Shield hits don't trigger Shock Pulse, and there are some serious FAQ-type questions about the rule (firing a Heavy Bolter during the movement phase would let you fire your full complement in the next phase). However you play it, it's a powerful rule and one of two ways to really put the hurt on super heavies. And the Cerberus is the premier Shock Pulse platform in the game. And this just comes down to points efficiency and range. Costing 25 points more than the Valdor Tank Destroyer it has 8" longer range and triple the Shock-Pulse firepower. Costing 45 points less than the Falchion, it loses 6" of range, a wound, and they average the same number of Shock Pulse hits, though the Falchion does have more lascannon shots.
 
-All of that is to say that this is the premiere anti-tank choice for Astartes armour.
+Having spent a paragraph talking about Shock Pulse, it's also just a very efficent damage platform. This puts more damage into tanks than a Leman Russ Vanqisher, often regarded as the king of anti-tank.
 
 **Load-out**: Single models are great, 2-model squads are fine but a little risky due to moral. 3-model squads can be a bit overkill for Shock Pulse but the platform is still an efficient anti-tank platform.
 
@@ -426,7 +428,7 @@ In general Mastadons should be taken as the toughest transports in the game, and
 **Load-out:** No choices but with a solid discount for extra models I'm happy to take larger squadrons here.
 **Modeling:** No options, note that a box of 6 is a lot and splitting one would probably be fine.
 
-### Fire Raptor Squadron: B+
+### Fire Raptor Squadron: A
 
 **Gameplay:** At only 5 points more than the Xiphon the Fire Raptor does something of a number on it. You have a lot of options for the side guns but if you were to take lascannons a Fire Raptor will deal 2.05 wounds to another flyer, admittedly at shorter range (16"). However it really shines with autocannons as an all-comers unit. With Autocannons it still deals 1.87 damage to flyers, but also deals 3.02 damage to space marine infantry (Xiphon: 1.24), 2.32 wounds to a Contemptor detachment (Xiphon 2.01) or .85 damage to a 2+ tank (Xiphon: 1.5). This moves it a bit into jack-of-all-trades, master of none territory, which is generally not something I like in Imperialis but I think the Fire Raptor pulls it off because as a flyer it can get where it needs to be to put out any fire you're dealing with.
 **Load-out:** Autocannons or lascannons, I don't think heavy bolters will be useful often enough. Of the first two options I like Autocannons more to make a unit that can really hurt exposed infantry, and when in the read arc really threaten vehicles. 
@@ -696,7 +698,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Gameplay:** This is a pretty stratighforward and good ability. Rerolls are rare in the game and you should try and take advantage of them. Small detachments can be helpful to start the re-roll chain. Likewise long-range weapons will make it easier to trigger this by having more units shooting the same targets.
 
-**List-building:** This rewards large formations to maximize the number of times you reroll 1s. You also don’t really want to get into close combat often.
+**List-building:** This rewards large formations to maximize the number of times you reroll 1s. You also want to have plenty of smaller detachments to start this rule going. This also rewards transports, Rhinos or Termites can trigger this against any target, even if they can't harm it.
 
 **Splashability:**  This is a legion that I think suffers as an allied formation. While each formation is self-contained for the Ultramarines, I think you do want big formations and it’s a pretty cohesive game plan that isn’t that splashable. You could certainly take a tank formation here designed to use the rule, I just think there are better splashes.
 
