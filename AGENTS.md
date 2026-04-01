@@ -30,6 +30,7 @@
 - Preserve the markdown-first content model by default.
 - Use `.md` for simple editorial content and `.mdx` only when embedded components are necessary.
 - Add or extend collection schema fields in `src/content.config.ts` when metadata requirements change.
+- Before pushing or building, check any new file under `src/content/pages` including drafts for required schema frontmatter, especially `title` and `summary`.
 - Keep the homepage post-first: linked thumbnails and post metadata, not long article text dumps.
 - Maintain navigation as data in `src/data/navigation.ts` so category growth and off-site links stay manageable.
 - Keep non-blog pages organized under the folder that matches the top-level nav category whenever possible.
