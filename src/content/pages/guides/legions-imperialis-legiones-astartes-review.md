@@ -47,9 +47,9 @@ I also think there is value in knowing what options to put on your expensive new
 
 ### Introduction:
 
-All these units have two rules that interact with nearby friendly units: Master Tactician and Inspire. The first lets you swap out a unit order for another unit, after the HQ activates. This is very good, gives you a lot of flexibility to swap around first fire/advance/charge orders should you need to. Inspire lets you share the 2+ moral of this unit in a bubble which is also great, in that bubble even a broken formation will pass most moral checks.
+All these units have two rules that interact with nearby friendly units: Master Tactician and Inspire. The first lets you swap out a unit order for another unit, after the HQ activates. This is very good, gives you a lot of flexibility to swap around first fire/advance/charge orders should you need to. Inspire lets you share the 2+ morale of this unit in a bubble which is also great, in that bubble even a broken formation will pass most morale checks.
 
-Next to talk about is Commander. Any unit with Commander must be attached to a unit with the same type from their formation (if avaiable). This is done on deployment and means that Vehicle commanders need to go in a Vehicle unit, and Infantry commanders in an Infantry unit. Generally you want to put them in a medium or large sized unit to protect the commander’s buffing effects. Note you don’t have to put them in exactly the same unit, just a matching slot, watch out for things like unit speed if you are doing this. Note that Kratos are Vehicles not Super-Heavy Vehicles. So they can attack to Kratoses, Cerberuses, or something lighter like Predators.
+Next to talk about is Commander. Any unit with Commander must be attached to a unit with the same type from their formation (if available). This is done on deployment and means that Vehicle commanders need to go in a Vehicle unit, and Infantry commanders in an Infantry unit. Generally you want to put them in a medium or large sized unit to protect the commander’s buffing effects. Note you don’t have to put them in exactly the same unit, just a matching slot, watch out for things like unit speed if you are doing this. Note that Kratos are Vehicles not Super-Heavy Vehicles. So they can attach to Kratoses, Cerberuses, or something lighter like Predators.
 
 Last let’s talk about infantry commanders. When inside a transport Inspire and Master Tactician do not work. When inside a building, they both work, and have a larger range, as you count the building footprint as their base. This means that if your infantry HQ starts in a Rhino you want to get it out of there and into a building ASAP.
 
@@ -57,7 +57,7 @@ HQs also get a 6+ invulnerable save, try and remember this but it's very unlikel
 
 ### Legion Command Squad: A-
 
-**Gameplay:** The basic Legion Command Squad is a single wound model for the low-low price of 25 points. It’s pretty good. The Medicae rule gives a small bubble of a feel no pain save for infantry. This can now be purchased by Legion Tactical Detachments but is free here. This squad also has +4 CAF which is pretty good but as a single wound model it is risky in close combat. This is the cheapest option which is good, it’s Inspire and Master Commander work the same way as other more expensive HQs.
+**Gameplay:** The basic Legion Command Squad is a single wound model for the low-low price of 25 points. It’s pretty good. The Medicae rule gives a small bubble of a feel no pain save for infantry. This can now be purchased by Legion Tactical Detachments but is free here. This squad also has +4 CAF which is pretty good but as a single wound model it is risky in close combat. This is the cheapest option which is good, its Inspire and Master Tactician work the same way as other more expensive HQs.
 
 **Modeling:** You’ll end up with a lot more of these squads than you’ll ever use. You want a lot of boxes of Legiones Astartes Infantry but I think it would be rare to field more than 2 of these in a list. Build 3, 4 if you want, but you can sprinkle these models in other squads or use them for basing past that.
 
@@ -73,19 +73,19 @@ HQs also get a 6+ invulnerable save, try and remember this but it's very unlikel
 
 **Load-out:** “Oops all lascannons” is my preferred loadout, it won’t win any awards but it gives you a reasonable amount of anti-tank firepower. Use the tank’s speed and range to keep the unit safe. Do not take pintle weapons.
 
-**Modeling:** I would put lascannons sponsons on all my Predators, the turret weapons are long range, and the tanks are fast, so no real reason to rely on heavy bolters. The models come with both turret options so you can have access to both.
+**Modeling:** I would put lascannon sponsons on all my Predators, the turret weapons are long range, and the tanks are fast, so no real reason to rely on heavy bolters. The models come with both turret options so you can have access to both.
 
-### Legion Sicaran Commander : B
+### Legion Sicaran Commander: B
 
 **Gameplay:** Sicaran tanks are very fast (10”) and have a wide range of guns. Both of these are pretty appealing.
 
-**Load-out:** I think your best bet is the Punisher cannon with heavy bolters, this Sicaran loadout is one of the best anti-infantry platforms in the game, putting out a huge number of dice. I also think the twin-linked accelerator autocannon paired with lascanons is a solid loadout, which can actually go in a squad of Sicaran Arcus tanks, an option commanders can’t take, but these two weapon loadouts pair together well for a mobile firebase happy to shoot planes or tanks. Do not take pintle weapons, though a heavy bolter on your Punisher commander is not the worst way to spend 5 points.
+**Load-out:** I think your best bet is the Punisher cannon with heavy bolters, this Sicaran loadout is one of the best anti-infantry platforms in the game, putting out a huge number of dice. I also think the twin-linked accelerator autocannon paired with lascannons is a solid loadout, which can actually go in a squad of Sicaran Arcus tanks, an option commanders can’t take, but these two weapon loadouts pair together well for a mobile firebase happy to shoot planes or tanks. Do not take pintle weapons, though a heavy bolter on your Punisher commander is not the worst way to spend 5 points.
 
-**Modeling:** There are two Sicaran kits, the autocannon/plasma, and the Punisher/Arcus. Of the two the later is preferred, the Punisher is the best Sicaran, and the Arcus is one of the few anti-air tank options. Note that all Sicaran turrets can be swapped so over time if you pick up both kits you can flex turrets around. For sponsons you really want heavy bolters for Punishers and lascannons for Arcus. One option is to buy a box of each type of Sicaran, put lascannons on 4, heavy bolters on the other 4. You then have the turret options and can form squads as you please.
+**Modeling:** There are two Sicaran kits, the autocannon/plasma, and the Punisher/Arcus. Of the two the latter is preferred, the Punisher is the best Sicaran, and the Arcus is one of the few anti-air tank options. Note that all Sicaran turrets can be swapped so over time if you pick up both kits you can flex turrets around. For sponsons you really want heavy bolters for Punishers and lascannons for Arcus. One option is to buy a box of each type of Sicaran, put lascannons on 4, heavy bolters on the other 4. You then have the turret options and can form squads as you please.
 
-### Legion Krytos Commander : B+
+### Legion Kratos Commander: B+
 
-**Gameplay:** The Kratos has a lot to recommend it. For only 30 points more than the Sicaran you get a 2+ save, double the wound count, and get a lot more firepower. A squadron of Krytos are a lot more durable and a lot more threatening than either of the tanks we’ve already covered, and with 8” movement they’re only a little slower. The battlecannon has a strange pair of profiles. They’re strange because the shorter range, AP -4 profile only gets one attack. This means that the 10” profile is worse against anything except a 1+ save. Versus a 2+ save it averages .49 wounds, where the 20” profilile averages .55. This is kinda a bummer but we all know GW can’t do math.
+**Gameplay:** The Kratos has a lot to recommend it. For only 30 points more than the Sicaran you get a 2+ save, double the wound count, and get a lot more firepower. A squadron of Kratos are a lot more durable and a lot more threatening than either of the tanks we’ve already covered, and with 8” movement they’re only a little slower. The battlecannon has a  pair of profiles. A 10" profile does an average of 0.38 wounds to a 2+ save versus the 0.33 of the longer range profile. This uh, is slightly better so use it I guess, but GW really should have tried to differentiate them more. The Melta profile does 0.48 wounds to tanks but is a very powerful, if expensive Demolisher weapon. You're also only able to shoot 6" in that case.
 
 The biggest issue with this and other command tanks is how damn expensive they are.
 
@@ -103,7 +103,7 @@ For modeling I put fewer models on bases than GW would like. I do 4 marines, and
 
 ### Legion Assault Detachment: A-
 
-**Game play:** Assault marines are quite good. Your basic tactical marine sucks at shooting and sucks at fighting and costs **more** than these guys. For 5 points less for the squad of 4 you get +1 CAF, +2” movement, and the ability to jump over things. You lose some firepower but I don’t think it matters much. These are great objective capers/holders for a dirt cheap price. With a 14” march they can reposition quite effectively. They’re not going to get a lot of kills but you take them a mobile source of bodies that if your opponent screws up, well, they can do some damage in melee. The largest downside is they can’t take most transports but with 14” movement this isn’t the end of the world, tactical marines will be faster on turn 1 if they’re in Rhinos but Assault marines are more mobile across the course of the game.
+**Gameplay:** Assault marines are quite good. Your basic tactical marine sucks at shooting and sucks at fighting and costs **more** than these guys. For 5 points less for the squad of 4 you get +1 CAF, +2” movement, and the ability to jump over things. You lose some firepower but I don’t think it matters much. These are great objective cappers/holders for a dirt cheap price. With a 14” march they can reposition quite effectively. They’re not going to get a lot of kills but you take them as a mobile source of bodies that if your opponent screws up, well, they can do some damage in melee. The largest downside is they can’t take most transports but with 14” movement this isn’t the end of the world, tactical marines will be faster on turn 1 if they’re in Rhinos but Assault marines are more mobile across the course of the game.
 
 **Load-out:** Go min or max squad size, both are good. Always remember these guys are aiming for objectives.
 
@@ -111,23 +111,23 @@ For modeling I put fewer models on bases than GW would like. I do 4 marines, and
 
 ### Legion Plasma Gun Detachment: B-
 
-**Game play:** Plasma detachments are in a strange place in this game. They have better shooting than tactical marines, but really want to be within 4” which is kind of crazy. They do have the same price as a tactical detachment when taken solo, but still cost more than assault marines. It’s not all bad, a squad of 8 of these in a building can put out 16 Overwatch dice. But you probably put them in Rhinos to get them to that building and why not just take assault marines?
+**Gameplay:** Plasma detachments are in a strange place in this game. They have better shooting than tactical marines, but really want to be within 4” which is kind of crazy. They do have the same price as a tactical detachment when taken solo, but still cost more than assault marines. It’s not all bad, a squad of 8 of these in a building can put out 16 Overwatch dice. But you probably put them in Rhinos to get them to that building and why not just take assault marines?
 
 **Load-out:** If I’m taking these solo I want the full 8, they rely on weight of dice, though keep in mind unless they’re in a garrison getting all 8 within 4” could be an issue.
 
-**Modeling: D**o what you’re doing for other marines.
+**Modeling:** Do what you’re doing for other marines.
 
 ### Legion Missile Launcher Detachment: A+
 
-**Game play:** These are the primer space marine infantry. They’re a little pricey but have great range and two good attack profiles. You don’t want these coming down on the opponent’s side of the table but they’re great for holding back field objectives, or if in the mid-table can threaten most of the board. These guys need to stay garrisoned, they’re a lot more expensive than other marines but no tougher.
+**Gameplay:** These are the premier space marine infantry. They’re a little pricey but have great range and two good attack profiles. You don’t want these coming down on the opponent’s side of the table but they’re great for holding back field objectives, or if in the mid-table can threaten most of the board. These guys need to stay garrisoned, they’re a lot more expensive than other marines but no tougher.
 
 **Load-out:** These are flexible. Four stands are a perfectly fine way to cap an objective and lob a few shots, or take 8 as a more serious threat.
 
-**Modeling:** You only get 10 in a box so building squads with GW models is hard. If you’re painting on the sprue I recommend attacking the arms to the model before painting.
+**Modeling:** You only get 12 in a box so building squads with GW models is hard. If you’re painting on the sprue I recommend attaching the arms to the model before painting.
 
 ### Legion Terminator Detachment: A-
 
-**Game play:** Terminators have a lot of changes from the units we’ve just looked at. Save goes to 4+, CAF is a mighty+4, and they have a lot of rules - Armoured (re-roll saves vs Light weapons), Implacable (don’t run away from close combat), Steadfast (+1 Tactical Strength). Most notably, they have Deep Strike allowing them to come down anywhere on the battlefield after the first turn, with some risk. This is very powerful in a game about holding objectives with infantry. I think any Astartes list should try and bring a squad just because they’re so flexible for grabbing points. As for downsides, they’re harder to transport, and cost more. Overall, they’re a very flexible unit that I recommend taking most games. Remember that you can move after you deep strike, so deep strike, then hop in a building. You can’t assault, which does add some value to taking these in an Assault Transport vehicle.
+**Gameplay:** Terminators have a lot of changes from the units we’ve just looked at. Save goes to 4+, CAF is a mighty +4, and they have a lot of rules - Armoured (re-roll saves vs Light weapons), Implacable (don’t run away from close combat), Steadfast (+1 Tactical Strength). Most notably, they have Deep Strike allowing them to come down anywhere on the battlefield after the first turn, with some risk. This is very powerful in a game about holding objectives with infantry. I think any Astartes list should try and bring a squad just because they’re so flexible for grabbing points. As for downsides, they’re harder to transport, and cost more. Overall, they’re a very flexible unit that I recommend taking most games. Remember that you can move after you deep strike, so deep strike, then hop in a building. You can’t assault, which does add some value to taking these in an Assault Transport vehicle.
 
 **Load-out:**  As with most infantry, min or max is good. Min size deep striking Terminators are almost not worth dealing shooting at, max size and they’re a real threat.
 
@@ -135,7 +135,7 @@ For modeling I put fewer models on bases than GW would like. I do 4 marines, and
 
 ### Legion Tactical Detachment: A
 
-**Game play:** This is one of the most complicated units in the game to talk about. It starts with 4 basic tactical marine stands, but any of the preceding units can be added to it. The basic tactical marine sucks at everything. However the unit has a ton of options. First, there is one load-out choice - for +10 points you can gain Medicae for a feel no pain save. This is a great upgrade and outside of units that are min-size or with a commander it’s worth taking when you have the points.
+**Gameplay:** This is one of the most complicated units in the game to talk about. It starts with 4 basic tactical marine stands, but any of the preceding units can be added to it. The basic tactical marine sucks at everything. However the unit has a ton of options. First, there is one load-out choice - for +10 points you can gain Medicae for a feel no pain save. This is a great upgrade and outside of units that are min-size or with a commander it’s worth taking when you have the points.
 
 **Load-out:** The options are vast. 4 models can hold a back field point, a max-size unit can do a lot of stuff. I like 8 model units as a fairly flexible size but any size can work. Below I’ll go through the various add-on options, and how I feel they rate for the Tactical Detachment.
 
@@ -161,23 +161,23 @@ Terminators are similar to Assault Marines but you get an extra +1 CAF at an ext
 
 **Recommended Detachments:**
 
-4 Tactical, 8 Missile (115 Pts) - Ranged firepower
+4 Tactical, 8 Missile (115 pts) - Ranged firepower
 
-10 Tactical, 2 Terminator (91 Pts) - Hard to shift objective holder in Land Raiders/Spartans
+10 Tactical, 2 Terminator (91 pts) - Hard to shift objective holder in Land Raiders/Spartans
 
-4 Tactical, 4 Assault, 2 Terminator (91 Pts) - Footslogging hard to shift objective holder
+4 Tactical, 4 Assault, 2 Terminator (91 pts) - Footslogging hard to shift objective holder
 
-4 Tactical (35 Pts) - Cheap objective squatters
+4 Tactical (35 pts) - Cheap objective squatters
 
 **Modeling:** Make sure to have a few stands with a white helmet to indicate an apothecary.
 
 ### Legion Saturnine Terminator Detachment: C+
 
-**Gameplay:** What a weird unit to grade. These are rare 2-wound infantry, which is quite good, but they’re very expensive, and very hard to move around the table. With only 4” movement and 8-12” range they need a transport or alternative deployment option. I think they’re an F if you don’t have one of those things, so take the above grade in that context. Your options for that are three fold: first, you can put them in a Mastadon or Thunderhawk, both are pretty appealing though the Thunderhawk can be very high risk with a belly full of these guys. Second, if you’re playing an overpowered legion, by which I mean Raven Guard or Alpha Legion you can infiltrate these, Saturnine are a lot better if they can start mid-board. Lastly, there is the Saturnine Heavy Assault Cadre - a formation which gives them Deep Strike. It’s quite good and how I’d run these outside of the prior options.
+**Gameplay:** What a weird unit to grade. These are rare 2-wound infantry, which is quite good, but they’re very expensive, and very hard to move around the table. With only 4” movement and 8-12” range they need a transport or alternative deployment option. I think they’re an F if you don’t have one of those things, so take the above grade in that context. Your options for that are threefold: first, you can put them in a Mastodon or Thunderhawk, both are pretty appealing though the Thunderhawk can be very high risk with a belly full of these guys. Second, if you’re playing an overpowered legion, by which I mean Raven Guard or Alpha Legion, you can infiltrate these; Saturnine Terminators are a lot better if they can start mid-board. Lastly, there is the Saturnine Heavy Assault Cadre - a formation which gives them Deep Strike. It’s quite good and how I’d run these outside of the prior options.
 
 However speed isn’t the only problem, they also are in a weird spot with close combat. They’re only CAF +2, and frequently outnumbered. So they’re a short range shooting infantry unit that’s pretty tough. It’s worth noting that the disintegrators are AP -2 with no negative traits. If you can get Saturnine behind tanks they will shred them, and that’s where I see getting the best value from them.
 
-**Load-out:** The fists are bad, you want guns. Disintergrators are better than bombards (Barrage is not a good rule), but the double-gun option for +10 points isn’t bad. I think the best loadouts are 3 or 6 with twin disintergrators are the best, but dual guns are also fine here.
+**Load-out:** The fists are bad, you want guns. Disintegrators are better than bombards (Barrage is not a good rule), but the double-gun option for +10 points isn’t bad. I think the best loadouts are 3 or 6 with twin disintegrators, but dual guns are also fine here.
 
 **Modeling:** These are a disaster because there are a ton of fists you don’t want. You also don’t get the right number of guns for each arm, you can take the fist arms, and gun arms, and a little plastic cement to correct this, but it’s not fun.
 
@@ -191,7 +191,7 @@ However speed isn’t the only problem, they also are in a weird spot with close
 
 ### Legion Contemptor Dreadnought Detachment: A-
 
-**Game-play:** The Contemptor has some big upsides, and some downsides. First, with a 5+ invulnerable save, Armoured, and about 17 points a model they’re pretty durable. A big squad of these takes some attention to shut down. And another advantage is they have CAF +5 which is a pretty big number, these will beat most units in combat though you do have to watch out for infantry outnumbering you. Now, on the weaker side we’ve got their biggest issue - 5” speed. This is a common walker problem and they just won’t be in range on turn 1, and with assault cannons they might not be in range on turn 2.
+**Gameplay:** The Contemptor has some big upsides, and some downsides. First, with a 5+ invulnerable save, Armoured, and about 17 points a model they’re pretty durable. A big squad of these takes some attention to shut down. And another advantage is they have CAF +5 which is a pretty big number, these will beat most units in combat though you do have to watch out for infantry outnumbering you. Now, on the weaker side we’ve got their biggest issue - 5” speed. This is a common walker problem and they just won’t be in range on turn 1, and with assault cannons they might not be in range on turn 2.
 Last I want to mention that they’re pretty good as an anti-air option with lascannons. A squad of 4 averages .8 wounds on 4+ flyers, and that goes for overwatch too. So a larger  squad is a real threat to planes from overwatch. I would not bring them for AA, but having some to supplement other options is good. The assault cannon is actually almost as effective shooting at planes but with only 8” range they need to come to you.
 
 **Load-out:** Do not mix weapons. The lascannon is generally better because it gives you at least an extra turn of shooting, possibly 2, as well as long-range anti-air threat. That said, the Assault Cannon will pair better with their best trait - their CAF. I will also note that the Assault Cannon can be a surprisingly good anti-air weapon thanks to Rapid Fire.
@@ -200,15 +200,15 @@ Last I want to mention that they’re pretty good as an anti-air option with las
 
 ### Legion Leviathan Siege Dreadnought Detachment: B-
 
-**Game-play:** The rules writers did Contemptors and Leviathans a bit dirty in Imperialis. They are the same speed, same toughness, the Leviathans are a slightly more expensive and this comes down to weapons. The Leviathan has shorter range weapons, a little more powerful. It also has a melee weapon with Wrecker enabling them to take down buildings. The big difference is the Leviathan is shorter range and better in melee. However with the same 5” move you really need to transport them in if you want to do this, however Leviathans in Mastadons or Thunder Hawks are perfectly allowed, and viable. If just foot-slogging I recommend lascannon Contemptors, though storm cannon Leviathans take the cake over assault cannon Contemptors.
+**Gameplay:** The rules writers did Contemptors and Leviathans a bit dirty in Imperialis. They are the same speed, same toughness, the Leviathans are slightly more expensive and this comes down to weapons. The Leviathan has shorter range weapons, a little more powerful. It also has a melee weapon with Wrecker enabling them to take down buildings. The big difference is the Leviathan is shorter range and better in melee. However, with the same 5” move you really need to transport them in if you want to do this, and Leviathans in Mastodons or Thunderhawks are perfectly allowed, and viable. If just foot-slogging I recommend lascannon Contemptors, though storm cannon Leviathans take the cake over assault cannon Contemptors.
 
 **Load-out:** Both weapons are fine, I lean melta as it lets you double up on Wrecker/Demolisher attacks but the storm cannon is vs good into infantry and not bad into flyers in a pinch.
 
-**Modeling:** Just be aware that the guns and melee weapons have specific pairings but idential rules for the melee weapons so do what your heard desires.
+**Modeling:** Just be aware that the guns and melee weapons have specific pairings but identical rules for the melee weapons so do what your heart desires.
 
 ### Legion Deathstorm Drop Pod Detachment: C+
 
-**Game-play:** One of the highest risk/reward units in the game the Deathstorm is a very fun bit of kit. It can deep strike from turn one, and when it comes down every detachment (friend or foe) within 10” is getting hit with some light AT firepower. There are two huge downsides. The first is that the gun is Limited (1) so you get one shot to make back their points (40 for 2, 110 for 6). The second issue is deep strike scatters, if you try and drop too close to the enemy you may land on them, which destroys your pods but not them. Weirdly, the answer to this is to take larger squads of Deathstorms. You scatter a single model, then others must be placed within 2” of it. So if you take a squad of 4, place your entry point fairly far from the enemy, and your other models can be placed such that they best can deploy their 10” range.
+**Gameplay:** One of the highest risk/reward units in the game the Deathstorm is a very fun bit of kit. It can deep strike from turn one, and when it comes down every detachment (friend or foe) within 10” is getting hit with some light AT firepower. There are two huge downsides. The first is that the gun is Limited (1) so you get one shot to make back their points (40 for 2, 110 for 6). The second issue is deep strike scatters, if you try and drop too close to the enemy you may land on them, which destroys your pods but not them. Weirdly, the answer to this is to take larger squads of Deathstorms. You scatter a single model, then others must be placed within 2” of it. So if you take a squad of 4, place your entry point fairly far from the enemy, and your other models can be placed such that they can best deploy their 10” range.
 
 **Load-out:** I think taking 4 for 75 points is your best best. Gives you good options to place them and if you’re lucky that’s 8 dice going into 3 or 4 detachments.
 
@@ -216,7 +216,7 @@ Last I want to mention that they’re pretty good as an anti-air option with las
 
 ### Legion Palisade Drop Pod: B+
 
-**Game-play:** Like the Deathstorm the Palisade has some issues with placement. It has a very powerful offer, for 25 points you get a 6” bubble of a 5+ invulnerable save. This can be great back-field protection against high AP weapons. The issue is it will scatter 1d6” when you deep strike making it a little hard to predict where your fire-base will set up, and worse, it could land on them. You can mostly mitigate this by deep striking this on turn one a bit in front of your lines, and then move your fire-base up around it.
+**Gameplay:** Like the Deathstorm the Palisade has some issues with placement. It has a very powerful offer, for 25 points you get a 6” bubble of a 5+ invulnerable save. This can be great back-field protection against high AP weapons. The issue is it will scatter 1d6” when you deep strike making it a little hard to predict where your firebase will set up, and worse, it could land on them. You can mostly mitigate this by deep striking this on turn one a bit in front of your lines, and then move your firebase up around it.
 
 **Load-out:** We have literally no options here.
 
@@ -224,7 +224,7 @@ Last I want to mention that they’re pretty good as an anti-air option with las
 
 # Vanguard
 
-One initial note on Vanguard - these slots are very rare. With the Demi-Company not having one you're looking at specalist formations like Aerial Assault or Sky Hunter Phalanx if you're looking to bring any of these, and bringing them in numbers requires the Sky Hunter Phalanx. This does somewhat weigh on the detachment type, they're rarer to see on the table because of the formation limitations..
+One initial note on Vanguard - these slots are very rare. With the Demi-Company not having one you're looking at specialist formations like Aerial Assault or Sky Hunter Phalanx if you're looking to bring any of these, and bringing them in numbers requires the Sky Hunter Phalanx. This does somewhat weigh on the detachment type, they're rarer to see on the table because of the formation limitations.
 
 ### Outrider Squadron: C+
 
@@ -238,9 +238,9 @@ One initial note on Vanguard - these slots are very rare. With the Demi-Company 
 
 **Gameplay:** For 10 more points you gain skimmer and 2" of movement, while seeing your weapons change. Gone are the pair of assault weapons, in their place you have all your shots in point defense heavy bolters. This isn't bad as it means you can march 24" and still fire. This is most useful for trying to nab objectives in the backfield, however with their small unit size and fragile stats this is a one-turn play.
 
-Really the strength of these +1 CAF models is charging. With a 24" charge they can seriously distrupt your enemy's plans. A unit of 6 will win the charge against most 4 model tank squads though you shouldn't expect to kill all of them.
+Really the strength of these +1 CAF models is charging. With a 24" charge they can seriously disrupt your enemy's plans. A unit of 6 will win the charge against most 4 model tank squads though you shouldn't expect to kill all of them, 9 will generally wipe them out.
 
-**Load-out:** You probably want six to have some weight of dice and models for contesting objectives.
+**Load-out:** You probably want six to have some weight of dice and models for contesting objectives but 9 is good too.
 
 **Modeling:** You get a max size unit in each box so if you buy several boxes for the units below you'll end up with quite the surplus of these.
 
@@ -256,7 +256,7 @@ Really the strength of these +1 CAF models is charging. With a 24" charge they c
 
 **Gameplay:** Back to the price of Jetbikes these share a 4+ with the Land Speeders. However the profile on these is very different, they do have a short range, not-Point-Defense heavy flamer, but they also have two options with 20 and 22" range. This puts them in an unusual spot as a fast cavalry sniper unit. One big advantage of that is most anti-infantry units have short range, between 11" move and 20+" range these should be able to keep themselves pretty safe. What do you get for that? The lascannon model comes in with okay damage, you're looking at .99 wounds on a 2+ tank with a max sized squadron. To compare that to a lascannon Predator you're looking at 96 points/damage for the Javelins and 92 points/damage for the Predator. Now a lascannon Predator isn't that good, in part because of a lot of competition, the Javelin as a somewhat unique unit doesn't have that. 
 
-The other Javelin profile is an ignores cover missile launcher. This will deal .67 wounds to garrisoned space marines per Javelin, compare this to .44 for a Missile Launcher detachment of marines, points are 17.5/model for the Javelin and 12.5/model for the marines, that's pretty competitive. If you send your Javelins within 6" it goes up to 1 wound on those marines though don't expect the Javelins to survie the expereince. Another thing to note is that with Javalins it's one profile or the other, missile launchers get both. Of course Missile Launchers are one of if not the best marine units so losing to them is no great shame.
+The other Javelin profile is an Ignores Cover missile launcher. This will deal .67 wounds to garrisoned space marines per Javelin, compare this to .44 for a Missile Launcher detachment of marines, points are 17.5/model for the Javelin and 12.5/model for the marines, that's pretty competitive. If you send your Javelins within 6" it goes up to 1 wound on those marines though don't expect the Javelins to survive the experience. Another thing to note is that with Javelins it's one profile or the other, missile launchers get both. Of course Missile Launchers are one of if not the best marine units so losing to them is no great shame.
 
 Overall I think Javelins are likely under-utilized, they present long-range, somewhat fragile, but very fast unit that will be hard for your opponent to deal with. Some of this certainly comes down to the lack of Vanguard slots.
 
@@ -278,15 +278,15 @@ Overall I think Javelins are likely under-utilized, they present long-range, som
 
 ### Predator Squadron: C
 
-**Gameplay:** The Predator is very much a baseline marine tank. With a 3+ save, a couple of turret options, and 9" movement it's a somewhat flexible platform brought down by a lack of firepower and survivability. You can take a lascannon turret or a Predator cannon. Neither terribly excites me. A Preadator squadron loaded with lascannons puts out 1.24 wounds into a +2 save tank for 115 points. A Cerberus puts out 1.17 for 85 points on a platform with a 2+ save. If we convert those numbers a Predator is paying 38.3 points per 3+ wound, a Cerberus is paying 42.5 for a 2+, a better detail versus any gun. The Cerberus pays 72.6 points per damage, the Predator 92.7. So we're paying more for a squishier unit that does less damage, and I've not even mentioned Shock Pulse. Yes, I'm comparing a Battle Tank to Heavy Armour but both slots are pretty easy to find in Marine formations so I think it's mostly fair. If you're looking for Battle Tanks there are better options below.
+**Gameplay:** The Predator is very much a baseline marine tank. With a 3+ save, a couple of turret options, and 9" movement it's a somewhat flexible platform brought down by a lack of firepower and survivability. You can take a lascannon turret or a Predator cannon. Neither terribly excites me. A Predator squadron loaded with lascannons puts out 1.24 wounds into a +2 save tank for 115 points. A Cerberus puts out 1.17 for 85 points on a platform with a 2+ save. If we convert those numbers a Predator is paying 38.3 points per 3+ wound, a Cerberus is paying 42.5 for a 2+, a better deal against incoming fire. The Cerberus pays 72.6 points per damage, the Predator 92.7. So we're paying more for a squishier unit that does less damage, and I've not even mentioned Shock Pulse. Yes, I'm comparing a Battle Tank to Heavy Armour but both slots are pretty easy to find in Marine formations so I think it's mostly fair. If you're looking for Battle Tanks there are better options below.
 
-**Load-out:** I spent most of the above time talking about lascannons because I think they are slightly better. The issue with the Predator cannon is it's Light AT and long range and it just doesn't really jive with the sponson weapons. So yeah, if you're taking them I'd use las. Detachment size is really up to you, avoid 4 models for moral reasons but you do get a good discount for extra tanks.
+**Load-out:** I spent most of the above time talking about lascannons because I think they are slightly better. The issue with the Predator cannon is it's Light AT and long range and it just doesn't really jive with the sponson weapons. So yeah, if you're taking them I'd use las. Detachment size is really up to you, avoid 4 models for morale reasons but you do get a good discount for extra tanks.
 
 **Modeling:** The turrets can be magnetized but they have a big hole so I'd recommend blu tac.
 
 ### Vindicator Squadron: C-
 
-**Gameplay:** Vindicators are one of the dedicated Demolisher units in the game and they come up short in a few ways. First we've got the typical issue of space marine armour - 3+ armor save on an expensive unit. The Vindacator is 35 points per wound and shot with its demolisher cannon, and that cannon is why you're taking it. This compares fine to well against the Leman Russ Demolisher which is 41.25 points/shot, but does have better secondary weapons and a 2+ save. The issue is the Vindicator is one of the profiles that is most directly outclassed by another, in this case the Typhon. The Typhon pays a bit more at 40 points per wound/shot, but wow is it better. The wounds have a 2+ armour save and the shots outclass the Vindicator in two pretty important ways. First they are -4 AP rather than -3.
+**Gameplay:** Vindicators are one of the dedicated Demolisher units in the game and they come up short in a few ways. First we've got the typical issue of space marine armour - a 3+ armour save on an expensive unit. The Vindicator is 35 points per wound and shot with its demolisher cannon, and that cannon is why you're taking it. This compares fairly well against the Leman Russ Demolisher which is 41.25 points/shot, but does have better secondary weapons and a 2+ save. The issue is the Vindicator is one of the profiles that is most directly outclassed by another, in this case the Typhon. The Typhon pays a bit more at 40 points per wound/shot, but wow is it better. The Typhon has a 2+ armour save and the shots outclass the Vindicator in two pretty important ways. First they are -4 AP rather than -3.
 
 **Load-out:** No weapon choices here, just unit size. I'd generally be looking at 6 models here.
 
@@ -328,43 +328,43 @@ Overall I think Javelins are likely under-utilized, they present long-range, som
 
 ### A Note on Sponsons
 
-The Fellblade-chasis tanks have 3 weapon options: quad heavy bolter sponsons, quad lascannons, and laser destroyers. As this commentary applies to all 4 options I’m putting it here. The short version of this is that quad heavy bolter sponsons are only twice as effective as heavy bolter sponsons, while quad lascannons are two and a half times better than lascannons. The laser destroyers don’t have a direct comparison but are similar to lascannons. 
+The Fellblade-chassis tanks have 3 weapon options: quad heavy bolter sponsons, quad lascannons, and laser destroyers. As this commentary applies to all 4 options I’m putting it here. The short version of this is that quad heavy bolter sponsons are only twice as effective as heavy bolter sponsons, while quad lascannons are two and a half times better than lascannons. The laser destroyers don’t have a direct comparison but are similar to lascannons. 
 
 What this means is the heavy bolter sponsons are comparably worse. If due to pintle weapons we want to value normal heavy bolters as 5pts, these sponson lascannons are 10pts of weapons. If we also view lascannons as 5pts, the quad lascannon or laser destroyer is 12.5pts of weapons. This isn’t huge, but it’s a pretty strict efficiency upgrade that will color my commentary on these options.
 
 ### Cerberus: S-
 
-**Gameplay**: To talk about the Cerbarus is to talk about Shock Pulse weapons. If a model is hit by Shock Pulse when it next moves it is half speed, and when it next fires it can only shoot one weapon. Additionally, it does 2 damage to Void Shields, and rules as written the one weapon effect bypasses Voids. Many people play that Void Shield hits don't trigger Shock Pulse, and there are some serious FAQ-type questions about the rule (firing a Heavy Bolter during the movement phase would let you fire your full complement in the next phase). However you play it, it's a powerful rule and one of two ways to really put the hurt on super heavies. And the Cerberus is the premier Shock Pulse platform in the game. And this just comes down to points efficiency and range. Costing 25 points more than the Valdor Tank Destroyer it has 8" longer range and triple the Shock-Pulse firepower. Costing 45 points less than the Falchion, it loses 6" of range, a wound, and they average the same number of Shock Pulse hits, though the Falchion does have more lascannon shots.
+**Gameplay**: To talk about the Cerberus is to talk about Shock Pulse weapons. If a model is hit by Shock Pulse when it next moves it is half speed, and when it next fires it can only shoot one weapon. Additionally, it does 2 damage to Void Shields, and rules as written the one weapon effect bypasses Voids. Many people play that Void Shield hits don't trigger Shock Pulse, and there are some serious FAQ-type questions about the rule (firing a Heavy Bolter during the movement phase would let you fire your full complement in the next phase). However you play it, it's a powerful rule and one of two ways to really put the hurt on super heavies. And the Cerberus is the premier Shock Pulse platform in the game. And this just comes down to points efficiency and range. Costing 25 points more than the Valdor Tank Destroyer it has 8" longer range and triple the Shock-Pulse firepower. Costing 45 points less than the Falchion, it loses 6" of range, a wound, and they average the same number of Shock Pulse hits, though the Falchion does have more lascannon shots.
 
-Having spent a paragraph talking about Shock Pulse, it's also just a very efficent damage platform. This puts more damage into tanks than a Leman Russ Vanqisher, often regarded as the king of anti-tank.
+Having spent a paragraph talking about Shock Pulse, it's also just a very efficient damage platform. This puts more damage into tanks than a Leman Russ Vanquisher, often regarded as the king of anti-tank.
 
-**Load-out**: Single models are great, 2-model squads are fine but a little risky due to moral. 3-model squads can be a bit overkill for Shock Pulse but the platform is still an efficient anti-tank platform.
+**Load-out**: Single models are great, 2-model squads are fine but a little risky due to morale. 3-model squads can be a bit overkill for Shock Pulse but the platform is still an efficient anti-tank platform.
 
 **Modeling**: Put lascannons on these, the range and choice of targets line up very well with the main gun.
 
 ### Typhon: A
 
-**Gameplay**: We go from the primer anti-tank vehicle in the marine arsenal, to the primer anti-building option. The Typhon is a top-flight anti-building unit. With 16" range, 2 shots, and AP -4 it can take out anything short of a fortification pretty easily. Into Civitas Imperialis buildings, the most commonly used each Typhon averages .98 wounds, so 2 will likely kill a building, and 3 on very good odds to do so.
+**Gameplay**: We go from the premier anti-tank vehicle in the marine arsenal, to the premier anti-building option. The Typhon is a top-flight anti-building unit. With 16" range, 2 shots, and AP -4 it can take out anything short of a fortification pretty easily. Into Civitas Imperialis buildings, the most commonly used each Typhon averages .98 wounds, so 2 will likely kill a building, and 3 on very good odds to do so.
 
-And while you should take this to kill buildings don’t discount the AP -4. The Cerberus main gun averages 1 wound into Leman Russes, the Typhon gets .87, not far behind. Of course this is without Shock Pulse and much shorter range, but the tank is hardly useless when there are no buildings to target..
+And while you should take this to kill buildings don’t discount the AP -4. The Cerberus main gun averages 1 wound into Leman Russes, the Typhon gets .87, not far behind. Of course this is without Shock Pulse and much shorter range, but the tank is hardly useless when there are no buildings to target.
 
-**Load-out**: One or three model detachments make the most sense, if you use a lot of Militas Imperialis and Fortifications four Typhons will have more value. Two has the moral issue with 2-model units. Heavy bolters make sense on sponsons to allow splitting fire while shooting at buildings.
+**Load-out**: One or three model detachments make the most sense, if you use a lot of Militia Imperialis and Fortifications four Typhons will have more value. Two has the morale issue with 2-model units. Heavy bolters make sense on sponsons to allow splitting fire while shooting at buildings.
 
 **Modeling**: Heavy bolters make sense due to range and splitting fire. Note that the front shield on the tank doesn't have the best connection point, it's easy for it to end up crooked, just be careful when gluing and drying it.
 
 ### Falchion: C+
 
-**Gameplay**: This guy breaks my heart but the Falchion has a lot of trouble competing with the Cerberus. The Cerbarus is a better Shock Pulse delivery system costing much less for the same Shock Pulse output (but losing 6” of range). The Falchion picks some value back up with better spons, but if you want to take advantage of those you lose your range edge.
+**Gameplay**: This guy breaks my heart but the Falchion has a lot of trouble competing with the Cerberus. The Cerberus is a better Shock Pulse delivery system costing much less for the same Shock Pulse output (but losing 6” of range). The Falchion picks some value back up with better sponsons, but if you want to take advantage of those you lose your range edge.
 
 If this was 2-shot, no Accurate but Engine-killer (1) it’d be an amazing unit, as it stands it’s just outclassed.
 
-**Load-out**: Take single model squads for moral and spreading out fire reasons. Sponsons should be lascannons as their range most closely matches the main fun, but to use those sponsons you'll need to move within 22" killing the only advantage this has over the Cerberus.
+**Load-out**: Take single model squads for morale and spreading out fire reasons. Sponsons should be lascannons as their range most closely matches the main gun, but to use those sponsons you'll need to move within 22" killing the only advantage this has over the Cerberus.
 
 **Modeling**: I've not built one but I believe it's pretty easy to swap the main gun with some blu-tack. However keep in mind the sponsons you want are very different between this and an Ascalon.
 
 ### Ascalon: C+
 
-**Gameplay**: The big flame tank. Ascalons are a brand new unit in Imperialis and they're pretty cool. A few things are interesting here, first this is one of the handful of Firestorm profiles in the game, the flamer template is pretty good in Imperialis, particularly because if you clip and building everything inside is hit. Firestorm also allows you to place the template in a direction unrelated to your normal guns making these tanks great at split-fire.
+**Gameplay**: The big flame tank. Ascalons are a brand new unit in Imperialis and they're pretty cool. A few things are interesting here, first this is one of the handful of Firestorm profiles in the game, the flamer template is pretty good in Imperialis, particularly because if you clip a building everything inside is hit. Firestorm also allows you to place the template in a direction unrelated to your normal guns making these tanks great at split-fire.
 
 The flame cannon is also the rare AP -2 Light AT weapon meaning it's still AP -1 against armour, very effective against grouped up 3+ save tanks and devastating against walkers.
 
@@ -372,7 +372,7 @@ My main concern is how many points you're investing to get this gun. A pair Malc
 
 However if you're running marines and want a way to clear units out of cover this is still a solid, if niche choice, I'd just start with Typhons.
 
-**Load-out:** This is the Fellblade-chasis where you’re most tempted by heavy bolters but resist that urge. You can't fire Firestorm weapons on Overwatch so these heavy bolters are unappealing there, you don't want to Overwatch with this tank. Given that the main weapon is short range the laser destroyers make a lot of sense, they can match your range profile and shoot whatever you need them to.
+**Load-out:** This is the Fellblade-chassis where you’re most tempted by heavy bolters but resist that urge. You can't fire Firestorm weapons on Overwatch so these heavy bolters are unappealing there, you don't want to Overwatch with this tank. Given that the main weapon is short range the laser destroyers make a lot of sense, they can match your range profile and shoot whatever you need them to.
 
 **Modeling**: I believe you can swap main guns with the Falchion using some blu-tac, and for the sponsons it's laser destroyers. If you're swapping the main gun both las sponson options feel close enough visually.
 
@@ -394,17 +394,24 @@ However if you're running marines and want a way to clear units out of cover thi
 
 ### Mastodon: B
 
-**Gameplay:** This is a weird one. The Mastodon is our only tank with void shields. It's also a Very Large Assault Transport and has a bunch of weird weapons, this may take a while. Let's start with the voids, they're good! They make the unit a lot more durable and multi-Mastodon squadrons are extremely hard to put down, if very expensive. With the voids Mastadons are the most durable vehicles in the game, point-for-point.
+**Gameplay:** This is a weird one. The Mastodon is our only tank with void shields. It's also a Very Large Assault Transport and has a bunch of weird weapons, this may take a while. Let's start with the voids, they're good! They make the unit a lot more durable and multi-Mastodon squadrons are extremely hard to put down, if very expensive. With the voids Mastodons are the most durable vehicles in the game, point-for-point.
 
-On top of that they have Large Assault Transport (8). This means they can carry 8 bulky models, like Terminators. Or more interestingly they can carry 4 walkers. A Mastadon is a great way to get Levithan Dreadnoughts into close combat, or get Saturnine Dreadnoughts into range of their guns. If you're taking 2 Mastadons you can even deliver a full size unit of 8 Leviathans which can beat anything in melee.
+On top of that they have Large Assault Transport (8). This means they can carry 8 bulky models, like Terminators. Or more interestingly they can carry 4 walkers. A Mastodon is a great way to get Leviathan Dreadnoughts into close combat, or get Saturnine Dreadnoughts into range of their guns. If you're taking 2 Mastodons you can even deliver a full size unit of 8 Leviathans which can beat anything in melee.
 
 Now let's talk guns. First, this has an anti-air option, this is kind of nice for scaring off flyers, but also it doesn't line up well with their other profiles. It's a nice little bonus but don't rely on it. On top of that they have 2 sets of sponsons, the heavy flamers are unique and are a great point-defense option. But the real centerpiece is the siege melta-array. This is one of the very few weapons in the game with Engine Killer, which is very good. However it only has 6" range making it a bit less exciting.
 
-In general Mastadons should be taken as the toughest transports in the game, and after unloading they should try and hunt super-heavies or just be generally annoying.
+In general Mastodons should be taken as the toughest transports in the game, and after unloading they should try and hunt super-heavies or just be generally annoying.
 
-**Load-out:** Take heavy bolters to go with the flamers, being able to double-down on point defense makes it more effective, and lascanons don't add much to your melta-array.
+**Load-out:** Take heavy bolters to go with the flamers, being able to double-down on point defense makes it more effective, and lascannons don't add much to your melta-array.
 
 **Modeling:** Nothing to note here, the kit goes together smoothly and sponsons are the only option.
+
+### Kratos:
+**Gameplay:** I've talked about the Kratos weapons in the HQ section. Here I'm going to say where it can fit into the armour mix for marines. The Kratos is a good jack of all trades. With all lascannons it deals .75 wounds to a 2+ save, making it an underwhelming 93 pts/wound. But it does have a lot of flexibility, this is a tank where I'd consider an autocannon and heavy bolters, that will make it a jack of all trades and master of none, but there is some value in that. I think it falls a little short of the Fellblade, the Fellblade will be slightly less durable but has a far better main gun, and the sponson upgrade makes those more efficient at anti-tank than a pair of Kratos. If you're taking autocannon and heavy bolter on the Kratos I think it compares better, less of a stand out in any one role but able to shoot everything.
+
+**Load-out:** As mentioned above I'd go heavy bolter sponsons and a hull autocannon. The melta blast gun is fun but the battle cannon will be more reliable. Squads of 3 are good.
+
+**Modeling:** You can swap main guns with some blu tack.
 
 # Artillery
 
@@ -436,17 +443,17 @@ In general Mastadons should be taken as the toughest transports in the game, and
 
 ### Storm Eagle Squadron: C
 
-**Gameplay:** Storm Eagles are Assault Transport (5) and that is why we're talking about them. However they're not Large Assault Transport meaning they can't take Bulky units meaning these are only transporting normal marine infantry, and at 8.5 times the price of a Rhino (admittedly, with 2.5x the transport capacity) that's a hard sell. Their firepower comes in well behind the last two flyers so you're taking this for objective capping. You can have units get most places on the board with these turn 1, but keep in mind that flying transports are very venerable to overwatch. If your opponent rolls one six you've got a decent chance of losing 115 points of models before they do anything. If we got something like Despoilers these would be a lot more exciting but with just tactical marines, plasma, and missile launchers as options I don't like the Storm Eagle.
+**Gameplay:** Storm Eagles are Assault Transport (5) and that is why we're talking about them. However they're not Large Assault Transport meaning they can't take Bulky units meaning these are only transporting normal marine infantry, and at 8.5 times the price of a Rhino (admittedly, with 2.5x the transport capacity) that's a hard sell. Their firepower comes in well behind the last two flyers so you're taking this for objective capping. You can have units get most places on the board with these turn 1, but keep in mind that flying transports are very vulnerable to overwatch. If your opponent rolls one six you've got a decent chance of losing 115 points of models before they do anything. If we got something like Despoilers these would be a lot more exciting but with just tactical marines, plasma, and missile launchers as options I don't like the Storm Eagle.
 **Load-out:** No choices here, just a question of your infantry squad's size.
 **Modeling:** No options here but the price per model concern from the Fire Raptor persists. Like the Fire Raptor there are some molded aquilas you can shave off if desired.
 
 ### Thunderhawk Gunship Squadron: B+
 
-**Gameplay:** The Thunderhawk has a lot going on, let's start that it has a 2+ and 2 wounds, this is great, but it kind of needs it with a massive 150 point cost. This is the most expensive unit outside of knights and titans and while flying it's pretty durable, without Skyfire your opponent will have trouble bringing it down. However if it hovers and anything can hit it you're looking at a pretty squishy unit, there are units that cost 2/3rds the price with an extra wound.
+**Gameplay:** The Thunderhawk has a lot going on, let's start with the fact that it has a 2+ save and 2 wounds, this is great, but it kind of needs it with a massive 150 point cost. This is the most expensive unit outside of knights and titans and while flying it's pretty durable, without Skyfire your opponent will have trouble bringing it down. However if it hovers and anything can hit it you're looking at a pretty squishy unit, there are units that cost 2/3rds the price with an extra wound.
 
-And you might need to hover it as it's got Large Assault Transport (8). This rule means a lot of things, first off you can pack this thing with 8 Assault Marines and they can disembark without needing to hover and this is one of the best things to do with this flying tank. 8 Assault Marines are cheap and will beat a lot of units in close combat, with their movement and the Thunderhawk's they can charge pretty much anything. Terminators might be an even better option, a bit slower and notably more expensive, they hit a lot harder in close combat. You can also take walkers. Put Leviathans in here and they can charge a unit or building on turn 1. In both the later cases you do need to Hover making the survival of the Thunderhawk more questionable, though it can now hide behind buildings. All of these options are good, but be aware they're high risk. Your opponent is unlikely to overwatch this out of the sky but if they do you're typically losing around 250 points in one go.
+And you might need to hover it as it's got Large Assault Transport (8). This rule means a lot of things, first off you can pack this thing with 8 Assault Marines and they can disembark without needing to hover and this is one of the best things to do with this flying tank. 8 Assault Marines are cheap and will beat a lot of units in close combat, with their movement and the Thunderhawk they can charge pretty much anything. Terminators might be an even better option, a bit slower and notably more expensive, they hit a lot harder in close combat. You can also take walkers. Put Leviathans in here and they can charge a unit or building on turn 1. In both the latter cases you do need to Hover making the survival of the Thunderhawk more questionable, though it can now hide behind buildings. All of these options are good, but be aware they're high risk. Your opponent is unlikely to overwatch this out of the sky but if they do you're typically losing around 250 points in one go.
 
-Lastly let's talk about its guns, it has a lot! However with only one, relatively week gun having Skyfire this is not to dual with enemy flyers. No, the Thunderhawk's guns were bread for one purpose, to destroy tanks. And it's okay at that. When shooting 2+ tanks the Xiphon is the most effective flyer at 63 points/damage. The Thunderhawk is 84.8 points/damage. And that's not bad when we consider it's per-wound cost is 22% cheaper and that's with a 2+ save, and it's got that 8 transport capacity.
+Lastly let's talk about its guns, it has a lot! However with only one, relatively weak gun having Skyfire this is not to duel with enemy flyers. No, the Thunderhawk's guns were bred for one purpose, to destroy tanks. And it's okay at that. When shooting 2+ tanks the Xiphon is the most effective flyer at 63 points/damage. The Thunderhawk is 84.8 points/damage. And that's not bad when we consider its per-wound cost is 22% cheaper and that's with a 2+ save, and it's got that 8 transport capacity.
 
 In conclusion, there is a lot going on with the Thunderhawk and you really want to have several roles for it to make the points back. Drop some troops off then use it for mobile fire support and you should be in good shape.
 **Load-out:** No options, you can take several in a squad but with minimal points savings and it makes transport of infantry less efficient.
@@ -454,7 +461,7 @@ In conclusion, there is a lot going on with the Thunderhawk and you really want 
 
 # Bastion
 ### Tarantula Battery: B
-Gameplay: Tarantulas have the Automated Sentry rule which means they break a lot of how Imperalis normally works. This means:
+**Gameplay:** Tarantulas have the Automated Sentry rule which means they break a lot of how Imperialis normally works. This means:
 1. They don't count for break-point
 2. They don't get issued an order
 3. You activate them in the movement phase to fire, if they have no target then you can do so again in the Advancing Fire phase
@@ -465,36 +472,36 @@ That's a lot to unpack so let's note that they have an anti-air option and a las
 
 I do want to call out that Tarantulas can garrison buildings making them much more resilient to shooting, however if they get charged their CAF -3 means they'll likely not last long even with the building bonus. One trick you can do with air-defense Tarantulas is to place them behind a building blocking line of sight to enemy ground units while still being able to hit non-hovering flyers.
 
-Load-out: Honestly anything works here. I generally wouldn't take the max size AA unit as it's overkill versus a lot of flyers, but sticking 8 lascannons in a building can be pretty effective (and annoying) area denial.
+**Load-out:**  Honestly anything works here. I generally wouldn't take the max size AA unit as it's overkill versus a lot of flyers, but sticking 8 lascannons in a building can be pretty effective (and annoying) area denial.
 
-Modeling: No notes, but if you end up with a lot of Legion Support boxes this is one of the places I might look to get some spare 25mm bases.
+**Modeling:**  No notes, but if you end up with a lot of Legion Support boxes this is one of the places I might look to get some spare 25mm bases.
 
 ### Deredeo Dreadnought Detachment: B+
-Gameplay: The Deredeo primarily taken as an anti-air unit, but unlike something like the Tarantula it offers good firepower against ground targets as well. The primary anti-air weapon is the Aiolus missile launcher which has 25" range and Skyfire. When on First Fire orders the Deredeo can also reroll versus planes. This is powerful but if leaving it on first fire they're fulfilling much the same role as the Tarantula, denying airspace, while costing over twice as much per model. This does leave the Deredeo a little split, they also only have 5" of movement so on Advance orders they are quite slow.
+**Gameplay:** The Deredeo primarily taken as an anti-air unit, but unlike something like the Tarantula it offers good firepower against ground targets as well. The primary anti-air weapon is the Aiolus missile launcher which has 25" range and Skyfire. When on First Fire orders the Deredeo can also reroll versus planes. This is powerful but if leaving it on first fire they're fulfilling much the same role as the Tarantula, denying airspace, while costing over twice as much per model. This does leave the Deredeo a little split, they also only have 5" of movement so on Advance orders they are quite slow.
 
 Their strength really is that they are flexible shooting units that can function as AA. That's worth having. I recommend avoiding the First Fire bonus and try and move them up the table. Remember Skyfire can split fire so you can ideally be shooting at two different targets, though the limited range of the arm weapons makes that tricky.
 
-Load-out: I think the plasma is a bit better than the autocannons, you trade 2" of range for better firepower, at the end of the day it often won't matter that much. I'd recommend two minimum size squads over a single maximum sized one, you can deny twice as much air space for only 5 more points.
+**Load-out:**  I think the plasma is a bit better than the autocannons, you trade 2" of range for better firepower, at the end of the day it often won't matter that much. I'd recommend two minimum size squads over a single maximum sized one, you can deny twice as much air space for only 5 more points.
 
-Modeling: No notes.
+**Modeling:**  No notes.
 
 ### Saturnine Dreadnought Detachment: C+
-Gameplay: The Saturnine is a 2 wound walker which is unique but strong. You do pay for that, 2 Saturnines are only a bit cheaper than 4 Levithans or Deredeos. And they fit somewhere between those in role. They are not good in melee, they're a shooting unit, but their shooting is pretty short range. With only 5" movement they're in kind of a hard spot. Where I think they can excel is with a transport. Being two wounds with a lot of firepower they're the best Dreadnought to transport because they take the same space as others while offering more. A Mastadon or Thunderhawk can bring 4 of these which will put out more damage and be a lot more durable than 4 Levithians. This also goes for Dreadnought Drop Pods.
+**Gameplay:** The Saturnine is a 2 wound walker which is unique but strong. You do pay for that, 2 Saturnines are only a bit cheaper than 4 Leviathans or Deredeos. And they fit somewhere between those in role. They are not good in melee, they're a shooting unit, but their shooting is pretty short range. With only 5" movement they're in kind of a hard spot. Where I think they can excel is with a transport. Being two wounds with a lot of firepower they're the best Dreadnought to transport because they take the same space as others while offering more. A Mastodon or Thunderhawk can bring 4 of these which will put out more damage and be a lot more durable than 4 Leviathans. This also goes for Dreadnought Drop Pods.
 
-Load-out: I prefer the Grav/Inversion Beamer loadout but both work. Getting out of your transport within 8" can you can really put out some firepower into armoured units.
+**Load-out:**  I prefer the Grav/Inversion Beamer loadout but both work. Getting out of your transport within 8" you can really put out some firepower into armoured units.
 
-Modeling: No notes.
+**Modeling:**  No notes.
 
 ### Araknae Weapons Platform Battery: B
-Gameplay: The Araknae in some way functions like a up-gunned Tarantula. And it should be costing almost 4 times as much per model. The Araknae ends up being a fairly fragile unit at 30 points for a 4+ save though it does have a 5+ invulnerable. But the reason you take these is for the guns, and you've got two good options and one less good option. The option I would default to is the quad accelerator autocannon. It has AP -1 against any target, five dice, and tracking. The 18" range is okay. This is a strong all-comers weapon, no one should want to get into a shooting match with these. The next option is the twin punisher which has a very good profile with Accurate and Rapid Fire, these things put out a ton of damage and are killer on overwatch. However losing 6" of range on an immobile platform is pretty rough. Last we have the Orias heavy frag missile which has the rare Blast keyword, as well as Barrage, Light, and Limited (2). This profile is great at killing infantry in the open and I don't think Limited (2) is a big deal. As a fragile, static gun platform the odds this would shoot more than twice are not that good. However I think it's let down in some part by the keywords. It can't overwatch and it's poor at shooting into buildings. This means it relies on your opponent on bringing infantry within it's (very good!) 24" range and leaving them in the open. I just don't think many smart opponents will do that.
+**Gameplay:** The Araknae in some way functions like a up-gunned Tarantula. And it should be costing almost 4 times as much per model. The Araknae ends up being a fairly fragile unit at 30 points for a 4+ save though it does have a 5+ invulnerable. But the reason you take these is for the guns, and you've got two good options and one less good option. The option I would default to is the quad accelerator autocannon. It has AP -1 against any target, five dice, and tracking. The 18" range is okay. This is a strong all-comers weapon, no one should want to get into a shooting match with these. The next option is the twin punisher which has a very good profile with Accurate and Rapid Fire, these things put out a ton of damage and are killer on overwatch. However losing 6" of range on an immobile platform is pretty rough. Last we have the Orias heavy frag missile which has the rare Blast keyword, as well as Barrage, Light, and Limited (2). This profile is great at killing infantry in the open and I don't think Limited (2) is a big deal. As a fragile, static gun platform the odds this would shoot more than twice are not that good. However I think it's let down in some part by the keywords. It can't overwatch and it's poor at shooting into buildings. This means it relies on your opponent on bringing infantry within it's (very good!) 24" range and leaving them in the open. I just don't think many smart opponents will do that.
 
 The other thing to mention here is the Aegis Defense Strongpoint formation. This formation gives Araknae Platforms Point Defense on their weapons. This is very good allowing overwatch at normal shooting values. Infantry can't charge a unit of punisher cannons with Point Defense, they'll get shredded. In that formation these platforms get better, aside from the missiles which still can't overwatch.
 
 Now on how to use them, your opponent can out-range these platforms with plenty of weapons and things like lascannons will pick them apart. This means when you're deploying them you need to keep lines of sight in mind. You want a good field of fire but keep long distance firelanes from your opponent's side of the table blocked off. Try to cover objectives while not being visible from the other side of the table.
 
-Load-out: I'd avoid 4 model squads, the footprint becomes too large to effectively position them. Otherwise squad size is pretty flexible and both the gun options are very solid.
+**Load-out:**  I'd avoid 4 model squads, the footprint becomes too large to effectively position them. Otherwise squad size is pretty flexible and both the gun options are very solid.
 
-Modeling: You get eight platforms in a box, 4 can be autocannon, 4 Punisher, and 2 missile. I recommend just doing 4/4 with the two gun options.
+**Modeling:**  You get eight platforms in a box, 4 can be autocannon, 4 Punisher, and 2 missile. I recommend just doing 4/4 with the two gun options.
 
 # Transports
 
@@ -505,48 +512,48 @@ In addition to the greatly increased speed, Rhinos mean you have another activat
 
 Rhinos are a cheap and very effective option, for the rest of the transport choices we'll really be looking at "what does this get me that a Rhino doesn't?" And there are some weaknesses of the Rhino. With 4+ saves they're very squishy. Lacking the Large Transport keyword they can't transport Terminators, Assault Marines, or Saturnine Terminators. Lacking Assault Transport units inside of them can't charge, this isn't the end of the world as the better close combat units can't ride in them, but it is still a downside.
 
-Load-out: I don't like vehicle upgrades and with the ability to take Rhinos from 10 to 20 points I'm not going to love them here. That said, I don't hate the upgrades. You can get a solid upgrade to firepower against infantry or tanks and 20 point rhinos are still much less appealing targets than 60 point tanks. I think plain is probably best, but the Havoc Launcher is a fine upgrade with Point Defense, or take both Anti-Tank options. The Havoc Launcher is preferable as you stay with Point Defense allowing you to March and shoot.
+**Load-out:**  I don't like vehicle upgrades and with the ability to take Rhinos from 10 to 20 points I'm not going to love them here. That said, I don't hate the upgrades. You can get a solid upgrade to firepower against infantry or tanks and 20 point rhinos are still much less appealing targets than 60 point tanks. I think plain is probably best, but the Havoc Launcher is a fine upgrade with Point Defense, or take both Anti-Tank options. The Havoc Launcher is preferable as you stay with Point Defense allowing you to March and shoot.
 
-Modeling: No notes here, these are not your best points/$ unit but they're worth picking up.
+**Modeling:**  No notes here, these are not your best points/$ unit but they're worth picking up.
 
 ### Land Raider: B
-Gameplay: Land Raiders and Spartans have a lot of overlap. They're both las-armed Assault Transports. The Land Raider is half the price but with half the wounds and less transport. It also has a lot less firepower. Two Land Raiders get 1.5 lascannon hits a turn while a Spartan gets 2. Because of this I heavily favor the Spartan. However the Land Raider has a pretty big mobility advantage, gaining 1+ of extra movement is nice, but what really helps is Forward Deployment. Land Raiders can move up 27" from your deployment zone to offload infantry, and this is their real niche. If you need to get a unit far up the board, take Land Raiders, but for general use Rhinos and Spartans rule the roost.
+**Gameplay:** Land Raiders and Spartans have a lot of overlap. They're both las-armed Assault Transports. The Land Raider is half the price but with half the wounds and less transport. It also has a lot less firepower. Two Land Raiders get 1.5 lascannon hits a turn while a Spartan gets 2. Because of this I heavily favor the Spartan. However the Land Raider has a pretty big mobility advantage, gaining 1+ of extra movement is nice, but what really helps is Forward Deployment. Land Raiders can move up 27" from your deployment zone to offload infantry, and this is their real niche. If you need to get a unit far up the board, take Land Raiders, but for general use Rhinos and Spartans rule the roost.
 
-Load-out: Pintle weapon is the only option and I'd lean toward skipping them as they inflate the already quite high price of the model.
+**Load-out:**  Pintle weapon is the only option and I'd lean toward skipping them as they inflate the already quite high price of the model.
 
-Modeling: No notes.
+**Modeling:**  No notes.
 
 ### Spartan: A-
-Gameplay: Okay, so this out-shoots the Land Raider, cool. Why do we take either of these over a Rhino? This comes down two three changes. First, as mentioned, they're a lot better at shooting than a Rhino. Second, they're a lot tougher. With a 2+ save you can expect your transports to shrug off a lot more firepower making a turn one disembark less important, though still often recommended. Third, they have Assault Transport, this allows embarked units to be issued with a Charge order and come out swinging. This leads to a huge charge range for both models and is something to keep in mind. Terminators are best here due to their stronger CAF, with how expensive Land Raiders or Spartans are for them the extra cost for the infantry is negligible. Also keep in mind that a large tactical squad charging out of transports can swamp many units with bodies.
+**Gameplay:** Okay, so this out-shoots the Land Raider, cool. Why do we take either of these over a Rhino? This comes down two three changes. First, as mentioned, they're a lot better at shooting than a Rhino. Second, they're a lot tougher. With a 2+ save you can expect your transports to shrug off a lot more firepower making a turn one disembark less important, though still often recommended. Third, they have Assault Transport, this allows embarked units to be issued with a Charge order and come out swinging. This leads to a huge charge range for both models and is something to keep in mind. Terminators are best here due to their stronger CAF, with how expensive Land Raiders or Spartans are for them the extra cost for the infantry is negligible. Also keep in mind that a large tactical squad charging out of transports can swamp many units with bodies.
 
 These are not auto-includes like Rhinos, if you're taking Spartans (or Land Raiders) you should think about why and what your goals are. But they can be very effective in the right situation. They do also compete fairly effectively as anti-tank options, before you think of the transport capacity. Spartans are 76.5 pts/wound to a Leman Russ, lascannon Predators are 92.9 pts/wound, with a 2+ save, without transport (but with  7" more range).
 
 One final Spartan note, they have 5 transport capacity, this can be a little hard to use as bulky models will only fit 2/transport, but it's good if they are carrying squads of standard marines.
 
-Load-out: Laser Destroyers are my recommendation, it doesn't quite match the range of a hull lascannon but if you want to drive your infantry up the table you shouldn't have much trouble with the 15" range. A unit of 10 marines in a pair of Spartans is 221 points and is actually pretty annoying to deal with. Throw the Spartans up the table, have the infantry get out into a building, and your opponent then has to deal with 10 garrisoned infantry and 2 strong anti-tank vehicles.
+**Load-out:**  Laser Destroyers are my recommendation, it doesn't quite match the range of a hull lascannon but if you want to drive your infantry up the table you shouldn't have much trouble with the 15" range. A unit of 10 marines in a pair of Spartans is 221 points and is actually pretty annoying to deal with. Throw the Spartans up the table, have the infantry get out into a building, and your opponent then has to deal with 10 garrisoned infantry and 2 strong anti-tank vehicles.
 
-Modeling: No real notes here, I enjoy the Spartan chassis and think they're fun to build and paint, the extra size compared to most armour feels good.
+**Modeling:**  No real notes here, I enjoy the Spartan chassis and think they're fun to build and paint, the extra size compared to most armour feels good.
 
 ### Drop Pod: B-
-Gameplay: Drop pods cost the same as a Rhino but come out of Deep Strike. This means that they have more flexibility on the turn they come down, but also higher risk, and no flexibility after landing. When landing deep strike units you have to roll to scatter and it can
+**Gameplay:** Drop pods cost the same as a Rhino but come out of Deep Strike. This means that they have more flexibility on the turn they come down, but also higher risk, and no flexibility after landing. When landing deep strike units you have to roll to scatter and then you'll place the unit, and then the models. There is a risk you lose all of them so play it careful and remember your infantry can move after they disembark.
 
-Load-out: No options here. You can't take bulky units so these are command squads, tacticals, plasma, and missiles. Plasma is not a bad idea here as getting in Assault range is pretty easy.
+**Load-out:**  No options here. You can't take bulky units so these are command squads, tacticals, plasma, and missiles. Plasma is not a bad idea here as getting in Assault range is pretty easy.
 
-Modeling: These are a pain to build and an even sharper pain to buy. At 4/box these are the worst point value in the game and you should only build a Drop Pod force if it really excites you.
+**Modeling:**  These are a pain to build and an even sharper pain to buy. At 4/box these are the worst point value in the game and you should only build a Drop Pod force if it really excites you.
 
 ### Dreadnought Drop Pod: B+
-Gameplay: Basically everything I said about the Drop Pod goes here, but I've bumped up the rating for two reasons. First, there are fewer ways to transport dreadnoughts. Second, there are a lot of short range dreadnoughts that are quite good at shooting. You can drop them down and while you can't charge out of the pod, you can lay down pretty heavy fire with a Levithan or Saturnine detachment. You're paying a premium for this but if you're careful about where you drop them your opponent may have a hard time dealing with them.
+**Gameplay:** Basically everything I said about the Drop Pod goes here, but I've bumped up the rating for two reasons. First, there are fewer ways to transport dreadnoughts. Second, there are a lot of short range dreadnoughts that are quite good at shooting. You can drop them down and while you can't charge out of the pod, you can lay down pretty heavy fire with a Leviathan or Saturnine detachment. You're paying a premium for this but if you're careful about where you drop them your opponent may have a hard time dealing with them.
 
-Load-out: No drop-pod options but you need to consider your dreadnoughts. Don't take these for Contemptors or Deredeos. With Levithans I like melta in drop pods, normally I recommend Storm cannons, but having the ability to shoot Demolisher shots the turn they come down is very nice. But really I think these are best with Saturnine Dreadnoughts, either configuration. Saturnine dreads are very tough, very slow, and very short range, all perfect things to line up with these drop pods.
+**Load-out:**  No drop-pod options but you need to consider your dreadnoughts. Don't take these for Contemptors or Deredeos. With Leviathans I like melta in drop pods, normally I recommend Storm cannons, but having the ability to shoot Demolisher shots the turn they come down is very nice. But really I think these are best with Saturnine Dreadnoughts, either configuration. Saturnine dreads are very tough, very slow, and very short range, all perfect things to line up with these drop pods.
 
 ### Termite: B+
-Gameplay: The Termite is a unique subterranean deep striking unit. This only matters in the Subterranean Assault Formation but is kinda neat regardless. The Termite is a blend of Rhino and Drop Pod. After coming down (up?) on turn 2 they're able to move around, albeit slowly the rest of the game. I think these are generally superior to Drop Pods. If you're taking them in-formation you can disrupt enemy units you appear near, and even outside of it the fact that the model can move around allows it to do some of the Rhino's tricks, though generally with reduced effectiveness. I think 2 extra points over a Drop Pod is well worth it, 4 points more than a Rhino makes a direct comparison harder.
+**Gameplay:** The Termite is a unique subterranean deep striking unit. This only matters in the Subterranean Assault Formation but is kind of neat regardless. The Termite is a blend of Rhino and Drop Pod. After coming down (up?) on turn 2 they're able to move around, albeit slowly, the rest of the game. I think these are generally superior to Drop Pods. If you're taking them in-formation you can disrupt enemy units you appear near, and even outside of it the fact that the model can move around allows it to do some of the Rhino's tricks, though generally with reduced effectiveness. I think 2 extra points over a Drop Pod is well worth it, 4 points more than a Rhino makes a direct comparison harder.
 
-Load-out: No options here. As with Drop Pods, plasma marines will punch above their weight.
+**Load-out:**  No options here. As with Drop Pods, plasma marines will punch above their weight.
 
-Modeling: I've not built these so don't have any advice. One thing I'll note here is they're half the (dollar) cost of Drop Pods so if you're interested in adding some deep strikers to your force these are far more cost effective.
+**Modeling:**  I've not built these so don't have any advice. One thing I'll note here is they're half the (dollar) cost of Drop Pods so if you're interested in adding some deep strikers to your force these are far more cost effective.
 
-# Appendix A - Legion Rules
+## Appendix A - Legion Rules
 
 I’ll start these reviews off looking at legion rules. I’m going to evaluate each legion based on how effective their rule is, how it impacts your list building, and how effective the rule is for an allied formation.
 
@@ -556,9 +563,9 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Rule summary:** If a detachment has three types (e.g. Core, Battle Tank, Support) you can pick a rule that will apply to Infantry, Cavalry, or Vehicle. Infantry gain Implacable (don’t run away when losing combat) and Phosphex (no CAF bonus when defending against them). Cavalry gain Outflank (deploy from sides of table). Vehicles gain Nimble (ignore difficult terrain).
 
-**Gameplay:** The infantry bonus is great, you become a lot better at defending garrisons and a lot better at assaulting them. The Cavalry bonus is hard to use, getting multiple units outside Sky-Hunter Phalanx is hard and the Sky-Hunter Phalanx can't activate the Dark Angels rule.. However Outflank is very good so if you’re running Cavalry it’s one of the better legions for it. The vehicle bonus I think is pretty underwhelming. I don’t find Imperialis players to use a lot of difficult terrain, and even if they are, tanks are pretty mobile.
+**Gameplay:** The infantry bonus is great, you become a lot better at defending garrisons and a lot better at assaulting them. The Cavalry bonus is hard to use, getting multiple units outside Sky-Hunter Phalanx is hard and the Sky-Hunter Phalanx can't activate the Dark Angels rule. However Outflank is very good so if you’re running Cavalry it’s one of the better legions for it. The vehicle bonus I think is pretty underwhelming. I don’t find Imperialis players to use a lot of difficult terrain, and even if they are, tanks are pretty mobile.
 
-**List-building:** This is a pretty restrictive ability. Some formations like Super-heavy Spearhead will not be able to use it, and some others you’ll need to conciously make sure to hit the three detachment types. It also wants you to over-weight toward one of the unit types so you have a lot of infantry to get the bonus, etc.
+**List-building:** This is a pretty restrictive ability. Some formations like Super-heavy Spearhead will not be able to use it, and some others you’ll need to consciously make sure to hit the three detachment types. It also wants you to weight toward one of the unit types so you have a lot of infantry to get the bonus, etc.
 
 **Splashability:** If you’re looking for a small space marine allied detachment as objective holders a Dark Angels Legion Demi-company meets the requirements for this and will give your infantry two great keywords.
 
@@ -570,9 +577,9 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Rule summary:** Once per game, before rolling you can take initiative.
 
-**Gameplay:** Not a lot to say here, this one is a shame because it’s possible the best in the game as an ally, and kinda underwhelming as a primary. Being able to pick a turn where you get initiative is extremely strong, there can be some very important charge turns, or just getting first fire when super heavies are lighting each other up can be huge.
+**Gameplay:** Not a lot to say here, this one is a shame because it’s possibly the best in the game as an ally, and kind of underwhelming as a primary. Being able to pick a turn where you get initiative is extremely strong, there can be some very important charge turns, or just getting first fire when super heavies are lighting each other up can be huge.
 
-**List-building:** Another reason not to like this, doesn’t really lend anything to army construction. First turn is most likely to matter if there are a lot of important charges or crazy shooting units so maybe bring a titan or some kinght lancers? I dunno, this ability is good but kinda bums me out.
+**List-building:** Another reason not to like this, doesn’t really lend anything to army construction. First turn is most likely to matter if there are a lot of important charges or crazy shooting units so maybe bring a titan or some knight lancers? I dunno, this ability is good but kind of bums me out.
 
 **Splashability:** As already said, this is one of if not the best legions to splash, take a small detachment, win a critical priority roll.
 
@@ -596,11 +603,11 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 ### The Vth Legion - White Scars
 
-**Rule summary:** You get +1 to Jink saves, invunerable saves that appear on flyers, jetbikes, and land speeders.
+**Rule summary:** You get +1 to Jink saves, invulnerable saves that appear on flyers, jetbikes, and land speeders.
 
-**Gameplay:** This is a big buff to those units, but it’s a short list of units. This means that White Scares have some power options but are mostly playing with vanilla marines.
+**Gameplay:** This is a big buff to those units, but it’s a short list of units. This means that White Scars have some power options but are mostly playing with vanilla marines.
 
-**List-building:** It’s kinda obvious here, you want a lot of planes, jetbikes, and land speeders. And all of those are good here. Unfortuntely that’s pretty narrow, none of those units are good at holding ground. White Scars will be at their best as or with allies.
+**List-building:** It’s kind of obvious here, you want a lot of planes, jetbikes, and land speeders. And all of those are good here. Unfortunately that’s pretty narrow, none of those units are good at holding ground. White Scars will be at their best as or with allies.
 
 **Splashability:**
 
@@ -628,9 +635,9 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Gameplay:**  This is good but limited. Many of the weapons on the list don’t yet exist for infantry. It does help some if your infantry are defending a building and overwatching chargers, you can put out a lot of dice and have the reroll.
 
-**List-building:** Take this to spam missile lanuchers. You’ll get a little value from your bolters but most of this value comes from missile launchers.
+**List-building:** Take this to spam missile launchers. You’ll get a little value from your bolters but most of this value comes from missile launchers.
 
-**Splashability:** I keep bringing this up, but a fist Demi-company loaded with missiles launchers is a little too good. The rating below is in part based on that and it is not higher because that’s one very specific formation.
+**Splashability:** I keep bringing this up, but an Imperial Fists Demi-company loaded with missile launchers is a little too good. The rating below is in part based on that and it is not higher because that’s one very specific formation.
 
 **Primary Force: B+**
 
@@ -638,7 +645,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 ### The VIIIth Legion - Night Lords
 
-**Rule summary:** This thing is a mess and GW needs to rewrite it. If you kill a marine or solar auxilia HQ enemy units within 4” suffer 3 hits for each starting wound of that model.
+**Rule summary:** This thing is a mess and GW needs to rewrite it. If you kill a marine or Solar Auxilia HQ, enemy units within 4” suffer 3 hits for each starting wound of that model.
 
 **Gameplay:** This is hard to use, awkward, and mostly relies on your opponent mis-positioning. A real disaster of a legion trait.
 
@@ -668,11 +675,11 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Rule summary:** Feel No Pain works against Light AT in addition to Light Weapons. Also, if an Iron Warriors vehicle is hit by an enemy using First Fire orders, worsen the AP by 1 (e.g. AP -3 becomes AP -2).
 
-**Gameplay:** This is really good! I think both would be underwhelming on their own, but combined you’re a rare legion where almost all of your units can get a buff. Both may sound like they’ll come up rarely but there are a lot of Light AT weapons, and making your infantry more resliant to them is nice. And the first fire downside your opponent is legitimate. Very few legions buff their vehicles in a meaningful way, and Iron Hands are one of them.
+**Gameplay:** This is really good! I think both would be underwhelming on their own, but combined you’re a rare legion where almost all of your units can get a buff. Both may sound like they’ll come up rarely but there are a lot of Light AT weapons, and making your infantry more resilient to them is nice. And the First Fire downside for your opponent is legitimate. Very few legions buff their vehicles in a meaningful way, and Iron Hands are one of them.
 
-**List-building:** Try and fit in a lot of Feel No Pain with plent of tactical detachments and command squads. I’d be happy to start Iron Hands with a pair of Demi-companies. Keep in mind that you can join commanders to support infantry units to give them Feel No Pain.
+**List-building:** Try and fit in a lot of Feel No Pain with plenty of tactical detachments and command squads. I’d be happy to start Iron Hands with a pair of Demi-companies. Keep in mind that you can join commanders to support infantry units to give them Feel No Pain.
 
-**Splashability:** As a generalist legion there isn’t much reason to splash them. My only real consideration would be an Iron Hands deatchment full of tanks trying to take advantage of the First Fire rule.
+**Splashability:** As a generalist legion there isn’t much reason to splash them. My only real consideration would be an Iron Hands detachment full of tanks trying to take advantage of the First Fire rule.
 
 **Primary Force: B+**
 
@@ -682,9 +689,11 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Rule summary:** You can reroll 1d6 in close combat for infantry, cavalry, and walkers.
 
-**Gameplay:** This is really good. World Eaters are THE close combat legion. When rolling 2d6 this works out to an average of 10 rather than 7. This is huge, almost as good as Rend adding a d6. When playing you can think of your units having +3 CAF. This means your Tacticals are odds-on favorites to beat Terminators. This also means you’ve got the best cavalry in the game, I’d take World Eaters over White Scars here because your bikes become huge close combat threats.
+**Gameplay:** This is really good. World Eaters are THE close combat legion. When rolling a dice in 2d6 this works out to an average of 8.1 rather than 7. The actual math is better for you because you decide on the reroll after the dice are down so if you don't need it you can keep your winning roll, and if you need to reroll a 4 hoping to get a 5 you can give it a try. If we consider a simple set of rules: World Eaters will reroll when losing, and will reroll ties if they have a 1 or 2 to reroll you end up with the 2d6 math of: 60% wins, 11.5% ties, 28.5% loss. That is quite simplifier as we're not considering CAF, but when equal CAF you're going to beat them more than twice as often as they beat you.
 
-**List-building:** Avoid spending too much on tanks. Assault marines are amazing. Terminators are good. Tactical marines are weirdly amazing also. Cavalry units are worth taking as long range chargers. Dreadnoughts get a smaller buff than you’d think as they already have a very good CAF.
+This is great. When playing you can think of your units having +1.5 CAF. All your infantry are now heavily advantaged against similar units. This means you’ve got the best cavalry in the game, I’d take World Eaters over White Scars here because your bikes become huge close combat threats.
+
+**List-building:** Avoid spending too much on tanks. Assault marines are amazing. Terminators are good. Tactical marines are good. Cavalry units are worth taking as long range chargers. Dreadnoughts get a smaller buff than you’d think as they already have a very good CAF, though this bonus gets mathematically better when you have Rend. However this does also really pump up Saturnine Terminators and dreadnoughts, both have a middling CAF so giving these expensive short range units this bonus is nice.
 
 **Splashability:** If you want to bring some close combat into a force you can’t do better.
 
@@ -696,7 +705,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Rule summary:** Re-roll hits rolls of 1 if the target has already been hit by another unit from this formation this turn.
 
-**Gameplay:** This is a pretty stratighforward and good ability. Rerolls are rare in the game and you should try and take advantage of them. Small detachments can be helpful to start the re-roll chain. Likewise long-range weapons will make it easier to trigger this by having more units shooting the same targets.
+**Gameplay:** This is a pretty straightforward and good ability. Rerolls are rare in the game and you should try and take advantage of them. Small detachments can be helpful to start the re-roll chain. Likewise long-range weapons will make it easier to trigger this by having more units shooting the same targets.
 
 **List-building:** This rewards large formations to maximize the number of times you reroll 1s. You also want to have plenty of smaller detachments to start this rule going. This also rewards transports, Rhinos or Termites can trigger this against any target, even if they can't harm it.
 
@@ -708,13 +717,13 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 ### The XIVth Legion - Death Guard
 
-**Rule summary:** You do not suffer hits from Dangerious Terrain. You get to pick two areas of terrain to be Dangerous Terrain. Alternatively each of these can become a building that is Dangerous Terrain.
+**Rule summary:** You do not suffer hits from Dangerous Terrain. You get to pick two areas of terrain to be Dangerous Terrain. Alternatively each of these can become a building that is Dangerous Terrain.
 
-**Gameplay:** I’ll be honest, this kinda underwhelming. If you make a building dangerous when your opponent moves out or in, they’ll take 1 hit. Also there is -1 to shooting when in Dangerious Terrain. The best thing is it turns off cover saves, but it does not turn off the penalty to shoot a garrisoned unit.
+**Gameplay:** I’ll be honest, this is kind of underwhelming. If you make a building dangerous when your opponent moves out or in, they’ll take 1 hit. Also there is -1 to shooting when in Dangerous Terrain. The best thing is it turns off cover saves, but it does not turn off the penalty to shoot a garrisoned unit.
 
 **List-building:** Not really any impact on your list, anti-building is a little less important, and shooting into buildings with normal weapons is a little better.
 
-**Splashability:** This is a lot more appealing as a splash as you get the most importnat part of the rule (picking terrain) without commiting your list to Death Guard.
+**Splashability:** This is a lot more appealing as a splash as you get the most important part of the rule (picking terrain) without committing your list to Death Guard.
 
 **Primary Force: D**
 
@@ -722,7 +731,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 ### The XVth Legion - Thousand Sons
 
-**Rule summary:** Commander unints get Shield Generator 6+ (an invunerablity save bubble).
+**Rule summary:** Commander units get Shield Generator 6+ (an invulnerable save bubble).
 
 **Gameplay:** This is not as bad as it seems. But it’s not very good. A 6+ is nothing to laugh at, and this and the Palisade Drop Pod are the only ways to get it. The issue is that you rarely lose your entire save. You’ll be taking a lot of 6+ saves just with your normal armor.
 
@@ -740,7 +749,7 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **Gameplay:** This is a very narrow bonus that can help a little but overall is underwhelming. You need to be very short range and on the advance order. One place this helps is Overwatch but rerolling 1s on Overwatch isn’t that exciting.
 
-**List-building:** You want fast, light units. I think Sons of Horus kinda push themselves toward favoring close combat. As units with Light Light AT weapons can still threaten tanks in close combat. A lot of infantry pushing up the board is going to be the default.
+**List-building:** You want fast, light units. I think Sons of Horus kind of push themselves toward favoring close combat, as units with Light and Light AT weapons can still threaten tanks in close combat. A lot of infantry pushing up the board is going to be the default.
 
 **Splashability:** Low, I don’t really see wanting to bring this rule into another force.
 
@@ -750,11 +759,11 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 ### The XVIIth Legion - Word Bearers
 
-**Rule summary:** Your detachments never count as broken for issuing orders. You also ignore Dread Aura a special rule on one unit in the game.
+**Rule summary:** Your detachments never count as broken for issuing orders. You also ignore Dread Aura, a special rule on one unit in the game.
 
-**Gameplay:** This isn’t bad, being able to keep any order means breaking is less bad, though it still causes moral issues.
+**Gameplay:** This isn’t bad, being able to keep any order means breaking is less bad, though it still causes morale issues.
 
-**List-building:** Smaller deatchments make more sense, otherwise this not a huge factor in your list.
+**List-building:** Smaller detachments make more sense, otherwise this is not a huge factor in your list.
 
 **Splashability:** This isn’t really an appealing ability to splash.
 
@@ -764,13 +773,13 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 ### The XVIIIth Legion - Salamanders
 
-**Rule summary:** Take moral checks with an extra d6 choosing what you want. Everything gains Implacable.
+**Rule summary:** Take morale checks with an extra d6 choosing what you want. Everything gains Implacable.
 
-**Gameplay:** I think Salamanders are fantastic. They can mostly ignore moral if not broken, and when broken have a 75% chance of making it. Implacable is also a great rule for infantry and not bad for other units. It means you're very hard to get out of buildings, but remember you can just choose to withdraw if you want.
+**Gameplay:** I think Salamanders are fantastic. They can mostly ignore morale if not broken, and when broken have a 75% chance of making it. Implacable is also a great rule for infantry and not bad for other units. It means you're very hard to get out of buildings, but remember you can just choose to withdraw if you want.
 
 **List-building:** Do what feels right. I think these are very strong all-around rules. Note that generally you want to avoid 2-model detachments, but for Salamanders that’s not much of a risk.
 
-**Splashability:** I think Salamanders are great, you can splash infantry like with Dark Angels. Or they can splash a Super-Heavy Spearhead with pairs of Typhons and Cerbaruses taking advantage of that formation’s extra weapon.
+**Splashability:** I think Salamanders are great, you can splash infantry like with Dark Angels. Or they can splash a Super-Heavy Spearhead with pairs of Typhons and Cerberuses taking advantage of that formation’s extra weapon.
 
 **Primary Force: A-**
 
@@ -798,16 +807,124 @@ I’ll start off by saying these rules are all over the place. Generally I’d s
 
 **List-building:** Bring lots of formations. Smaller formations are best to maximize your legion rule. Walkers with infiltrate are fantastic due to their low range and slow speed.
 
-**Splashability:** You are pretty limited in infiltration with allied Alpha Legion. They’re still good, but not as strong a splash as Raven Guard, and not as strong as Alpha Legion primary.
+**Splashability:** Note that the 3/1 split is based on if your Primary Army List is Astartes or not. If your main list is space marines, whatever legion, you can go with the 3 per detachment. If your main list is Solar Auxilia or something else, you get the 1. That's the reason for the split rating below. In Astartes lists they're the best, in other lists they're a bit more fair. 
 
 **Primary Force: S+**
 
-**Allied Detachment: A-**
+**Allied Detachment: B/S+**
 
-# Appendix B - Formations (Coming Soon)
+## Appendix B - Formations
+I don't think the S-D tier list makes sense for formations, raw power doesn't change much between them as most don't have special rules. So for these we're going to change the rating system to:
 
-# Appendix C - Changelog
+Staple: You'll use this a lot and taking 2 isn't uncommon
+Niche: This formation has a use but for a specific plan or with specific models
+Underwhelming: This is a formation that has some major downsides or is outclassed by another choice, but unlike with units you typically won't be handicapped by taking an underpowered formation
 
+### Demi-Company: Staple
+Special Rules: None
+Compulsory: HQ, 2x Core Support
+Optional: Core, Bastion, 2x Support, Vanguard, 2x Transport, Dedicated Transport (Rhinos)
+Up to one: Light Armour, Air Support
+Up to one: Artillery, Battle Tank, Heavy Armour
+
+The core formation for space marines, the Demi-Company is fantastic. You start with a block of infantry and have a lot of options for dreadnoughts and tanks. It also has a Bastion and Vanguard slot, both fairly rare. I'd say it's weakness is with tank slots. You can take one unit of Battle Tanks or Heavy Armour, not both. This means that Astartes will often want to take a dedicated armoured formation.
+
+Regardless, the demi-company is great and you should take one most games, taking two is also very viable. This is also a great formation to bring from a secondary legion if you want to splash in their special rules. It's also the most flexible formation for transports, you could bring four different kinds if you wanted to, with plenty of infantry slots to go with them.
+
+### Garrison Force: Underwhelming
+Special Rules: None
+Compulsory: HQ, Core, Bastion, Support
+Optional: 2x Bastion, Core, Artillery, 2x Support, Air Support
+Up to one: Heavy Armour, Artillery
+
+There is nothing wrong with this formation but it's a hard sell compared to some others. It has a lot of overlap with the Demi-company but you trade away transport slots and some flexibility to add more Bastions. This might be okay but for the Legion Aegis Defense Strongpoint we'll cover below. If you do want to load up on Bastions I think that is far more appealing.
+
+This formation is most useful if you want to infiltrate a lot of Tarantulas or Rapiers up the board with your legion rules, for those legions this formation trumps the Aegis Defense Line.
+
+### Armoured Company: Staple
+Special Rules: None
+Compulsory: HQ (tank), 3x Battle Tank, Heavy Armour
+Optional: 2x Battle Tank, Light Armour, Heavy Armour
+Up to one: Air Support, Heavy Armour
+
+This formation goes very well with the Demi-Company, covering the lack of armour slots in that formation. The largest downside is that the three Battle Tank slots that are required is a big investment in a unit type that has limited good options for the marines. Their best tanks tend to be super heavies, and the best Battle Tanks are Sicarans which are expensive for their durability. Because of this balance I'll often lean toward a Super-Heavy Spearhead over this, despite it losing a lot of flexibility.
+
+### Aerial Assault: Niche
+Special Rules: All infantry must take a dedicated (flying) transport, and must start the game embarked on it.
+Compulsory: HQ, 2x Core, Support
+Optional: Core, 2x Support, Vanguard, 2x Air Support, Dedicated (Storm Eagles), Dedicated (Thunderhawks)
+
+A unique formation the Aerial Assault formation is what you take to get a lot of infantry into planes. And unfortunately that's of limited value, it's a very expensive, fragile way to move units. The biggest upside of this formation is that it gives you 2 Air Support slots, and you can take Thunderhawks, so if you want to overload your opponent with marine flyers this is the place to go. However it has a pretty big downside needing to take 2 Core units in expensive aerial transports. This is a formation that becomes very appealing to World Eaters or White Scars but is otherwise rarely worth taking.
+
+### Sky-Hunter Phalanx: Niche
+Special Rules: All of your compulsory vanguard slots must take Jetbikes/Land Speeders/Javelins, and all of those models in this formation gain Outflank.
+Compulsory: 4x Vanguard (no Outriders)
+Optional: 2x Light Armour, Vanguard, Air Support
+
+This is a very good formation, it's niche because it's very narrow, but it's very good in that niche. Vanguard slots are very hard to come by and here we get a massive 5, along with Outflank for most of them. The Air Support slot is nice, but the 2 Light Armor slots will rarely be filled. For this formation you have a lot of options and in the hands of some legions it is extremely good.
+
+### Drop Pod Assault: Underwhelming
+Special Rules: All infantry and walkers must take drop pods.
+Compulsory: HQ, 2x Core, Support
+Optional: 2x Core, 2x Support, Air Support, Dedicated Transports (Drop Pods), Dedicated Transports (Dreadnought Drop Pods)
+
+This formation really feels like it needs some kind of special rule to buff the units. The Demi-Company can do 90% of what this formation can do, with a lot more flexibility. I'm not really sure when you'd take this over that, outside of thematic reasons.
+
+### Heavy Assault Spearhead: Underwhelming
+Special Rules: All infantry need to be in Land Raiders or Spartans.
+Compulsory: 2x Core (Terminators), 2x Core (Terminators or Dreadnoughts)
+Optional: 2x Battle Tank, 2x Heavy Armour, Air Support, Dedicated Transport (Land Raiders), Dedicated Transport (Spartans)
+
+Another formation that would really benefit from giving some kind of special rule as a bonus. This one is more unique than the Drop Pod Assault, a Demi-Company can't match this. But you also wouldn't really want to. You're getting a lot of Terminators in very expensive transports. Normally Terminators can Deep Strike, which is great because it's free. Here you're paying 35 points a stand for transports which adds up really fast. This is a fun, thematic formation, but there isn't much reason to take it outside of theme.
+
+### Subterranean Assault: Niche
+Special Rules: All infantry must take Termites. When Termites arrive on the battlefield enemies within 6" have a chance to suffer Quake.
+Compulsory: HQ, 2x Core, Support
+Optional: 2x Core, 2x Support, Dedicated Transport (Termites)
+
+This is what Drop Pod Assault should be, this is a niche, restrictive formation, but if you're taking infantry in Termites this is the way to go. The Quake bonus isn't huge but it's nice when it comes up and rewards you for committing to this formation. I think Termites are pretty good and this formation offers them some extra value. This is also a great splash formation, a few squads in Termites that can show up anywhere you need them with special rules of your choice.
+
+### Saturnine Heavy Assault Cadre: Niche
+Special Rules: Every unit in this formation needs "Saturnine" in its name. In return for that all infantry gain Deep Strike, and they all Deep Strike to the same place on the Battlefield.
+Compulsory: HQ (Saturnine), 2x Support (Saturnine Terminators)
+Optional: 2x Support (Saturnine Terminators), 2x Bastion (Saturnine Dreads)
+
+Now this is one hell of an upgrade. Giving your expensive, Very Bulky, 4" move infantry Deep Strike is great. This is the best way to take Saturnine Terminators. The Deep Strike works a little differently from most, they all Deep Strike on the same turn, and all have to land within 6" of the command squad. The wording on this is a bit vague, my understanding is you place the command squad down first, scatter it, then its unit comes in. Then other squads come down, with their first model within 6" of the command squad, they then scatter as normal.
+
+The formation's optional slots start to make things look a little worse. Saturnine Dreadnoughts are slow and short range so really want a transport, which would have to come from another formation. Taking more Terminators risks overloading on a small section of the battlefield. I think this formation is best when it takes just the required units with 3 or 6 model units of Terminators.
+
+### Super-Heavy Spearhead: Niche to Staple
+Special Rules: Units with two or more models gain an additional weapon with range -1, Rend, and Wrecker.
+Compulsory: 3x Heavy Armour
+Optional:2x Heavy Armour, 1x Air Support
+
+This is a very good formation. The best space marine tanks are the Cerberus and Typhon and this lets you load up on both, which are good in small unit sizes. The special rule isn't bad but can be hard to use. Outside of Salamanders I don't recommend 2 model units, so you're looking at 3 or 4 pretty expensive tanks to take advantage of this. I view it as a nice side benefit, if you can get it, not something to build to. I'll also note here that at AP -1 the Wrecker is not very useful, but you can try and knock off a remaining wound if your squad of Typhons somehow didn't collapse a building with their guns.
+
+### Aegis Defense Strongpoint: Niche
+Special Rules: Bastion detachments can only take Araknae or Tarantulas, and they can not use infiltrate. Araknae models gain Point Defense on all their weapons.
+Compulsory: HQ, Core, 2x Bastion (Araknae/Tarantula)
+Optional: Support, Artillery, 2x Bastion (Araknae/Tarantula)
+
+This is rated Niche because you only want it when you want to take Araknae, but if you're taking Araknae you want them in this formation. Point Defense is huge for the autocannons or punisher cannons. It makes them absolute monsters of Overwatch. Possibly the bigger gain, for all three platforms, is the ability to fire during the movement phase. If issued with an Advance order (so no First Fire) you can activate these platforms during the movement phase, not move (obviously), but take your point defense shots at full BS. For the autocannon/punisher versions this doesn't offer much over Overwatching. For the Frag missiles it's somewhat transformative. Due to their keywords they can't fire Overwatch, but with this formation they can fire when activated in the movement phase. This is huge for area denial. If your opponent moves infantry and transports into range you can shoot at the infantry after they get out of the transports.
+
+Outside of the Araknae this is not a formation you want to take. Tarantulas don't get any benefit and in the legions that can Infiltrate they get a downgrade. Your various infantry options don't get transport slots.
+
+### Brethren of Iron: Underwhelming
+Special Rules: Support Formation (1 Support Formation per normal Astartes formation), lots of slot limitations which I'll list below. Mechanicum units in this formation do not gain your legion trait but have Line (+2 Tactical Strength) while within 8" of marines from this formation. Additionally, Mechanicum units have Cybernetica Cortex (limited orders) unless they are within range of an HQ or Core marine unit from this detachment which gain Cortex Controller.
+Compulsory: HQ (Astartes), 2x Core (Tactical Detachment or Thallax)
+Optional: Core (Tactical Detachment or Thallax), Bastion (Mechanicum), 2x Support (Mechanicum)
+Choice: Support (Mechanicum) OR 2x Vanguard (Mechanicum)
+
+God, this is a lot to cover. So first note, as a Support Formation you can't make these the center of your force, but it's a way to take some Mechanicum units without them being allies. First thing I'll note is that you're incentivised to take Tactical Detachments in the Core slots to gain Cortex Controller units. Next thing I'll note is that this isn't a very exciting formation. You can't take the best Mechanicum units, and allies in Imperialis are pretty permissive.
+
+End of the day, this is a cool formation and if you want some blue Thallax for your Ultramarines this is a way to do it. But it's not a very competitive choice compared to the generally strong marine options.
+
+## Appendix C - Iconic Formations (Coming Soon)
+
+## Appendix D - Changelog
+
+### 2026-04-04: v1.02
+Fixed some typos and similar issues, added formations.
 ### 2026-03-30: v1.01
 Moved around a number of rankings based on feedback.
 ### 2026-03-29: v1.0

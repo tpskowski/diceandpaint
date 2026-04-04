@@ -21,6 +21,7 @@ export const primaryNav: NavGroup[] = [
     items: [
       { label: "Legions Imperialis Buyers Guide", href: "/guides/legions-imperialis-buyers-guide/" },
       { label: "Legiones Astartes Review", href: "/guides/legions-imperialis-legiones-astartes-review/" },
+      { label: "Solar Auxilia Guide", href: "/guides/legions-imperialis-solar-auxila/" },
     ],
   },
   {
