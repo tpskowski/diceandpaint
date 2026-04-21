@@ -1,6 +1,6 @@
 ---
 title: "March 2026 in Gaming"
-summary: "Draft month-in-gaming roundup covering tabletop sessions, Legions Imperialis games, reading, and hobby plans from March 2026."
+summary: "Month-in-gaming roundup covering tabletop sessions, Legions Imperialis games, reading, and hobby plans from March 2026."
 publishDate: "2026-03-29T15:35:05-04:00"
 category: "month-in-gaming"
 tags:

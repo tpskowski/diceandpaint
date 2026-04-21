@@ -5,11 +5,16 @@ import "../styles/global.css";
 interface Props {
   title: string;
   description: string;
+  image?: string;
+  imageAlt?: string;
   pageClass?: string;
   headerMode?: "sticky" | "overlay";
 }
 
-const { title, description, pageClass = "", headerMode = "sticky" } = Astro.props;
+const { title, description, image, imageAlt, pageClass = "", headerMode = "sticky" } = Astro.props;
+const siteUrl = Astro.site ?? Astro.url;
+const pageUrl = Astro.site ? new URL(Astro.url.pathname, Astro.site).toString() : Astro.url.toString();
+const socialImage = image ? new URL(image, siteUrl).toString() : undefined;
 ---
 <!doctype html>
 <html lang="en">
@@ -17,6 +22,18 @@ const { title, description, pageClass = "", headerMode = "sticky" } = Astro.prop
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={description} />
+    <meta property="og:site_name" content="Dice & Paint" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={pageUrl} />
+    <meta property="og:type" content="website" />
+    {socialImage && <meta property="og:image" content={socialImage} />}
+    {socialImage && imageAlt && <meta property="og:image:alt" content={imageAlt} />}
+    <meta name="twitter:card" content={socialImage ? "summary_large_image" : "summary"} />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    {socialImage && <meta name="twitter:image" content={socialImage} />}
+    {socialImage && imageAlt && <meta name="twitter:image:alt" content={imageAlt} />}
     <link rel="alternate" type="application/rss+xml" title="Dice & Paint RSS Feed" href="/rss.xml" />
     <title>{title}</title>
   </head>

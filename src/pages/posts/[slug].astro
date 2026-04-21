@@ -20,7 +20,12 @@ const formattedDate = entry.data.publishDate.toLocaleDateString("en-US", {
   day: "numeric",
 });
 ---
-<BaseLayout title={`${entry.data.title} | Dice & Paint`} description={entry.data.summary}>
+<BaseLayout
+  title={`${entry.data.title} | Dice & Paint`}
+  description={entry.data.summary}
+  image={entry.data.thumbnail}
+  imageAlt={entry.data.thumbnailAlt}
+>
   <main class="post-page" id="page-top">
     <header class="post-page__header">
       <p class="post-page__meta">{entry.data.category} <span aria-hidden="true">/</span> {formattedDate}</p>
