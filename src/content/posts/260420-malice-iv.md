@@ -48,7 +48,7 @@ One final small note, ally cap was set to 750 rather than the 690 it would be ru
 
 # List Building
 
-I can up with a few general ideas.  I started with a space marine list heavy on super heavies that had some Saturnine Terminators deeps striking on turn 2. But outside of the first mission I don’t actually care about that. I then considered a points-denial list, this would have been very few activations (8) but all my units would be very hard to kill. I kinda think this would have been unbeatable in missions 2 & 3, while struggling in the first. I decided to skip it for this reason, I’m looking to take a good list, but not too good. I briefly considered bringing a titan list, I think it will be very strong for this event packet and very, very hard to beat in games 2/3. But I didn’t really feel like painting titans and I don’t have a good set up titans painted to run a primary detachment of them.
+I came up with a few general ideas.  I started with a space marine list heavy on super heavies that had some Saturnine Terminators deep striking on turn 2. But outside of the first mission I don’t actually care about that. I then considered a points-denial list, this would have been very few activations (8) but all my units would be very hard to kill. I kinda think this would have been unbeatable in missions 2 & 3, while struggling in the first. I decided to skip it for this reason, I’m looking to take a good list, but not too good. I briefly considered bringing a titan list, I think it will be very strong for this event packet and very, very hard to beat in games 2/3. But I didn’t really feel like painting titans and I don’t have a good set of titans painted to run a primary detachment of them.
 
 Where I ended up first was a list built around space marine armour.
 
@@ -99,19 +99,19 @@ So with that crushing defeat I went back to the drawing board and came up with:
         1 Stormhammer - Tank Commander 115pts (Lascannons)
         1 Malcador Infernus 60pts (Autocannon)
         1 Malcador Infernus 60pts (Autocannon)
-        1 Marader Colossus Bomber 85pts (2x Skystrike Missiles)
+        1 Marauder Colossus Bomber 85pts (2x Skystrike Missiles)
 
     Blood Angels Legion Super-Heavy Spearhead 725pts
         4 Typhon 280pts (Heavy Bolters)
-        1 Cereberus 85pts (Lascannons)
-        1 Cereberus 85pts (Lascannons)
-        1 Cereberus 85pts (Lascannons)
+        1 Cerberus 85pts (Lascannons)
+        1 Cerberus 85pts (Lascannons)
+        1 Cerberus 85pts (Lascannons)
         2 Fire Raptor 190pts (Lascannons)
 
 
-After the drubbing I got I switched to Solar Auxilia and loaded up for tanks. On reflection this was an over reaction and I ended up having some issues with infantry which were more numerious than I expected. The idea of the list is I can get over half my force down on turn 1, and it has range to start picking off targets on turn one. And that worked throughout the event. Typically the marines would come on turn 2, and the smaller Solar Aux formation on turn 3.
+After the drubbing I got I switched to Solar Auxilia and loaded up for tanks. On reflection this was an overreaction and I ended up having some issues with infantry which were more numerous than I expected. The idea of the list is I can get over half my force down on turn 1, and it has range to start picking off targets on turn one. And that worked throughout the event. Typically the marines would come on turn 2, and the smaller Solar Aux formation on turn 3.
 
-The list worked very well, I maxed out the activation count at 16 which is just so important in this game. Being able to run away from infantry with your tanks is hugely important and if you have activation advantage you can. My models were very expensive with only 35 models across the list, so I had to take a lot of single model squads to make that happen. And I think they worked really well. The single model squads were all legitimate threats on their own, the Shadowswords did great work this event killing a lot of 2 or 3 wound models, and even putting some wounds on a titan. The Malcadors were able to threaten infantry, and while they didn't do a ton of damage over the event having the threat of them and the cheaper activations was very useful. Then the stand out single models were really the Cerberuses. I don't think I missed a shock pulse all event and being able to really hand those out was great.
+The list worked very well, I maxed out the activation count at 16 which is just so important in this game. Being able to run away from infantry with your tanks is hugely important and if you have activation advantage you can. My models were very expensive with only 35 models across the list, so I had to take a lot of single model squads to make that happen. And I think they worked really well. The single model squads were all legitimate threats on their own, the Shadowswords did great work this event killing a lot of 2 or 3 wound models, and even putting some wounds on a titan. The Malcadors were able to threaten infantry, and while they didn't do a ton of damage over the event having the threat of them and the cheaper activations was very useful. Then the standout single models were really the Cerberuses. I don't think I missed a shock pulse all event and being able to really hand those out was great.
 
 I knew with this list that the first game, the objective game would be pretty difficult and that was borne out by the game, but more on that later.
 
@@ -121,7 +121,7 @@ I have two regrets with this list, first I did over-index into killing tanks. I 
 
 As I changed lists I ended up going way overboard on painting for this event. I painted 5 Stormhammers from the first list that I didn't need, and I started painting a ton of Blood Angel tanks that are currently half-finished.
 
-In the end finished
+In the end, I finished:
 8 Leman Russ Vanquishers
 6 Stormhammers
 6 Malcador Infernus
@@ -130,7 +130,7 @@ In the end finished
 4 Cerberus
 2 Shadowsword
 
-And I'm really happy with that. I'm bad with finishing projects so having event deadlines to get me to finish stuff is great. Legions Imperialis tanks paint up so fast. These were also the first 8mm Blood Angels I'd finished. I ended up using a variant of me 32mm Blood Angels scheme which relies on black primer, then stippling up brighter and brighter reds. I wasn't sure how it'd read at 8mm but I'm very happy with the result.
+And I'm really happy with that. I'm bad with finishing projects so having event deadlines to get me to finish stuff is great. Legions Imperialis tanks paint up so fast. These were also the first 8mm Blood Angels I'd finished. I ended up using a variant of my 32mm Blood Angels scheme which relies on black primer, then stippling up brighter and brighter reds. I wasn't sure how it'd read at 8mm but I'm very happy with the result.
 
 ![](/posts/260420-malice-iv/solar_aux_painted.jpg)
 
@@ -144,29 +144,29 @@ The TO had brought donuts which was nice, I ended up having time to walk across 
 ![](/posts/260420-malice-iv/round_one.jpg)
 
 
-Round one was the round I was most concerned with. A game about objectives is not going to favor my tanks. Luke brought a list that was pretty good into my list on this. He couldn't keep up with my shooting but having 2 units of Terminators in Spartans, and 2 tactical detachments deep striking in Termites. 
+Round one was the round I was most concerned with. A game about objectives is not going to favor my tanks. Luke brought a list that was pretty good into my list on this. He couldn't keep up with my shooting but had 2 units of Terminators in Spartans, and 2 tactical detachments deep striking in Termites. 
 
-The points in this game played out sort of in reverse. early turns he was beating my by 10-20 points, but I was wiping out huge chunks of his army each turn. He didn't have any AA units so my planes had pretty free reign and they spent most turns targeting units on objectives.
+The points in this game played out sort of in reverse. Early turns he was beating me by 10-20 points, but I was wiping out huge chunks of his army each turn. He didn't have any AA units so my planes had pretty free reign and they spent most turns targeting units on objectives.
 
 His infantry got to my side of the table which was a big problem and I spent turns 3-4 running away from them with my tanks. This game did turn up a situation that proved very strong due to this event's death cloud rules. I had a Marauder Colossus and his infantry couldn't get into a building because I'd blow it up, so they had to stay outside weathering the gas.
 
-Luke was in the lead until turn 5. On Turn 5 he was down to only 2 units and I was well behind but was able to capture 5/6 objetives, this gave me a small lead on points, which was cemented with my secondary objective (blowing up all his tanks).
+Luke was in the lead until turn 5. On Turn 5 he was down to only 2 units and I was well behind but was able to capture 5/6 objectives, this gave me a small lead on points, which was cemented with my secondary objective (blowing up all his tanks).
 
-Luke was a great opponent and I had fun, it was a stand matchup due to our lists and the mission but while I ended up tabling him it felt close on points down to the last turn.
+Luke was a great opponent and I had fun, it was a strange matchup due to our lists and the mission but while I ended up tabling him it felt close on points down to the last turn.
 
-# Round Two - Max's Solar Auxila & Salimanders
+# Round Two - Max's Solar Auxilia & Salamanders
 ![](/posts/260420-malice-iv/round_two.jpg)
 
-Max had brought Solar Auxillia as his main force and a detachment of Salimanders in Land Raiders as allies. We were now on the kill stuff missions and the first turn went my way in that regard, but then things slowed down in the mid game. Turns 2 & 3 were most notable for very bad offensive die rolls from both of us.
+Max had brought Solar Auxilia as his main force and a detachment of Salamanders in Land Raiders as allies. We were now on the kill stuff missions and the first turn went my way in that regard, but then things slowed down in the mid game. Turns 2 & 3 were most notable for very bad offensive die rolls from both of us.
 
-I think the most notable thing is how long Max's Salimanders held on. It was a formation of 5 units and at one point 4 of them were still alive, all on a single model. This partly was down to dice rolls but I also needed to do a better job focusing things.
+I think the most notable thing is how long Max's Salamanders held on. It was a formation of 5 units and at one point 4 of them were still alive, all on a single model. This partly was down to dice rolls but I also needed to do a better job focusing things.
 
 We only finished 4 rounds in this but again my secondary points were to kill tanks and carried the day.
 
 # Round Three - Chris' Mechanicum & Mechs
 ![](/posts/260420-malice-iv/round_three.jpg)
 
-I have a huge amount of respect for Chris bringing a Warmaster Iconoclast Heavy Battle Titan. If you're familiar with the term Distraction Carnifex, this is the Distraction Carnifex to end all Carnifexes. It's got a 1+ save, 8 wounds, 12 void shields, and it's utterly terrible. At movement speed 6 it is going to need several turns to get into combat and most units can just run away. When you consider how tall it is it's also easy to just shred it with your whole army. I think Chris has taken one two events in a row and I really hope it gets into combat one of these days.
+I have a huge amount of respect for Chris bringing a Warmaster Iconoclast Heavy Battle Titan. If you're familiar with the term Distraction Carnifex, this is the Distraction Carnifex to end all Carnifexes. It's got a 1+ save, 8 wounds, 12 void shields, and it's utterly terrible. At movement speed 6 it is going to need several turns to get into combat and most units can just run away. When you consider how tall it is it's also easy to just shred it with your whole army. I think Chris has taken one to two events in a row and I really hope it gets into combat one of these days.
 
 The rest of his list was a shooty Warlord Titan, a smattering of infantry, and a good number of tanks. Turn one went much as you might expect, my army full of anti-tank weapons exploded his 850 point titan. I also managed to take out a central building with a unit in it and those combined really left the center of the board, between our two armies wide open.
 
@@ -174,9 +174,9 @@ Chris was doing some serious damage while this happened. His Warlord was taking 
 
 # Wrap-Up
 
-I had a lot of fun at this event, having a different set up rules to build to is very fun. I think I leaned into this more than most and it did lead to some things being a little lopsided in some games. The event had a good mix of armies. I've not done well in pervious Imperialis events but won all three games this time which felt good though I do fear my list was too strong and lead to some less than fun moments. 
+I had a lot of fun at this event, having a different rules setup to build to is very fun. I think I leaned into this more than most and it did lead to some things being a little lopsided in some games. The event had a good mix of armies. I've not done well in previous Imperialis events but won all three games this time which felt good though I do fear my list was too strong and led to some less than fun moments. 
 
-I didn't win best loyalist because I think we had another 3-0 who probably ran up a much higher score in round one, and on the day it seems like traitors were well and truely thrashed. I do think packets should try and aim for games where points scored are relevatively consistant across missions, if points are being used for this type of ranking. Here there were more points on offer in round one then the next two missions combined.
+I didn't win best loyalist because I think we had another 3-0 who probably ran up a much higher score in round one, and on the day it seems like traitors were well and truly thrashed. I do think packets should try and aim for games where points scored are relatively consistent across missions, if points are being used for this type of ranking. Here there were more points on offer in round one than the next two missions combined.
 
 None of my opponents brought aircraft or AA. I think aircraft are much better than AA but skipping both really did let my planes do exactly what they wanted to, whenever they wanted to.
 
