@@ -477,6 +477,44 @@ b {
   padding-left: 1.2rem;
 }
 
+.page-shell blockquote {
+  margin: 1.6rem 0;
+  padding-left: 1.15rem;
+  border-left: 0.18rem solid color-mix(in srgb, var(--c-aqua) 45%, var(--line));
+  color: var(--muted);
+  overflow-wrap: anywhere;
+}
+
+.page-shell blockquote > :first-child {
+  margin-top: 0;
+}
+
+.page-shell blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+.page-shell pre,
+.page-shell pre.astro-code {
+  max-width: 100%;
+  min-width: 0;
+  overflow-x: hidden !important;
+  white-space: pre-wrap !important;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+.page-shell pre code,
+.page-shell pre .line,
+.page-shell pre span {
+  white-space: inherit !important;
+  overflow-wrap: inherit;
+  word-break: inherit;
+}
+
+.page-shell pre .line {
+  display: block;
+}
+
 .library-listing {
   display: grid;
   gap: 1.6rem;
