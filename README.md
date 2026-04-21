@@ -26,7 +26,8 @@ Astro-based static site for the migrated Dice & Paint archive.
 - `/posts/[slug]/` renders blog posts from `src/pages/posts/[slug].astro`.
 - `src/pages/[...slug].astro` renders all standalone page content from `src/content/pages/`, including nested folder indexes.
 - `/library/` lists non-hidden standalone pages.
-- `/rss.xml` exposes the blog RSS feed for published posts.
+- `/rss.xml` exposes the canonical blog RSS feed for published posts.
+- `/blog?format=rss` is supported as a legacy Squarespace-style feed URL by serving the same RSS payload from `/blog`.
 
 ## Key files
 

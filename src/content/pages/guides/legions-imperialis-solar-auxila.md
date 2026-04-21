@@ -15,8 +15,6 @@ In these reviews I want to cover:
 4. Anything to be aware of when purchasing and modeling a unit?
 5. Are there other units that perform a similar role?
 
-At the end I've also included a Legion Trait review, I'll be adding another for Formations in the future.
-
 ### What This Review Won’t Cover
 
 I’m not going to spend too much time on units-per-legion. I’ll make a few notes when I think it matters, but I won’t cover when a particular legion makes something better, unless I mention in that unit review.
@@ -170,7 +168,7 @@ So, back to the Cyclops, it has 9" movement which is good, but it can't march th
 
 ### Aethon Heavy Sentinel: B
 
-**Gameplay:** Our only vanguard choice is this walker. It's a very cheap unit at 17.5 points/model at minimum size and 12.5 at max size. They can be fielded in units of 2-8, and are pretty fast with movement 7" with Forward Deployment. With Save 4+ and CAF +0 they're quite squishy. It's armed with a multilaser and missile launcher. The missile launcher is an odd paired profile, both 20". The first option is 2 dice, 5+ to hit, and Light. The second option is 1 dice, 4+ to hit, -1 AP, Ignores Cover, and Anti-tank. Pairing Ignores Cover and Anti-tank makes this something of a confused weapon, but any Ignores Cover weapon can be useful into garrisoned infantry, even if we're losing the -1 AP here.
+**Gameplay:** Our only vanguard choice is this walker. It's a very cheap unit at 17.5 points/model at minimum size and 12.5 at max size. They can be fielded in units of 2-8, and are pretty fast with movement 7" with Forward Deployment. With Save 4+ and CAF +0 they're quite squishy. It's armed with a multilaser and missile launcher. The missile launcher is a paired profile, both 20". The first option is 2 dice, 5+ to hit, and Light. The second option is 1 dice, 4+ to hit, -1 AP, Anti-tank. 
 
 The weapon loadout is actually pretty effective. These models are cheap enough that despite having less than optimal profiles you get enough attacks it adds up. A full unit of 8 is only 100 points and deal 2.2 wounds to a 2+ tank (45 pts/wound), or 3.5 wounds to space marine infantry (29 pts/wound). These are good numbers, but they're off-set by the short range and low durability. But overall this is a flexible unit that can help problem-solve for you and I think you'll rarely regret taking them.
 
@@ -335,7 +333,7 @@ The unit's rating reflects plans to hit on a 4+, if you want to spend all game r
 
 **Modeling:**  It's certainly possible to magnetize the gun for this and the Medusa. If you consider that worth your time is not a decision I can make for you.
 
-### Medusa: B-
+### Medusa: B
 
 **Gameplay:** This is a pretty hard one to judge. While it's in the artillery section and shares a stat line with the Basilisk it couldn't be more different. The Medusa is a dedicated building-hunter. The gun's profile is very similar to a demolisher cannon but we swap Demolisher for Heavy Barrage. Heavy Barrage means that the gun can hit the building, and after damaging or destroying the building it uses half its dice (rounded up). As the Medusa siege gun is a 1 dice weapon that means you get full dice against the building and unit. This should hopefully wipe both out, though note if the building still stands you do not have Ignores Cover.
 

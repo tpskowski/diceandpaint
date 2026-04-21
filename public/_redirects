@@ -1,0 +1,11 @@
+# Feed aliases and legacy Squarespace paths.
+/feed /rss.xml 301
+/feed/ /rss.xml 301
+/feed.xml /rss.xml 301
+/rss /rss.xml 301
+/rss/ /rss.xml 301
+/blog/ /blog 301
+/blog/category/* / 301
+/blog/tag/* / 301
+/blog/:slug /posts/:slug/ 301
+/blog/:slug/ /posts/:slug/ 301
