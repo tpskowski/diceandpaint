@@ -150,17 +150,27 @@ Ogryn are the best close combat units in the game, so being able to take them is
 **Modeling:** See above sections, the Tercio mixes together unit types so do keep your different squads distinct, even when mixing in command models and the like.
 
 
-### Cyclops: B
+### Cyclops: C+
 
-**Gameplay:** We now reach units that can't go in the Tercio (this would be a fun one...) and the Cyclops is a unique unit in Imperialis. These are tiny tanks that go boom. You have to pick a weapon for them which can be a Demolisher weapon with AP -1 and no negative keywords, or a Light AT weapon also at -1 AP which has Ignores Cover. I recommend the latter, I'm a huge fan of Demolisher but at AP -1 these are not bringing down buildings. The first profile is more useful versus tanks but AP -1 is still not great into tanks. Oh, I should also mention they have Blast (3"). This is a very rare rule in LI and what it means is you can drive these tanks within 1" of your enemies then detonate them, when do you, they won't scatter.
+**Gameplay:** We now reach units that can't go in the Tercio and the Cyclops is a unique unit in Imperialis. These are tiny tanks that go boom. You have to pick a weapon for them which can be a Demolisher weapon with AP -1 and no negative keywords, or a Light AT weapon also at -1 AP which has Ignores Cover. Both have Blast. We'll come back to them.
 
-They are pretty good overall. If 10 infantry stands are in a building, touching the building will result in about 3.3 being hit (4+ to suffer the attack, 3+ to hit). If you've taken the Ignores Cover profile you'll do a lot of damage. Note there is some lack of clarity on timing of template weapons, see the Malcador Infernus below for more on this.
+The unit itself has Compact, which lets it act as a Bulky infantry for transports, which is pretty cool. It also has Remote Controlled Detonation which is a complicated rule that we need to break down.
 
-So, back to the Cyclops, it has 9" movement which is good, but it can't march the turn it intends to explode. It only has a 5+ save but being a vehicle it is immune to small arms fire. A CAF of -8 means that you need to be very careful to not get charged, which is tricky when you want to end up next to something to blow it up. A cagey enemy may leave infantry in a building on charge orders in case your Cyclopes come in. However if they do leave the building to charge your demolition squad those infantry will be out of cover.
+Remote Controlled Detonation allows the Cyclops, at the end of their movement, to elect to blow up, placing a 3" blast template within 3" of each model. It does not scatter. However, there is a huge downside. This only works when they end movement within 12" of a Commander. This can be a Solar Aux or allied one, so it's a little flexible, but it also really limits where you can use them. They have 9" movement and can detonate after marching, but that's often not that helpful when they need to be near a commander. I think if this rule required them to be within 12" at the start or end of the movement they'd be a lot better.
 
-**Load-out:**  Again, I much prefer the Ignores Cover profile. The Demolisher profile is a bigger threat to vehicles but not to buildings and at AP -1 and against fast, mobile targets I think it loses value. For squad size I recommend 4. You typically want to "march and hide" on turn one and having a full 6 makes it much harder to tuck in behind something. If you're playing without regard for activation limits taking a bunch of 2-model squads is fine, but if you are dealing with activation limits I'd advise against this as you'll find yourself heavily out-activated on turn 3+.
+That said, there are still a lot of very interesting tricks with these. The first is, if they have a March/Charge/Advance order, you do not want to charge them. Those orders allow a Pile-in move, and at the end of that move you can detonate them. Don't try and trick your opponent with this, but be aware of it, they can be very annoying in a chokepoint. Note: the above could probably use an FAQ to clarify that is how it works, but that's my reading.
 
-**Modeling:**  No notes, these guys are fun and quick to put together. You do only get 4 per box so if you want swarms of them you're looking at a lot of support boxes.
+The next trick is much rarer and cooler. You can keep some Cyclopses behind a garrisoned building as counter-chargers. After your opponent charges the building you have garrisoned you can move the Cyclopses to the enemy unit and detonate. When you do, the blast template can be placed such that the central hole does not cover the building, but the template may touch the building and the unit which charged it. Blast weapons only impact the units inside a building if the hole is over the building, so this is why I like Incendiary Charges over Demolition Charges, though the odds of the demo charges taking the building down are quite low. Anyway, this works because while you can't target engaged units, blast doesn't target. So what works well here is have an infantry unit with a commander holding a building, and if they get charged, bring the Cyclopses hiding behind the building around and decimate the enemy infantry while leaving yours untouched.
+
+Now, this needs an even bigger "needs a FAQ" note, as it's extremely clear RAW that this is legal, but it does potentially go against the spirit of the targeting rules, and doesn't work in most other games. I think it's legal and cool but your opponent may disagree on both points.
+
+Another trick with these is you can do a split-charge. These models are Scale 2 meaning they're pretty good at tying things up in a charge. If you want to tie up a unit you can charge with the Cyclops, detonate one of the two models, and keep the other around in the combat. It will lose the combat, very hard, but that's fine, the goal was to pin down a unit, and with the split charge/detonation you get that and a little damage.
+
+End of the day the Cyclops is a strange little unit with a lot of neat tricks but a big limitation on where you can use it. I think they're fun but are not a top tier choice.
+
+**Load-out:**  Again, I much prefer the Ignores Cover profile. The Demolisher profile is a bigger threat to vehicles but not to buildings and at AP -1 and against fast, mobile targets I think it loses value. For squad size I recommend 2. You typically want to "march and hide" with these and a small squad makes that easier.
+
+**Modeling:**  No notes, these guys are fun and quick to put together.
 
 ## Auxilia Vanguard
 
